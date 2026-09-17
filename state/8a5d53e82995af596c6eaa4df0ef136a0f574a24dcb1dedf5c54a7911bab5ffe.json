@@ -2,17 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.nerima.tokyo.jp/kusei/pubcom/oshirase/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:19.7539365+00:00",
+  "updatedUtc": "2026-09-17T05:21:34.9636644+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "d057d83e2b6e90df2ba1d8f3eb795019",
       "title": "子どもたちのご意見を募集します",
+      "firstUrl": "https://www.city.nerima.tokyo.jp/nerimakids/joho/boshu/child_pubcom/index.html",
+      "currentUrl": "https://www.city.nerima.tokyo.jp/nerimakids/joho/boshu/child_pubcom/index.html",
       "firstSeenAt": "2026-09-17T04:48:19.7549499+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T04:00:19Z"
+    "lastModifiedUtc": "2026-09-17T05:00:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

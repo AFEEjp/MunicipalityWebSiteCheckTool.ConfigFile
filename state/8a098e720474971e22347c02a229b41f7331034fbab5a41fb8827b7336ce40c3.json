@@ -2,17 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.nerima.tokyo.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T04:48:45.4236543+00:00",
+  "updatedUtc": "2026-09-17T05:21:50.2132901+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "581eb929c4220d2900249791da53f283",
       "title": "【報道発表資料】中学生が自由に意見表明！ 練馬子ども議会「子ども提言発表会」を開催します！",
+      "firstUrl": "https://www.city.nerima.tokyo.jp/kusei/koho/hodo/r8/r807/20260729.html",
+      "currentUrl": "https://www.city.nerima.tokyo.jp/kusei/koho/hodo/r8/r807/20260729.html",
       "firstSeenAt": "2026-09-17T04:48:45.4246471+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T04:00:01Z"
+    "lastModifiedUtc": "2026-09-17T05:00:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

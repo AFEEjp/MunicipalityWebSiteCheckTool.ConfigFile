@@ -2,17 +2,21 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagawa.lg.jp/cgi-bin/page/list.php?tpl_type=2\u0026page_type=9",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:32.2803608+00:00",
+  "updatedUtc": "2026-09-17T05:21:42.2798153+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "78c7854c9bb4a825c4875667a6278bd3",
       "title": "香川県こども計画（素案）のパブリック・コメント（意見公募）実施結果",
+      "firstUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2026_02_12.html",
+      "currentUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2026_02_12.html",
       "firstSeenAt": "2026-09-17T04:48:32.281321+00:00"
     },
     {
       "key": "df4a95bf171aed2bf41d69352eca64bf",
       "title": "香川県こども計画（素案）についてパブリック・コメント（意見公募）を実施します",
+      "firstUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2025_11_25.html",
+      "currentUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2025_11_25.html",
       "firstSeenAt": "2026-09-17T04:48:32.2814147+00:00"
     }
   ],

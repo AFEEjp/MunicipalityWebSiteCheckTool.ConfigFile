@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.tottori.lg.jp/publiccomment/",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:33.5277223+00:00",
+  "updatedUtc": "2026-09-17T05:21:43.4118554+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T04:48:33Z"
+    "lastModifiedUtc": "2026-09-17T05:21:43Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
@@ -14,7 +14,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "javascript-redirect|89a3a1f6003a6166d7a2dfd0e72755cfa074bd0f669a3cd021d440a4c249a734",
-    "consecutiveCount": 1,
+    "consecutiveCount": 2,
     "lastReason": "javascript-redirect",
     "lastCandidateUrl": "https://www.pref.tottori.lg.jp/241581.htm?qs=",
     "lastConfidence": "high",

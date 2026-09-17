@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/bj00/10105.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:22.2905864+00:00",
+  "updatedUtc": "2026-09-17T05:21:36.1614053+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,6 +22,7 @@
     }
   ],
   "httpCache": {
+    "eTag": "\u00228051-65b65e833af76\u0022",
     "lastModifiedUtc": "2026-09-13T23:45:05Z"
   },
   "consecutiveFailures": 0,

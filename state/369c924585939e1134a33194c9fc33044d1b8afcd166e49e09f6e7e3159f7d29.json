@@ -2,28 +2,34 @@
   "version": 1,
   "feedUrl": "https://www.pref.kumamoto.jp/life/sub/7/index-2.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:22.7155535+00:00",
+  "updatedUtc": "2026-09-17T05:21:36.5470251+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "20a65f51ed7c954031251db0b16b70e0",
       "title": "「第6次熊本県男女共同参画計画（素案）」に関する意見募集の結果および県の考え方について",
+      "firstUrl": "https://www.pref.kumamoto.jp/soshiki/56/256520.html",
+      "currentUrl": "https://www.pref.kumamoto.jp/soshiki/56/256520.html",
       "firstSeenAt": "2026-09-17T04:48:22.7165805+00:00"
     },
     {
       "key": "93661c0721be37172c24fe54968d226c",
       "title": "「こどもまんなか熊本・実現計画」中間整理に関する意見募集の結果及び県の考え方について",
+      "firstUrl": "https://www.pref.kumamoto.jp/soshiki/35/229783.html",
+      "currentUrl": "https://www.pref.kumamoto.jp/soshiki/35/229783.html",
       "firstSeenAt": "2026-09-17T04:48:22.716644+00:00"
     },
     {
       "key": "ea58153f4cc327ebfaeefad410c0b53d",
       "title": "【終了しました】「こどもまんなか熊本・実現計画」中間整理に関するご意見の募集について",
+      "firstUrl": "https://www.pref.kumamoto.jp/soshiki/35/215777.html",
+      "currentUrl": "https://www.pref.kumamoto.jp/soshiki/35/215777.html",
       "firstSeenAt": "2026-09-17T04:48:22.7166785+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00225dc1-65ba676f8e1c1\u0022",
-    "lastModifiedUtc": "2026-09-17T04:46:18Z"
+    "eTag": "\u00225dc1-65ba6afee7f25\u0022",
+    "lastModifiedUtc": "2026-09-17T05:02:14Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

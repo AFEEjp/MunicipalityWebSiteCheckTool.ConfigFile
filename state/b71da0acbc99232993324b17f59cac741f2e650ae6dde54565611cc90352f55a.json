@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/menu/32767.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:22.2155746+00:00",
+  "updatedUtc": "2026-09-17T05:21:36.1196332+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "11267e68b3505d1cc42f5e0f31825f4a",
+      "title": "令和7年度滋賀県歳入歳出決算、滋賀県土地開発基金運用状況、滋賀県公営企業決算、健全化判断比率および資金不足比率ならびに滋賀県事務適正化（内部統制）評価報告書の審査意見について",
+      "firstUrl": "https://www.pref.shiga.lg.jp/lc00/press-release/33455.html",
+      "currentUrl": "https://www.pref.shiga.lg.jp/lc00/press-release/33455.html",
+      "firstSeenAt": "2026-09-17T05:21:36.123715+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T02:01:13Z"
+    "lastModifiedUtc": "2026-09-17T05:01:27Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

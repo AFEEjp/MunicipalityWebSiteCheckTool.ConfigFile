@@ -2,48 +2,62 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:47:57.7215995+00:00",
+  "updatedUtc": "2026-09-17T05:21:19.4874148+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "ea04490e7eef6d41f4bf2dcaefda53c9",
       "title": "パブリックコメントの実施について（「北海道一時保護委託者の登録等に関する基準を定める条例（仮称）」（素案））子ども政策企画課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/268295.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/268295.html",
       "firstSeenAt": "2026-09-17T04:47:57.7305792+00:00"
     },
     {
       "key": "f7f2a754aa39a7611978cefc3a5a5a98",
       "title": "こどものいけん（計画への意見募集）子ども政策企画課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/kodomopc.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/kodomopc.html",
       "firstSeenAt": "2026-09-17T04:47:57.732095+00:00"
     },
     {
       "key": "43364d4e171ea26bfa3561451409e86e",
       "title": "令和7年度・こどものいけん（計画への意見募集）の結果子ども政策企画課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/255725.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/255725.html",
       "firstSeenAt": "2026-09-17T04:47:57.7325798+00:00"
     },
     {
       "key": "6cb46b518275bf788d37c82d256c97a4",
       "title": "北海道総合計画（案）子ども意見募集（終了しました）総合政策部計画推進課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/ss/sks/public_comment_children.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/ss/sks/public_comment_children.html",
       "firstSeenAt": "2026-09-17T04:47:57.7335857+00:00"
     },
     {
       "key": "7dd08274c9dd2abd343cc471c535a9cd",
       "title": "（パブリックコメント）北海道人権施策推進基本方針環境生活部道民生活課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/ks/dms/jinken/jinken-hp/248512.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/ks/dms/jinken/jinken-hp/248512.html",
       "firstSeenAt": "2026-09-17T04:47:57.7338663+00:00"
     },
     {
       "key": "40c2ec8b268f180d7a0ba2d919bb947e",
       "title": "第３期北海道アルコール健康障害対策推進計画（素案）及び第３期北海道ギャンブル等依存症対策推進計画（素案）に対する道民意見の募集結果について保健福祉部障がい者保健福祉課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/shf/241275.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/shf/241275.html",
       "firstSeenAt": "2026-09-17T04:47:57.7349355+00:00"
     },
     {
       "key": "bd93dc53feb3a42debaf38f54ba25d14",
       "title": "北海道における縄文世界遺産に係る関連事業の全体計画（素案）に対する道民意見の募集について（意見募集は終了しました）環境生活部文化振興課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/ks/bns/240912.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/ks/bns/240912.html",
       "firstSeenAt": "2026-09-17T04:47:57.7353168+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226aab6cf0-7067\u0022",
-    "lastModifiedUtc": "2026-09-17T04:30:40Z"
+    "eTag": "\u00226aab764d-7067\u0022",
+    "lastModifiedUtc": "2026-09-17T05:10:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

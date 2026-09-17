@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/kocho/public/public-jyokyo.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:26.8451138+00:00",
+  "updatedUtc": "2026-09-17T05:21:38.5428962+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "f29e7ebf9b4774276314172a7e75e15f",
       "title": "第６次男女共同参画行動計画(素案)について",
+      "firstUrl": "https://www.city.yokohama.lg.jp/city-info/seisaku/torikumi/danjo/keikaku/kodokeikaku/dai6jikeikaku.html",
+      "currentUrl": "https://www.city.yokohama.lg.jp/city-info/seisaku/torikumi/danjo/keikaku/kodokeikaku/dai6jikeikaku.html",
       "firstSeenAt": "2026-09-17T04:48:26.8494965+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022cae8-65ba3541b946a-gzip\u0022",
-    "lastModifiedUtc": "2026-09-17T01:01:49Z"
+    "eTag": "\u0022cd85-65ba6ae839785-gzip\u0022",
+    "lastModifiedUtc": "2026-09-17T05:01:50Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

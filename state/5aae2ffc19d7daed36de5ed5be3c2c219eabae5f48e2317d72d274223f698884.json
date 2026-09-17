@@ -2,12 +2,14 @@
   "version": 1,
   "feedUrl": "https://www.city.sapporo.jp/new/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T04:48:33.2922921+00:00",
+  "updatedUtc": "2026-09-17T05:21:43.2310873+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "cfd69eebbcf2953de71b5b9c35ebada1",
       "title": "健全化判断比率及び資金不足比率審査意見を掲載しました",
+      "firstUrl": "https://www.city.sapporo.jp/kansa/f02keka/s113kenzenka.html",
+      "currentUrl": "https://www.city.sapporo.jp/kansa/f02keka/s113kenzenka.html",
       "firstSeenAt": "2026-09-17T04:48:33.2945711+00:00"
     }
   ],

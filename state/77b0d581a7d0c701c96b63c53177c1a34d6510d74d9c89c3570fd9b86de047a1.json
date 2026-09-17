@@ -2,22 +2,28 @@
   "version": 1,
   "feedUrl": "https://www.soumu.metro.tokyo.lg.jp/01soumu-johokokaika/jyuyokohyo/2",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:10.6988045+00:00",
+  "updatedUtc": "2026-09-17T05:21:29.8980052+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "ab99fa8015d87489619a9ae73ec77a0d",
       "title": "「東京都男女平等参画推進総合計画（素案）」へのご意見を募集",
+      "firstUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/06/2026060418",
+      "currentUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/06/2026060418",
       "firstSeenAt": "2026-09-17T04:48:10.7077097+00:00"
     },
     {
       "key": "ee65f02722a31a45c1fe5a5ede54a4d9",
       "title": "御意見募集「第五次東京都子供読書活動推進計画（案）」について",
+      "firstUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026021909",
+      "currentUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026021909",
       "firstSeenAt": "2026-09-17T04:48:10.7078437+00:00"
     },
     {
       "key": "94c39fb9992e0f017f62744e993846b3",
       "title": "御意見募集 「（仮称）子供・若者体験活動施設 区部基本計画（案）」について",
+      "firstUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/01/2026011508",
+      "currentUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/01/2026011508",
       "firstSeenAt": "2026-09-17T04:48:10.708023+00:00"
     }
   ],

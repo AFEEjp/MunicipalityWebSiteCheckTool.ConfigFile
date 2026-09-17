@@ -2,10 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.kyoto.jp/comment/",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:47:55.696789+00:00",
+  "updatedUtc": "2026-09-17T05:21:18.3558208+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
+    "eTag": "\u00223adf-65761a81569ea\u0022",
     "lastModifiedUtc": "2026-07-24T21:00:03Z"
   },
   "consecutiveFailures": 0,

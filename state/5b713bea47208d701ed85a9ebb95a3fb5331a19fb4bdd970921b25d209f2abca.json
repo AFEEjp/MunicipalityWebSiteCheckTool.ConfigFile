@@ -2,17 +2,21 @@
   "version": 1,
   "feedUrl": "https://www.city.fukuoka.lg.jp/shisei/iken-teian/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:28.9744867+00:00",
+  "updatedUtc": "2026-09-17T05:21:39.8769429+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "f134bb5c5094b635ab518385e31a9e38",
       "title": "「福岡市男女共同参画基本計画（第５次）」を策定しました 2026年6月1日",
+      "firstUrl": "https://www.city.fukuoka.lg.jp/shimin/danjokyodo/shisei/danjokyodosankakukihonkeikaku5_sakutei.html",
+      "currentUrl": "https://www.city.fukuoka.lg.jp/shimin/danjokyodo/shisei/danjokyodosankakukihonkeikaku5_sakutei.html",
       "firstSeenAt": "2026-09-17T04:48:28.9761054+00:00"
     },
     {
       "key": "782173e25ba49f6a93a7c0954bf83444",
       "title": "「福岡市男女共同参画基本計画（第４次）」を策定しました 2021年7月29日",
+      "firstUrl": "https://www.city.fukuoka.lg.jp/shimin/danjokyodo/shisei/danjokyodosankakukihonkeikaku4_sakutei.html",
+      "currentUrl": "https://www.city.fukuoka.lg.jp/shimin/danjokyodo/shisei/danjokyodosankakukihonkeikaku4_sakutei.html",
       "firstSeenAt": "2026-09-17T04:48:28.9761647+00:00"
     }
   ],

@@ -2,17 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.town.tarui.lg.jp/site/pubkome/",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T04:48:07.303651+00:00",
+  "updatedUtc": "2026-09-17T05:21:27.6459+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "e748b725083acc4645aeb08ce43537c3",
       "title": "「第3期垂井町子ども・子育て支援事業計画（素案）」パブリック・コメント（意見公募）の結果について",
+      "firstUrl": "https://www.town.tarui.lg.jp/site/sukoyaka/12248.html",
+      "currentUrl": "https://www.town.tarui.lg.jp/site/sukoyaka/12248.html",
       "firstSeenAt": "2026-09-17T04:48:07.3060393+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T04:45:14Z"
+    "lastModifiedUtc": "2026-09-17T05:15:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
