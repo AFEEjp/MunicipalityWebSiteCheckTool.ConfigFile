@@ -2,17 +2,18 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyazaki.lg.jp/kense/koho/p-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:26.0784584+00:00",
+  "updatedUtc": "2026-09-17T06:42:53.5167948+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "399650cd4547f44652624382ffd8f334",
       "title": "「宮崎県こども計画（仮称）の素案」に対する意見募集（パブリック・コメント）の結果について",
+      "firstUrl": "https://www.pref.miyazaki.lg.jp/kodomo-seisaku/kyoikukosodate/kodomo/20250204181732.html",
+      "currentUrl": "https://www.pref.miyazaki.lg.jp/kodomo-seisaku/kyoikukosodate/kodomo/20250204181732.html",
       "firstSeenAt": "2026-09-17T04:48:05.7838413+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002269be-65b7a4324562b\u0022",
     "lastModifiedUtc": "2026-09-15T00:02:10Z"
   },
   "consecutiveFailures": 0,

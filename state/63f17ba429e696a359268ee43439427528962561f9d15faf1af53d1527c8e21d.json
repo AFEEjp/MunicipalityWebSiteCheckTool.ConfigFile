@@ -1,13 +1,21 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://web.pref.hyogo.lg.jp/pref/cate3_668.html",
+  "feedUrl": "https://web.pref.hyogo.lg.jp/kk12/ac09_000000032.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:19.3933606+00:00",
+  "updatedUtc": "2026-09-17T06:42:45.0038636+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "f01e22f6a60b611ce55781629d8bdd9a",
+      "title": "〇ひょうご男女いきいきプラン2030（仮称）［第5次兵庫県男女共同計画］（案）",
+      "firstUrl": "https://web.pref.hyogo.lg.jp/kk17/keikaku.html",
+      "currentUrl": "https://web.pref.hyogo.lg.jp/kk17/keikaku.html",
+      "firstSeenAt": "2026-09-17T06:42:45.0186817+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022367b-65a957074c54d\u0022",
-    "lastModifiedUtc": "2026-09-03T15:02:23Z"
+    "eTag": "\u00227036-65a956b6feacf\u0022",
+    "lastModifiedUtc": "2026-09-03T15:00:59Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

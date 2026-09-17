@@ -1,8 +1,8 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.pref.iwate.jp/public_comment/1073736/index.html",
+  "feedUrl": "https://www.pref.iwate.jp/public_comment/1097882/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:28.535611+00:00",
+  "updatedUtc": "2026-09-17T06:42:55.703306+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -49,11 +49,25 @@
       "key": "d3739d75d45d0b831af7753da664b266",
       "title": "いわてこどもプラン（2025～2029）（素案）についての意見募集 募集結果を見る",
       "firstSeenAt": "2026-09-17T04:48:08.141885+00:00"
+    },
+    {
+      "key": "87107ea7ea5f94d1c6f4233c1cdf0c37",
+      "title": "大規模事業再評価に係る意見募集（一般国道107号 白石峠 地域連携道路整備事業（ネットワーク形成型））",
+      "firstUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099521.html",
+      "currentUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099521.html",
+      "firstSeenAt": "2026-09-17T06:42:55.7049946+00:00"
+    },
+    {
+      "key": "df661484968305369e788a51eb59a3bc",
+      "title": "大規模事業事前評価に係る意見募集（一般国道281号 小屋瀬道路 地域連携道路整備事業（ネットワーク形成型））",
+      "firstUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099520.html",
+      "currentUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099520.html",
+      "firstSeenAt": "2026-09-17T06:42:55.705041+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022e013-65ba54eaf615b\u0022",
-    "lastModifiedUtc": "2026-09-17T03:23:28Z"
+    "eTag": "\u00228e27-65ba6fbed9f01\u0022",
+    "lastModifiedUtc": "2026-09-17T05:23:29Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

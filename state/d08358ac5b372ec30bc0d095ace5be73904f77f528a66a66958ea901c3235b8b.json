@@ -2,43 +2,55 @@
   "version": 1,
   "feedUrl": "https://www.city.hino.lg.jp/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:32.4523909+00:00",
+  "updatedUtc": "2026-09-17T06:43:01.3451797+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "c5f4790cf5ece3457aa7d22e9a4e790b",
       "title": "「（仮称）第3期日野市子どもの貧困対策に関する基本方針」に対するパブリックコメントの実施について",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1031806.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1031806.html",
       "firstSeenAt": "2026-09-17T04:48:15.773416+00:00"
     },
     {
       "key": "642249b94dc330e23602595cc11866c1",
       "title": "日野市立児童館条例（改正案）に対するパブリックコメントの実施について",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1031329.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1031329.html",
       "firstSeenAt": "2026-09-17T04:48:15.773443+00:00"
     },
     {
       "key": "309a3efdacc6cc4947c93dca76fd954d",
       "title": "第5次日野市男女平等行動計画に関するパブリックコメントの実施について",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1029750.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1029750.html",
       "firstSeenAt": "2026-09-17T04:48:15.7735534+00:00"
     },
     {
       "key": "7acf0fda787003724a8ad99a171a6b35",
       "title": "「第1期日野市こども計画（第3期日野市子ども・子育て支援事業計画）」に関するパブリックコメントの結果報告",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1027361.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1027361.html",
       "firstSeenAt": "2026-09-17T04:48:15.7736798+00:00"
     },
     {
       "key": "77935c6927fbb72a896715676315579c",
       "title": "日野市子どもオンブズパーソン条例（素案）に関するパブリックコメント",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1024830.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1024830.html",
       "firstSeenAt": "2026-09-17T04:48:15.7737826+00:00"
     },
     {
       "key": "e857434e34c955fba11c2685b11d611a",
       "title": "第2期子どもの貧困対策に関する基本方針（案）に関するパブリックコメントの実施",
+      "firstUrl": "https://www.city.hino.lg.jp/publiccomment/1020087.html",
+      "currentUrl": "https://www.city.hino.lg.jp/publiccomment/1020087.html",
       "firstSeenAt": "2026-09-17T04:48:15.7739624+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022af70-65ba515425acf\u0022",
-    "lastModifiedUtc": "2026-09-17T03:07:24Z"
+    "eTag": "\u0022af70-65ba79adeee97\u0022",
+    "lastModifiedUtc": "2026-09-17T06:07:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

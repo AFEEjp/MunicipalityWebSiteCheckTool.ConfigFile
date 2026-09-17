@@ -1,13 +1,13 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.pref.saitama.lg.jp/a0301/kenminc/bosyuuchuu05.html",
+  "feedUrl": "https://www.pref.saitama.lg.jp/a0301/kenminc/bosyuu.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:21.6473135+00:00",
+  "updatedUtc": "2026-09-17T06:42:48.9145572+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002264f3-6540830d1662e\u0022",
-    "lastModifiedUtc": "2026-06-12T06:00:15Z"
+    "eTag": "\u0022421e-6595d6404ac79\u0022",
+    "lastModifiedUtc": "2026-08-19T02:45:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

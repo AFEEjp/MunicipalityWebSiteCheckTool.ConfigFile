@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.city.kitakyushu.lg.jp/contents/924_01294.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:39.6910692+00:00",
+  "updatedUtc": "2026-09-17T06:43:11.6400734+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "9095f0769369591fbcfbe3946bc2e48c",
+      "title": "北九州市子ども読書プラン（第5次北九州市子ども読書活動推進計画）",
+      "firstUrl": "https://www.city.kitakyushu.lg.jp/kyouiku/323_00013.html",
+      "currentUrl": "https://www.city.kitakyushu.lg.jp/kyouiku/323_00013.html",
+      "firstSeenAt": "2026-09-17T06:43:11.6417694+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
@@ -12,8 +20,10 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|f949167cacc0214f1ff149fc3e7055075be9de299051e446aa03131365f415c7",
-    "consecutiveCount": 2,
+    "consecutiveCount": 3,
     "lastReason": "migration-text-only",
-    "lastConfidence": "low"
+    "lastConfidence": "low",
+    "lastNotifiedFingerprint": "migration-text-only|f949167cacc0214f1ff149fc3e7055075be9de299051e446aa03131365f415c7",
+    "lastNotifiedUtc": "2026-09-17T06:43:11.6399914+00:00"
   }
 }

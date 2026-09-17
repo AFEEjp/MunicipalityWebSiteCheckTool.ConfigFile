@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.okinawa.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T05:21:50.8826914+00:00",
+  "updatedUtc": "2026-09-17T06:43:28.1212823+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "07d4b17f628842eaff11aaf001970a49",
       "title": "こども性暴力防止法の施行に向けたこまもろうシステムマニュアル（素案）について（周知）",
+      "firstUrl": "https://www.pref.okinawa.lg.jp/kyoiku/shogaifukushi/1007022/1018749/1041305.html",
+      "currentUrl": "https://www.pref.okinawa.lg.jp/kyoiku/shogaifukushi/1007022/1018749/1041305.html",
       "firstSeenAt": "2026-09-17T04:48:45.6270392+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022b1d5-65ba63effe8dc\u0022",
-    "lastModifiedUtc": "2026-09-17T04:30:39Z"
+    "eTag": "\u0022b2e9-65ba7ec4f0ba6\u0022",
+    "lastModifiedUtc": "2026-09-17T06:30:42Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

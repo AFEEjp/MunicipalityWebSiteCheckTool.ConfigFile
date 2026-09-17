@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.pref.hiroshima.lg.jp/soshiki/19/1177324369710.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:28.6411895+00:00",
+  "updatedUtc": "2026-09-17T06:42:55.7267272+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "944d1efbd8ca0fce12d0089e299c32be",
+      "title": "広島県人権啓発推進プラン（第６次）",
+      "firstUrl": "https://www.pref.hiroshima.lg.jp/soshiki/42/jinkenplan-publiccomment.html",
+      "currentUrl": "https://www.pref.hiroshima.lg.jp/soshiki/42/jinkenplan-publiccomment.html",
+      "firstSeenAt": "2026-09-17T06:42:55.7281466+00:00"
+    }
+  ],
   "httpCache": {
     "eTag": "\u002277de-65b9bf862439a\u0022",
     "lastModifiedUtc": "2026-09-16T16:15:05Z"

@@ -2,33 +2,41 @@
   "version": 1,
   "feedUrl": "https://www.pref.gifu.lg.jp/page/203.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T05:21:27.0950255+00:00",
+  "updatedUtc": "2026-09-17T06:42:54.6067491+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "d5717e66f0838a1dfa7c35e3b08b0e15",
       "title": "岐阜県こどもの貧困対策実行計画（素案）",
+      "firstUrl": "https://www.pref.gifu.lg.jp/page/402384.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/page/402384.html",
       "firstSeenAt": "2026-09-17T04:48:06.9133387+00:00"
     },
     {
       "key": "72fe00cb4cd737196ece98377f95c9f7",
       "title": "岐阜県子どもの読書活動推進計画（第五次）（案）",
+      "firstUrl": "https://www.pref.gifu.lg.jp/page/400661.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/page/400661.html",
       "firstSeenAt": "2026-09-17T04:48:06.9133975+00:00"
     },
     {
       "key": "739ba470b06a5ed2d86896ce9da014a8",
       "title": "第5次岐阜県青少年健全育成計画（案）",
+      "firstUrl": "https://www.pref.gifu.lg.jp/page/400531.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/page/400531.html",
       "firstSeenAt": "2026-09-17T04:48:06.9134112+00:00"
     },
     {
       "key": "d781e47279121823c2aabb3afb9d8511",
       "title": "岐阜県こども計画（案）",
+      "firstUrl": "https://www.pref.gifu.lg.jp/page/399264.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/page/399264.html",
       "firstSeenAt": "2026-09-17T04:48:06.9134383+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002287fb-65ba51742e7e5\u0022",
-    "lastModifiedUtc": "2026-09-17T03:07:58Z"
+    "eTag": "\u002287fb-65ba79b32e1e8\u0022",
+    "lastModifiedUtc": "2026-09-17T06:08:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
