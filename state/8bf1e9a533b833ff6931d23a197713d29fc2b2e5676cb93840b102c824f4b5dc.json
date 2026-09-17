@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.sagamihara.kanagawa.jp/rss.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T14:56:35.9486477+00:00",
+  "updatedUtc": "2026-09-17T19:00:07.9355157+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "0683ae868b334dec7e811a19bb0d974e",
+      "title": "さがみはら 子ども・若者応援プラン（令和7年度～令和11年度）",
+      "firstUrl": "https://www.city.sagamihara.kanagawa.jp/kosodate/1026602/kosodate/1026604/1018656/1006937/1006940.html",
+      "currentUrl": "https://www.city.sagamihara.kanagawa.jp/kosodate/1026602/kosodate/1026604/1018656/1006937/1006940.html",
+      "firstSeenAt": "2026-09-17T19:00:07.9398809+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022108c3-65b9b28e57610\u0022",
-    "lastModifiedUtc": "2026-09-16T15:17:04Z"
+    "eTag": "\u0022108c6-65baf46484d35\u0022",
+    "lastModifiedUtc": "2026-09-17T15:16:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.hiroshima.lg.jp/shisei/kouchou/1021836/1027503/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T14:56:11.6062908+00:00",
+  "updatedUtc": "2026-09-17T18:59:32.8765109+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -70,7 +70,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-17T10:19:50Z"
+    "lastModifiedUtc": "2026-09-17T15:19:33Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

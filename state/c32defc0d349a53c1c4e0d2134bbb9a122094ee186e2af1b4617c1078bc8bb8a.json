@@ -2,28 +2,34 @@
   "version": 1,
   "feedUrl": "https://www.city.kumamoto.jp/kiji003283/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T14:56:20.4872222+00:00",
+  "updatedUtc": "2026-09-17T18:59:46.3862786+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "8a893ca1cbd082c7c0a6e6478282bf1e",
       "title": "熊本市健全な森づくり推進計画中間見直し（素案）",
+      "firstUrl": "https://www.city.kumamoto.jp/kiji00369801/index.html",
+      "currentUrl": "https://www.city.kumamoto.jp/kiji00369801/index.html",
       "firstSeenAt": "2026-09-17T04:48:25.2411638+00:00"
     },
     {
       "key": "b433de1d89badfd135a69c680d4a2157",
       "title": "熊本市文化芸術推進基本計画（素案）",
+      "firstUrl": "https://www.city.kumamoto.jp/kiji00358621/index.html",
+      "currentUrl": "https://www.city.kumamoto.jp/kiji00358621/index.html",
       "firstSeenAt": "2026-09-17T04:48:25.2413253+00:00"
     },
     {
       "key": "404132691eeb15b2f018f8ed06fd579f",
       "title": "（仮称）熊本市こども計画（素案）",
+      "firstUrl": "https://www.city.kumamoto.jp/kiji00362866/index.html",
+      "currentUrl": "https://www.city.kumamoto.jp/kiji00362866/index.html",
       "firstSeenAt": "2026-09-17T04:48:25.2413778+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00222ba9357ee45dd1:0\u0022",
-    "lastModifiedUtc": "2026-09-16T15:16:26Z"
+    "eTag": "\u002292f79a8cb746dd1:0\u0022",
+    "lastModifiedUtc": "2026-09-17T15:16:44Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

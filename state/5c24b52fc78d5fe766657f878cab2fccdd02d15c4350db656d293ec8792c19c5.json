@@ -2,17 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.pref.ehime.jp/page/7417.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T14:56:11.6736018+00:00",
+  "updatedUtc": "2026-09-17T18:59:33.3074045+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "3db3bef28b6ce7c5b05bc93767cf035d",
       "title": "第3次愛媛県男女共同参画計画中間改定（案）",
+      "firstUrl": "https://www.pref.ehime.jp/page/155694.html",
+      "currentUrl": "https://www.pref.ehime.jp/page/155694.html",
       "firstSeenAt": "2026-09-17T04:48:11.7723757+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-16T16:06:39Z"
+    "lastModifiedUtc": "2026-09-17T16:06:31Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
