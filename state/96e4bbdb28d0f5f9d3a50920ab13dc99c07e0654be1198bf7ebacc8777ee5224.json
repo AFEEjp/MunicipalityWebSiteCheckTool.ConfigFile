@@ -1,0 +1,60 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.ebina.kanagawa.jp/koho/public/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:27.4821322+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "aff5300b275977d63445e90599dbf526",
+      "title": "（仮称）海老名市文化交流拠点整備第1期基本計画（案）に係るパブリックコメントの実施結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4835248+00:00"
+    },
+    {
+      "key": "8edf240964994136f706995c205306a9",
+      "title": "「海老名市こども計画（第3期海老名市子ども・子育て支援事業計画）（案）の策定に係るパブリック・コメント結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4835852+00:00"
+    },
+    {
+      "key": "3db5a9394b08af0fb969882c290ff0f5",
+      "title": "「第2期海老名市子ども・子育て支援事業計画」中間見直し（案）のパブリックコメント実施結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4837158+00:00"
+    },
+    {
+      "key": "80d786bc8d34da031bb07d3b29dc8f50",
+      "title": "第2期海老名市子ども・子育て支援事業計画素案のパブリックコメントの結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4838241+00:00"
+    },
+    {
+      "key": "58cd63ce5485221e12768bc9d85eba26",
+      "title": "第2期海老名市子ども・子育て支援事業計画骨子案のパブリックコメントの結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4838461+00:00"
+    },
+    {
+      "key": "dd9c1684c35c7fa5e9b8da4540f79b0f",
+      "title": "海老名市文化財保護条例の改正に関する意見募集(パブリックコメント）の結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.483909+00:00"
+    },
+    {
+      "key": "a7c28e6de49129fcc6eace5b6ac2e9ad",
+      "title": "「海老名市芸術文化振興ビジョン（指針）（素案）」にかかるパブリックコメントの結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4840284+00:00"
+    },
+    {
+      "key": "32491f6b7ed01f92043857ae7324742e",
+      "title": "海老名市子ども・子育て支援事業計画（案）のパブリック・コメント実施結果について",
+      "firstSeenAt": "2026-09-17T04:48:27.4840705+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022b477-65ba5e4013e4c\u0022",
+    "lastModifiedUtc": "2026-09-17T04:05:13Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

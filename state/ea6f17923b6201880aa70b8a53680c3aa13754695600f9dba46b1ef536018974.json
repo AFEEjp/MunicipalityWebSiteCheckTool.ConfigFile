@@ -1,0 +1,18 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.soka.saitama.jp/li/060/050/010/030/036/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:02.6657252+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "lastModifiedUtc": "2026-04-27T08:07:52Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

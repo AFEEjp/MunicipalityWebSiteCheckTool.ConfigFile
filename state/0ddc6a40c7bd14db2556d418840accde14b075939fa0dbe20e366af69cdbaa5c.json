@@ -1,0 +1,40 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.kita.lg.jp/city-information/feedback/1014238/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:11.993498+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "4b483631c72829b99b32ad9b75355e28",
+      "title": "北区教育・子ども大綱（案）パブリックコメント実施結果",
+      "firstSeenAt": "2026-09-17T04:48:11.9964358+00:00"
+    },
+    {
+      "key": "5cd3515e5eb11df45c101c3c22cb420b",
+      "title": "第五期北区子ども読書活動推進計画（案）パブリックコメント実施結果",
+      "firstSeenAt": "2026-09-17T04:48:11.9964936+00:00"
+    },
+    {
+      "key": "2cec466a6fa50c03cf6c3aff584190f4",
+      "title": "第3期北区子ども・子育て支援事業計画（案）パブリックコメント実施結果",
+      "firstSeenAt": "2026-09-17T04:48:11.9965252+00:00"
+    },
+    {
+      "key": "cb30612ed5989ec1dfe0a918fc8b6241",
+      "title": "北区男女共同参画行動計画 「第7次アゼリアプラン」中間のまとめ パブリックコメント実施結果",
+      "firstSeenAt": "2026-09-17T04:48:11.9965538+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022e8a1-65ba5180d5cc8\u0022",
+    "lastModifiedUtc": "2026-09-17T03:08:11Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

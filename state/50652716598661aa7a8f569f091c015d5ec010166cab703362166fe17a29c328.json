@@ -1,0 +1,45 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.chiyoda.lg.jp/koho/kuse/sankaku-kyodo/p-comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:13.1607855+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "4cfd3d8bb55b97ee8a326bb96994d527",
+      "title": "千代田区文化芸術プラン（第5次）素案に対する意見募集の結果公表",
+      "firstSeenAt": "2026-09-17T04:48:13.1621375+00:00"
+    },
+    {
+      "key": "1ca47927f966d4f4ff718b234559f972",
+      "title": "第4次千代田区子ども読書活動推進計画（素案）に対する意見募集の結果公表",
+      "firstSeenAt": "2026-09-17T04:48:13.1622401+00:00"
+    },
+    {
+      "key": "8bd71f8f8a0edbbfd899dae03cc37916",
+      "title": "第3期千代田区子ども・子育て支援事業計画（素案）に対する意見の結果公表",
+      "firstSeenAt": "2026-09-17T04:48:13.1623423+00:00"
+    },
+    {
+      "key": "28638696d2b2698ed09a48b282d58ce8",
+      "title": "「（仮称）千代田区教育と文化に関する大綱（案）」および「（仮称）千代田区子育て・教育ビジョン（素案）」に対する意見募集の結果公表",
+      "firstSeenAt": "2026-09-17T04:48:13.1624541+00:00"
+    },
+    {
+      "key": "2de0b128c41c09331e47145459e33c00",
+      "title": "第6次千代田区ジェンダー平等推進行動計画素案に対する意見募集の結果公表",
+      "firstSeenAt": "2026-09-17T04:48:13.1626721+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226c1d-65b9e463d6bbe\u0022",
+    "lastModifiedUtc": "2026-09-16T19:00:01Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.wakayama.lg.jp/whatsnew/news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:35.4114081+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "fa4827d20538135386629957a7391779",
+      "title": "「第四期 和歌山県文化芸術振興基本計画」の策定について",
+      "firstSeenAt": "2026-09-17T04:48:35.4168433+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00222d373-65ba66555fff7\u0022",
+    "lastModifiedUtc": "2026-09-17T04:41:23Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

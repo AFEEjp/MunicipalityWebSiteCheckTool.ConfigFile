@@ -1,0 +1,24 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.aomori.lg.jp/soshiki/soumu/koho/iken.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:31.0599408+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "b40d6c17e0e9de766aa1d9301bd905a8",
+      "title": "青森県青少年健全育成条例の改正（案）の骨子",
+      "firstSeenAt": "2026-09-17T04:48:31.061458+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-11T06:51:14Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

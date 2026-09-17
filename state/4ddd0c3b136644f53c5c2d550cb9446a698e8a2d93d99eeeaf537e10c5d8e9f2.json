@@ -1,0 +1,33 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1028448/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:21.3399701+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "bf99dcae882de5b3b50a32d2da1282cc",
+      "title": "沖縄県こども・若者計画（案）に対する意見募集",
+      "firstSeenAt": "2026-09-17T04:48:21.3417269+00:00"
+    },
+    {
+      "key": "9c2858b519128c80ed32b37c33165b07",
+      "title": "沖縄県ギャンブル等依存症対策推進計画(案)に対する県民意見募集",
+      "firstSeenAt": "2026-09-17T04:48:21.3418414+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022a67a-65ba5f22ac80b\u0022",
+    "lastModifiedUtc": "2026-09-17T04:09:10Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "currentFingerprint": "migration-text-only|3033245df5b5e02d84eb45405b37f36ab1ebf928626cb8e6ac04a0d39a6b75f8",
+    "consecutiveCount": 1,
+    "lastReason": "migration-text-only",
+    "lastConfidence": "low"
+  }
+}

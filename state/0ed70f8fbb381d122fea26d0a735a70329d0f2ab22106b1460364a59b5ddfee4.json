@@ -1,0 +1,30 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.katsushika.lg.jp/opinions/1009924.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:20.2878962+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "0f3c3b72f3a90288124243f2425fc9b2",
+      "title": "葛飾区子ども・若者総合計画（素案）に対する区民意見提出手続（パブリック・コメント手続）の実施結果募集結果はこちらをご覧ください。",
+      "firstSeenAt": "2026-09-17T04:48:20.2911453+00:00"
+    },
+    {
+      "key": "cb3a93bdbf6d4f56aae7c899f6fedbbb",
+      "title": "（仮称）葛飾区子どもの権利条例（素案）に対する区民意見提出手続（パブリック・コメント手続）の実施結果について募集結果はこちらをご覧ください。",
+      "firstSeenAt": "2026-09-17T04:48:20.29127+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022be7b-65ba53adf8ec2\u0022",
+    "lastModifiedUtc": "2026-09-17T03:17:55Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

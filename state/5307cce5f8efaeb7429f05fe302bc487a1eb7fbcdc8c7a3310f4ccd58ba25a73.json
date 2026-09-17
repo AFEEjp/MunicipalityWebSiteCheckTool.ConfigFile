@@ -1,0 +1,29 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.asaka.lg.jp/life/4/38/179/",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:02.2706338+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c8f13cef32a5474d0e94a485b50f7522",
+      "title": "市民コメント（結果） 第4次朝霞市立図書館サービス基本計画・子ども読書活動推進計画（素案）",
+      "firstSeenAt": "2026-09-17T04:48:02.2715593+00:00"
+    },
+    {
+      "key": "99d474fe23027a60472002bdb79136ff",
+      "title": "市民コメント（結果） 第3次朝霞市男女平等推進行動計画（素案）",
+      "firstSeenAt": "2026-09-17T04:48:02.2716293+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-17T04:45:48Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

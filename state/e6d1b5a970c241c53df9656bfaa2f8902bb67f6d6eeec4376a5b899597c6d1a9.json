@@ -1,0 +1,34 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.sendai.jp/kochotoke-kocho/shise/koho/kocho/sonota/comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:05.2288672+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "78f1e7f9b4ec9c55c3db66b84ae5e3a9",
+      "title": "「仙台市太陽光発電事業の健全かつ適正な導入、運用等の促進に関する条例」の改正素案について",
+      "firstSeenAt": "2026-09-17T04:48:05.2306559+00:00"
+    },
+    {
+      "key": "a70df5aabe2df4508478516d40ee1205",
+      "title": "仙台市子ども読書活動推進計画2024（中間案）",
+      "firstSeenAt": "2026-09-17T04:48:05.2309842+00:00"
+    },
+    {
+      "key": "fe42f5ecae171520ab258d89e6c391dc",
+      "title": "仙台・青葉山エリア文化観光交流ビジョン（中間案）",
+      "firstSeenAt": "2026-09-17T04:48:05.2310701+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-02T15:30:10Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,30 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.adachi.tokyo.jp/ku/mado/p-comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:21.6813783+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "8664b46a45245930e92cafd824c595f0",
+      "title": "足立区子ども・若者計画（案）のパブリックコメントの実施について",
+      "firstSeenAt": "2026-09-17T04:48:21.6824954+00:00"
+    },
+    {
+      "key": "6515748e3ed81bcf4d2b3c1895d16e24",
+      "title": "第２次足立区人権推進指針 人権の推進をめざして（素案）",
+      "firstSeenAt": "2026-09-17T04:48:21.6826573+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226bcb-65b7b12f3715d\u0022",
+    "lastModifiedUtc": "2026-09-15T01:00:17Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:44.0034879+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "7d9473801ca2e70efd9b35e71bae43f0",
+      "title": "令和7年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstSeenAt": "2026-09-17T04:48:44.0053647+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002212342-65ba5441870b9\u0022",
+    "lastModifiedUtc": "2026-09-17T03:20:30Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

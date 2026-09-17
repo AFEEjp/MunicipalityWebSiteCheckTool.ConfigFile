@@ -1,0 +1,24 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.nerima.tokyo.jp/kusei/pubcom/oshirase/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:19.7539365+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "d057d83e2b6e90df2ba1d8f3eb795019",
+      "title": "子どもたちのご意見を募集します",
+      "firstSeenAt": "2026-09-17T04:48:19.7549499+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-17T04:00:19Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,34 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.shiga.lg.jp/bj00/10105.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:22.2905864+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "007d9554b073797e5fd4c6d7d6ad1731",
+      "title": "（仮称）パートナーしがプラン2030（滋賀県男女共同参画計画・滋賀県女性活躍推進計画）（原案）のご意見募集の結果ページはこちら",
+      "firstSeenAt": "2026-09-17T04:48:22.291896+00:00"
+    },
+    {
+      "key": "f0e0779def5d74f48631ac01c8ae3c84",
+      "title": "滋賀県文化振興基本方針（第4次）素案のご意見募集の結果ページはこちら",
+      "firstSeenAt": "2026-09-17T04:48:22.2919579+00:00"
+    },
+    {
+      "key": "56f753e0acf709f6e79ed2e099d51854",
+      "title": "滋賀県CO₂ネットゼロ社会づくり推進計画改定（原案）のご意見募集の結果ページはこちら",
+      "firstSeenAt": "2026-09-17T04:48:22.291992+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-13T23:45:05Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

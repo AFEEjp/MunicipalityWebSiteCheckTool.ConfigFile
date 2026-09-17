@@ -1,0 +1,40 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shizuoka.lg.jp/s4367/s007227.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:32.1370127+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "ab5d72d8eddcea5c33f9873583e0814b",
+      "title": "静岡市児童虐待の防止等に関する法律施行細則の一部改正について（案）",
+      "firstSeenAt": "2026-09-17T04:48:32.1381502+00:00"
+    },
+    {
+      "key": "9ea519d55ac0f4285db01e5adf8f4651",
+      "title": "静岡市子ども・子育て支援法等施行規則の一部改正について（案）",
+      "firstSeenAt": "2026-09-17T04:48:32.1381986+00:00"
+    },
+    {
+      "key": "7474e25c4ebea85ec12dcf09f6419ed7",
+      "title": "静岡市児童福祉法等施行細則の一部改正について（案）",
+      "firstSeenAt": "2026-09-17T04:48:32.1382689+00:00"
+    },
+    {
+      "key": "f8e7d5625e9ce316298ea5345af705c0",
+      "title": "児童福祉法第22条第1項に規定する助産の実施、同法第23条第1項に規定する母子保護の実施、同法第27条第1項第3号に規定する措置、同条第2項に規定する委託措置及び同法第33条の6第1項に規定する児童自立生活援助の実施に関する静岡市児童福祉法等施行細則第33条第2項に規定する費用に係る徴収基準を定めた告示の一部改正について（案）",
+      "firstSeenAt": "2026-09-17T04:48:32.1384081+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226b24-6586123e022fb\u0022",
+    "lastModifiedUtc": "2026-08-06T13:48:17Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

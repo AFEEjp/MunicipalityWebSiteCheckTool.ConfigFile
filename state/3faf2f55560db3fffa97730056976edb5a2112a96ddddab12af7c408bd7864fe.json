@@ -1,0 +1,30 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shizuoka.lg.jp/s3247/s007189.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:31.9475131+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "f7cc8c6dbbb5f5307b011fce1ae07be3",
+      "title": "名勝日本平保存活用計画の計画案【歴史文化課】",
+      "firstSeenAt": "2026-09-17T04:48:31.9499997+00:00"
+    },
+    {
+      "key": "a699e158da163ca203f832e6c66e06e9",
+      "title": "名勝三保松原保存活用計画の計画案【文化財課(現：歴史文化課)】",
+      "firstSeenAt": "2026-09-17T04:48:31.9501271+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00225d6f-65b27d5877101\u0022",
+    "lastModifiedUtc": "2026-09-10T21:41:44Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.saitama.lg.jp/news/news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:34.4697846+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00223bad-65ba426de3ab2\u0022",
+    "lastModifiedUtc": "2026-09-17T02:00:45Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

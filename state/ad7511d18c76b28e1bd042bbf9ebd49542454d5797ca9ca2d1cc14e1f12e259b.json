@@ -1,0 +1,35 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.setagaya.lg.jp/shinchaku/shinchaku.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:41.1175524+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "4907a72f70bcfc9acbabc400deefb964",
+      "title": "区のおしらせ「せたがや」令和8年9月15日（仮称）世田谷区いじめの予防及び解消を実現するための子どもの学びと育ちを支える条例（素案）特集号",
+      "firstSeenAt": "2026-09-17T04:48:41.1181355+00:00"
+    },
+    {
+      "key": "5fd3c875c4fcb69457e2b320956a26b1",
+      "title": "区のおしらせ「せたがや」令和8年9月15日世田谷区第三次男女共同参画プラン（素案）特集号",
+      "firstSeenAt": "2026-09-17T04:48:41.1181681+00:00"
+    },
+    {
+      "key": "bdbc1074825eb4c5177f7a2c2f1651b0",
+      "title": "（仮称）世田谷区第三次男女共同参画プラン（素案）の意見募集（パブリックコメント）について",
+      "firstSeenAt": "2026-09-17T04:48:41.1182064+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00228940-65ba38397941b\u0022",
+    "lastModifiedUtc": "2026-09-17T01:15:05Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

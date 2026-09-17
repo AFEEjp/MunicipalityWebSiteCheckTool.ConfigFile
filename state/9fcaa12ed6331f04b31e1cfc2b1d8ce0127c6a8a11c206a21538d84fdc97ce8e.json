@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.hino.lg.jp/rss.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:43.618631+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c5f4790cf5ece3457aa7d22e9a4e790b",
+      "title": "「（仮称）第3期日野市子どもの貧困対策に関する基本方針」に対するパブリックコメントの実施について",
+      "firstSeenAt": "2026-09-17T04:48:43.6195792+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022903e-65ba51ff87e0e\u0022",
+    "lastModifiedUtc": "2026-09-17T03:10:24Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

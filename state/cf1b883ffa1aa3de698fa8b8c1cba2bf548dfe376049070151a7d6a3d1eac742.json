@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.shimane.lg.jp/top_news.rdf",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:39.1074747+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00222174-630efa0a6ef79\u0022",
+    "lastModifiedUtc": "2025-03-22T15:00:10Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.setagaya.lg.jp/02002/7778.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:11.6207208+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "bdbc1074825eb4c5177f7a2c2f1651b0",
+      "title": "世田谷区第三次男女共同参画プラン（素案）",
+      "firstSeenAt": "2026-09-17T04:48:11.6219492+00:00"
+    },
+    {
+      "key": "3caa9e6a9d246a510d2b24fac9c2622d",
+      "title": "（仮称）世田谷区いじめの予防及び解消を実現するための子どもの学びと育ちを支える条例（素案）",
+      "firstSeenAt": "2026-09-17T04:48:11.6220058+00:00"
+    },
+    {
+      "key": "fc409c5fda912d1a94506398910a2401",
+      "title": "世田谷区子どもの権利条例(素案）",
+      "firstSeenAt": "2026-09-17T04:48:11.6221456+00:00"
+    },
+    {
+      "key": "5c70884002ed3c906b7c20acafd3644a",
+      "title": "世田谷区子ども・若者総合計画（第3期）（素案）",
+      "firstSeenAt": "2026-09-17T04:48:11.6221623+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226a0d-65b72b2b0fa75\u0022",
+    "lastModifiedUtc": "2026-09-14T15:00:42Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

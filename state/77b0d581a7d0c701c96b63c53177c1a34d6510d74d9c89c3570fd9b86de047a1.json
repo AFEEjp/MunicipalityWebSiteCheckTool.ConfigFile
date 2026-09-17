@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.soumu.metro.tokyo.lg.jp/01soumu-johokokaika/jyuyokohyo/2",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:10.6988045+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "ab99fa8015d87489619a9ae73ec77a0d",
+      "title": "「東京都男女平等参画推進総合計画（素案）」へのご意見を募集",
+      "firstSeenAt": "2026-09-17T04:48:10.7077097+00:00"
+    },
+    {
+      "key": "ee65f02722a31a45c1fe5a5ede54a4d9",
+      "title": "御意見募集「第五次東京都子供読書活動推進計画（案）」について",
+      "firstSeenAt": "2026-09-17T04:48:10.7078437+00:00"
+    },
+    {
+      "key": "94c39fb9992e0f017f62744e993846b3",
+      "title": "御意見募集 「（仮称）子供・若者体験活動施設 区部基本計画（案）」について",
+      "firstSeenAt": "2026-09-17T04:48:10.708023+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

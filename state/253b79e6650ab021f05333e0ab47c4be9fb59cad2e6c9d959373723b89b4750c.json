@@ -1,0 +1,35 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.fukuoka.lg.jp/life/8/72/259/",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:28.406694+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "68f5be645982833813ed36d731154c43",
+      "title": "福岡県ギャンブル等依存症対策推進計画（案）に対する意見募集の結果について",
+      "firstSeenAt": "2026-09-17T04:48:28.4114486+00:00"
+    },
+    {
+      "key": "dc5aed2349a5ef0e975a45141895500f",
+      "title": "「第２期文化芸術に関する施策を総合的かつ計画的に推進するための基本計画について（答申案）」に対する意見募集結果について",
+      "firstSeenAt": "2026-09-17T04:48:28.4114796+00:00"
+    },
+    {
+      "key": "7498b9e3e4f75e2c7852c96f736c5351",
+      "title": "福岡県児童福祉法施行細則の一部改正案に対する意見公募の実施結果について",
+      "firstSeenAt": "2026-09-17T04:48:28.4117588+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002214246-65ba644fa5e1d\u0022",
+    "lastModifiedUtc": "2026-09-17T04:32:20Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

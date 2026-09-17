@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.okinawa.lg.jp/news.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-17T04:48:45.6259362+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "07d4b17f628842eaff11aaf001970a49",
+      "title": "こども性暴力防止法の施行に向けたこまもろうシステムマニュアル（素案）について（周知）",
+      "firstSeenAt": "2026-09-17T04:48:45.6270392+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022b1d5-65ba63effe8dc\u0022",
+    "lastModifiedUtc": "2026-09-17T04:30:39Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

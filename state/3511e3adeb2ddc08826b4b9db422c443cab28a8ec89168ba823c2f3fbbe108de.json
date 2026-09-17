@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.saga.lg.jp/list00726.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:47:56.1678644+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "19375a463ddf302c40b649e8db0b9804",
+      "title": "佐賀県こども計画のうち、こども施策実行計画（案）についての意見募集結果",
+      "firstSeenAt": "2026-09-17T04:47:56.1959547+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002259e6b914ec45dd1:0\u0022",
+    "lastModifiedUtc": "2026-09-16T15:00:15Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

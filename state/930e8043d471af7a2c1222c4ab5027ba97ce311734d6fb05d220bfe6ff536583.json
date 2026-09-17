@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:23.5563701+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "0e1235fe316ac36fcd3a064c009b51cd",
+      "title": "いしかわ食文化振興行動宣言（案）",
+      "firstSeenAt": "2026-09-17T04:48:23.5582048+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022662c-65ada29c00669\u0022",
+    "lastModifiedUtc": "2026-09-07T01:01:50Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

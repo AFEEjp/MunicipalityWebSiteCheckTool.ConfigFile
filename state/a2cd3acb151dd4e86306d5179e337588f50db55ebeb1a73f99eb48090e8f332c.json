@@ -1,0 +1,34 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.osaka.lg.jp/templates/jorei_boshu/0-Curr.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:04.6056471+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "086273c141261a36a7977e6da5b33737",
+      "title": "「第4次大阪市文化振興計画（案）」",
+      "firstSeenAt": "2026-09-17T04:48:04.6087238+00:00"
+    },
+    {
+      "key": "cbb1b2e7c0618d2f6d20d1dea605efe5",
+      "title": "大阪市AI活用基本方針（案）について",
+      "firstSeenAt": "2026-09-17T04:48:04.6087536+00:00"
+    },
+    {
+      "key": "f10840858c511221b6098557ca1cd51c",
+      "title": "「新たな男女共同参画基本計画～第4次大阪市男女きらめき計画～（素案）」について",
+      "firstSeenAt": "2026-09-17T04:48:04.6087829+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-17T04:02:58Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

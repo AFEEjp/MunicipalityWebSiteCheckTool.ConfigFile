@@ -1,0 +1,64 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.hiroshima.lg.jp/shisei/kouchou/1021836/1027503/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:09.6017828+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "3bd0a3182275a53cadd352dc53c20c4c",
+      "title": "第4次広島市男女共同参画基本計画（素案）に対する市民意見募集の結果",
+      "firstSeenAt": "2026-09-17T04:48:09.604769+00:00"
+    },
+    {
+      "key": "350ca6cb464c73e42b0c044a3e438d98",
+      "title": "【募集は終了しました】第4次広島市男女共同参画基本計画（素案）に対する市民意見募集",
+      "firstSeenAt": "2026-09-17T04:48:09.6048077+00:00"
+    },
+    {
+      "key": "fba048baec65fe121c4ba04555cacf52",
+      "title": "広島市こども・若者計画（仮称）素案に対する市民意見募集の結果",
+      "firstSeenAt": "2026-09-17T04:48:09.6048595+00:00"
+    },
+    {
+      "key": "0e9c0d65997dd0cd0539d0422a7554ee",
+      "title": "「広島市こども・若者計画」に対するこども・若者意見のぼ集結果",
+      "firstSeenAt": "2026-09-17T04:48:09.6048838+00:00"
+    },
+    {
+      "key": "f6ab31033332bfd0662b118493101dce",
+      "title": "【ぼ集は終わりました】こども・若者のみなさんへ「広島市こども・若者計画」について意見をぼ集します！",
+      "firstSeenAt": "2026-09-17T04:48:09.6049175+00:00"
+    },
+    {
+      "key": "c6c04b48e337253f39e86ede5e6b020e",
+      "title": "【募集は終了しました】広島市こども・若者計画(仮称)の素案に対する市民意見を募集します",
+      "firstSeenAt": "2026-09-17T04:48:09.6049519+00:00"
+    },
+    {
+      "key": "e7327e811cb1a1146492a8dc2348fc23",
+      "title": "児童手当又は特例給付の支給に関する事務に係る全項目評価書（案）に対する市民意見の募集結果",
+      "firstSeenAt": "2026-09-17T04:48:09.6051201+00:00"
+    },
+    {
+      "key": "4b681aeff533b2855741aca6fc3186c8",
+      "title": "広島市こども文化科学館展示リニューアル基本構想（案）に対する市民意見募集結果",
+      "firstSeenAt": "2026-09-17T04:48:09.6056618+00:00"
+    },
+    {
+      "key": "606cbdfb83c7019c8a739abb5ed5872e",
+      "title": "第3次広島市男女共同参画基本計画（素案）に対する市民意見募集の結果",
+      "firstSeenAt": "2026-09-17T04:48:09.6056823+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-17T03:19:47Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

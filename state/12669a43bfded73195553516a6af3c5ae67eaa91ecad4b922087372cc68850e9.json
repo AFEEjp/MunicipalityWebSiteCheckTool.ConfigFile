@@ -1,0 +1,24 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:11.3865575+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "b699879fdfee90e6162bbc5d73d94a0c",
+      "title": "「中野区子ども総合計画（案）」についてのパブリック・コメント手続の実施結果",
+      "firstSeenAt": "2026-09-17T04:48:11.3874285+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-09-17T04:30:16Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

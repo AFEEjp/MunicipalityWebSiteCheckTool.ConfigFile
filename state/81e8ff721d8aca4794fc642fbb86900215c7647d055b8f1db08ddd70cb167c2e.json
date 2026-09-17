@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.tsuyama.lg.jp/article?articleId=6660e0594b24e80f69733dd3",
+  "feedType": "html",
+  "updatedUtc": "2026-09-17T04:48:07.8791117+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00221dc09d84-be2\u0022",
+    "lastModifiedUtc": "1985-10-26T08:15:00Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}
