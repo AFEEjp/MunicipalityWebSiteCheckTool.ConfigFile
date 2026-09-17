@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.shibuya.tokyo.jp/contents/news/",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T18:59:39.6359859+00:00",
+  "updatedUtc": "2026-09-17T22:07:32.8416223+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
@@ -12,7 +12,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-link|3819293aead74a60479968187c20dfa842a3b08e74dd6333be43f3d7fd85ee5f",
-    "consecutiveCount": 6,
+    "consecutiveCount": 7,
     "lastReason": "migration-link",
     "lastCandidateUrl": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/gakko-kaiho/new_sports_gakkou.html",
     "lastConfidence": "medium",
