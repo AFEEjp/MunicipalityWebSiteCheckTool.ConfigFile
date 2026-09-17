@@ -1,0 +1,11 @@
+{
+  "id": "6a7189a483ecf6186a6142ff772262791298a249b83229310bf0e8d9ebc2f2d3",
+  "name": "東京都港区",
+  "url": "https://www.city.minato.tokyo.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

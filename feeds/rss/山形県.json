@@ -1,0 +1,11 @@
+{
+  "id": "61fa67e6a88743f389c9b05640232dd7e72b58ff7d0d3d3a72f50aa9713511f0",
+  "name": "山形県",
+  "url": "https://www.pref.yamagata.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

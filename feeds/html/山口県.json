@@ -1,0 +1,11 @@
+{
+  "id": "634f281e5e985b9f67e0fd5063d46075ae4b9945b825735d845d799d53289802",
+  "name": "山口県",
+  "url": "https://www.pref.yamaguchi.lg.jp/soshiki/21/13213.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

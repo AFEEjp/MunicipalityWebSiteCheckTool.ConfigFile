@@ -1,0 +1,11 @@
+{
+  "id": "cff0d576502480772509d7205ad6242b1cd86c2697ff26efd2e3225e2ac9db85",
+  "name": "熊本県",
+  "url": "https://www.pref.kumamoto.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

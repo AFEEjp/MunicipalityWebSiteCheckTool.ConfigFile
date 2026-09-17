@@ -1,0 +1,11 @@
+{
+  "id": "d5ceb70ee4444e50d009fb1a2a997005435d0dea50361d481488c468afa8c02d",
+  "name": "千葉県松戸市",
+  "url": "https://www.city.matsudo.chiba.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

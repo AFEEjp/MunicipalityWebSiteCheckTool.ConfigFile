@@ -1,0 +1,11 @@
+{
+  "id": "da63650aea1a7766ea58db197f58e1d58f4f1bced88fbeb40e7f181f7f06c57d",
+  "name": "岡山県岡山市",
+  "url": "https://www.city.okayama.jp/rss/rss_topics_shisei.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

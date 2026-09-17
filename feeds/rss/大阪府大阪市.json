@@ -1,0 +1,11 @@
+{
+  "id": "d3a2e34898687423954a758363f0fe5cde1e410d1c31306d6a641abd64cdff6f",
+  "name": "大阪府大阪市",
+  "url": "https://www.city.osaka.lg.jp/main/rss/rss.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

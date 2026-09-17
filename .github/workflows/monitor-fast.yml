@@ -1,0 +1,23 @@
+name: monitor-fast
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+      timezone: "Asia/Tokyo"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-state
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    uses: ./.github/workflows/monitor-feed-reusable.yml
+    with:
+      cadence: fast
+      commit-suffix: fast
+      skip-on-holiday: ${{ github.event_name == 'schedule' }}
+    secrets: inherit

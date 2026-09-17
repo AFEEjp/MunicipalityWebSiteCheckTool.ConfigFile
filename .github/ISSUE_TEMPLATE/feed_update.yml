@@ -1,0 +1,123 @@
+name: Feed監視変更・停止
+description: 既存feed設定の変更または停止/再開依頼
+title: "[Feed変更] "
+labels:
+  - config-request
+  - feed
+body:
+  - type: input
+    id: feed_id
+    attributes:
+      label: 対象Feed ID
+      placeholder: 例) tokyo-xxx
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: 変更種別
+      options:
+        - プロパティ更新
+        - 一時停止
+        - 再開
+    validations:
+      required: true
+  - type: input
+    id: new_url
+    attributes:
+      label: 新URL
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: false
+  - type: dropdown
+    id: new_cadence
+    attributes:
+      label: 新cadence
+      options:
+        - 変更なし
+        - fast
+        - normal
+        - slow
+    validations:
+      required: true
+  - type: input
+    id: new_webhook_key
+    attributes:
+      label: 新webhookKey
+      placeholder: "DISCORD_WEBHOOK_PUBCOM"
+    validations:
+      required: false
+  - type: textarea
+    id: match_first
+    attributes:
+      label: 第一検索語(AND条件・改行区切り)
+      description: 操作が「置換」のときのみ入力。1行1語。
+      placeholder: |
+        青少年
+        審議会
+    validations:
+      required: false
+  - type: dropdown
+    id: match_first_action
+    attributes:
+      label: 第一検索語の操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: textarea
+    id: match_second
+    attributes:
+      label: 第二検索語(AND条件・改行区切り)
+      description: 操作が「置換」のときのみ入力。1行1語。
+      placeholder: |
+        答申
+        諮問
+    validations:
+      required: false
+  - type: dropdown
+    id: match_second_action
+    attributes:
+      label: 第二検索語の操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: textarea
+    id: match_exclude
+    attributes:
+      label: 除外語(任意・改行区切り)
+      description: 操作が「置換」のときのみ入力。1行1語。
+      placeholder: |
+        過去資料
+    validations:
+      required: false
+  - type: dropdown
+    id: match_exclude_action
+    attributes:
+      label: 除外語の操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: input
+    id: new_max_seen
+    attributes:
+      label: 新maxSeen
+      description: 未変更なら空欄
+      placeholder: "500"
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: 備考
+      description: 任意。運用メモとして記録。
+    validations:
+      required: false

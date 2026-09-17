@@ -1,0 +1,11 @@
+{
+  "id": "df5cfb2ed4d04d401e4f3347edc3bd8831748fe5afec72ad585907b7f3e7a828",
+  "name": "茨城県",
+  "url": "https://www.pref.ibaraki.jp/bosyu.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

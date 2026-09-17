@@ -1,0 +1,11 @@
+{
+  "id": "63f17ba429e696a359268ee43439427528962561f9d15faf1af53d1527c8e21d",
+  "name": "兵庫県",
+  "url": "https://web.pref.hyogo.lg.jp/kk12/ac09_000000032.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64c9f18655af6a1b68e240dbb17442a760dc922306336c7adee25945d9bb6579",
+  "name": "岐阜県",
+  "url": "https://www.pref.gifu.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

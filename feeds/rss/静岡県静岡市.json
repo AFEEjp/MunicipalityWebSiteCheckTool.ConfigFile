@@ -1,0 +1,11 @@
+{
+  "id": "6fdfa7575c806be56df82e3c53a9cb914130b709130e719e409888a42feb18f7",
+  "name": "静岡県静岡市",
+  "url": "https://www.city.shizuoka.lg.jp/oshirase.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

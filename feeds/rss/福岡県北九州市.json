@@ -1,0 +1,11 @@
+{
+  "id": "8e6414a87da96d51f14012f71eedd8122035a0b79ec7e5c07d9c595371152ea4",
+  "name": "福岡県北九州市",
+  "url": "https://www.city.kitakyushu.lg.jp/index.rdf",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

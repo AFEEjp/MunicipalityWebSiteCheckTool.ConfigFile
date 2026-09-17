@@ -1,0 +1,11 @@
+{
+  "id": "b6d43a333345f6d5c1a3bfad464fe74eaa48885fa73c1f977afdf702972ea654",
+  "name": "京都府京都市",
+  "url": "https://www.city.kyoto.lg.jp/templates/pubcomment/0-Curr.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

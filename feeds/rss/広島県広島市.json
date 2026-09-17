@@ -1,0 +1,11 @@
+{
+  "id": "d6ce7b123ef5e62efcb405317a9ea4e93bfc1b4de8d8a6b14df6a88904e7e9fb",
+  "name": "広島県広島市",
+  "url": "https://www.city.hiroshima.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

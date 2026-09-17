@@ -1,0 +1,11 @@
+{
+  "id": "4124d44defeb8a766353631902a846b565b38bab1443fe04e43490978d826a6e",
+  "name": "奈良県",
+  "url": "https://www.pref.nara.lg.jp/press/press.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

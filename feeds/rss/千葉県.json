@@ -1,0 +1,11 @@
+{
+  "id": "eb019cdc13b4f9964b238ad7c9c75029a577e885ef51421f1c93e43c3fdf51ed",
+  "name": "千葉県",
+  "url": "https://www.pref.chiba.lg.jp/homepage/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

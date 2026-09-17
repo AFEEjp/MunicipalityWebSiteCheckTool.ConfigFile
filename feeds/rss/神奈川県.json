@@ -1,0 +1,11 @@
+{
+  "id": "b51c29d61af21413f49c32ae01929d655944aba8aae3926a0a01efe2a7aaa366",
+  "name": "神奈川県",
+  "url": "https://www.pref.kanagawa.jp/news/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

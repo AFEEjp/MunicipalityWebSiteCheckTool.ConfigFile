@@ -1,0 +1,11 @@
+{
+  "id": "e7a57c48da1d5922bfde58557c67a1151a4456c654d97a90e000a675c6101444",
+  "name": "東京都千代田区",
+  "url": "https://www.city.chiyoda.lg.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

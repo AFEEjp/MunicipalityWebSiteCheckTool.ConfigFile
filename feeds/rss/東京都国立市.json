@@ -1,0 +1,11 @@
+{
+  "id": "94168b669b9fc1ca43f41cf3369788026d9f89e2dacec5fcf484b872ede0bf9b",
+  "name": "東京都国立市",
+  "url": "https://www.city.kunitachi.tokyo.jp/cgi-bin/feed.php?siteNew=1&displayCount=10&displayRange=90&includeShortcut=1",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

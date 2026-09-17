@@ -1,0 +1,108 @@
+name: config-validate
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Validate config JSON
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          $errors = New-Object System.Collections.Generic.List[string]
+
+          if (!(Test-Path "./feed-settings.json" -PathType Leaf)) {
+            $errors.Add("feed-settings.json が見つかりません。")
+          } else {
+            try {
+              $feedSettings = Get-Content -Raw -Path "./feed-settings.json" | ConvertFrom-Json
+              if ($null -eq $feedSettings.defaultMatch) {
+                $errors.Add("feed-settings.json: defaultMatch がありません。")
+              } else {
+                if ($null -eq $feedSettings.defaultMatch.first -or $feedSettings.defaultMatch.first.Count -lt 1) {
+                  $errors.Add("feed-settings.json: defaultMatch.first は1件以上必要です。")
+                }
+                if ($null -eq $feedSettings.defaultMatch.second -or $feedSettings.defaultMatch.second.Count -lt 1) {
+                  $errors.Add("feed-settings.json: defaultMatch.second は1件以上必要です。")
+                }
+              }
+            } catch {
+              $errors.Add("feed-settings.json の解析に失敗しました: $($_.Exception.Message)")
+            }
+          }
+
+          $feedIdSet = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
+          Get-ChildItem -Path "./feeds" -Recurse -File -Filter *.json | ForEach-Object {
+            $path = $_.FullName
+            try {
+              $feed = Get-Content -Raw -Path $path | ConvertFrom-Json
+            } catch {
+              $errors.Add("feeds JSON の解析に失敗しました: $path")
+              return
+            }
+
+            if ([string]::IsNullOrWhiteSpace($feed.id)) { $errors.Add("feeds id が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($feed.name)) { $errors.Add("feeds name が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($feed.url)) { $errors.Add("feeds url が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($feed.type)) { $errors.Add("feeds type が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($feed.cadence)) { $errors.Add("feeds cadence が空です: $path") }
+            if ($feed.type -ne "rss" -and $feed.type -ne "html" -and $feed.type -ne "browser") {
+              $errors.Add("feeds type が不正です (rss/html/browser): $path")
+            }
+            if ($feed.cadence -ne "fast" -and $feed.cadence -ne "normal" -and $feed.cadence -ne "slow") {
+              $errors.Add("feeds cadence が不正です (fast/normal/slow): $path")
+            }
+            if ($feed.type -eq "browser" -and $null -eq $feed.browser) {
+              $errors.Add("feeds browser 設定がありません: $path")
+            }
+            if (![System.Uri]::TryCreate([string]$feed.url, [System.UriKind]::Absolute, [ref]([System.Uri]$null))) {
+              $errors.Add("feeds url が絶対URLではありません: $path")
+            }
+            if (!$feedIdSet.Add([string]$feed.id)) {
+              $errors.Add("feeds id が重複しています: $($feed.id)")
+            }
+          }
+
+          $pageIdSet = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
+          Get-ChildItem -Path "./pages" -Recurse -File -Filter *.json | ForEach-Object {
+            $path = $_.FullName
+            try {
+              $page = Get-Content -Raw -Path $path | ConvertFrom-Json
+            } catch {
+              $errors.Add("pages JSON の解析に失敗しました: $path")
+              return
+            }
+
+            if ([string]::IsNullOrWhiteSpace($page.id)) { $errors.Add("pages id が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($page.name)) { $errors.Add("pages name が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($page.url)) { $errors.Add("pages url が空です: $path") }
+            if ([string]::IsNullOrWhiteSpace($page.webhookSecretKey)) { $errors.Add("pages webhookSecretKey が空です: $path") }
+            if (![System.Uri]::TryCreate([string]$page.url, [System.UriKind]::Absolute, [ref]([System.Uri]$null))) {
+              $errors.Add("pages url が絶対URLではありません: $path")
+            }
+            if ($null -ne $page.followLink -and [string]::IsNullOrWhiteSpace($page.followLink.textMatch)) {
+              $errors.Add("pages followLink.textMatch が空です: $path")
+            }
+            if (!$pageIdSet.Add([string]$page.id)) {
+              $errors.Add("pages id が重複しています: $($page.id)")
+            }
+          }
+
+          if ($errors.Count -gt 0) {
+            Write-Host "設定検証でエラーが見つかりました。"
+            $errors | ForEach-Object { Write-Host " - $_" }
+            exit 1
+          }
+
+          Write-Host "設定検証OK"
+

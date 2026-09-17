@@ -1,0 +1,11 @@
+{
+  "id": "32304d7050f75ee5d8f13909624a6d26e8f3792bf60c375bf7e41562b5e30f00",
+  "name": "群馬県",
+  "url": "https://www.pref.gunma.jp/page/16405.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

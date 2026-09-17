@@ -1,0 +1,11 @@
+{
+  "id": "d53c24323954f467cebf022de8117e76dd7b2e2890084fd397ea23eeb7c2c5f7",
+  "name": "石川県",
+  "url": "https://www.pref.ishikawa.lg.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

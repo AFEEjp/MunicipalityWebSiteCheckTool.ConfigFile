@@ -1,0 +1,11 @@
+{
+  "id": "423ac6b797cd8286649344c72673a0e8fa915ad21e56bee259adf65fad2cea1c",
+  "name": "新潟県",
+  "url": "https://www.pref.niigata.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

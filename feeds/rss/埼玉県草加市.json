@@ -1,0 +1,11 @@
+{
+  "id": "0520d570ec074632764785a77bb37bf1236b79615d9dbbb5e37ea30bb58516a0",
+  "name": "埼玉県草加市",
+  "url": "https://www.city.soka.saitama.jp/li/020/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

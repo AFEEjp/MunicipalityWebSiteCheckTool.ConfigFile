@@ -1,0 +1,11 @@
+{
+  "id": "032956669a274252e65da445b05144ea96dbc8fb791b40927cee4bebd1eec943",
+  "name": "鹿児島県",
+  "url": "https://www.pref.kagoshima.jp/ab02/kohokocho/public/boshu.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

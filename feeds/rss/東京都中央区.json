@@ -1,0 +1,11 @@
+{
+  "id": "bacc3a1f7da07c4415f6f3bcbae9ca8514cb3cbc640275a703f832c145ff63e3",
+  "name": "東京都中央区",
+  "url": "https://www.city.chuo.lg.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

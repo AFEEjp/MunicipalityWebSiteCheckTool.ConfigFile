@@ -1,0 +1,11 @@
+{
+  "id": "74f89651ba39d51230a296de1e1c8d4ddd861eb26a5ed722f3335eba410ebd10",
+  "name": "徳島県",
+  "url": "https://www.pref.tokushima.lg.jp/public_comment/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

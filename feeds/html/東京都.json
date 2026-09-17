@@ -1,0 +1,12 @@
+{
+  "id": "77b0d581a7d0c701c96b63c53177c1a34d6510d74d9c89c3570fd9b86de047a1",
+  "name": "東京都",
+  "url": "https://www.soumu.metro.tokyo.lg.jp/01soumu-johokokaika/jyuyokohyo/2",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  },
+  "notes": "以前は `https://www.johokokai.metro.tokyo.lg.jp/jyuyokohyo/02.html`"
+}

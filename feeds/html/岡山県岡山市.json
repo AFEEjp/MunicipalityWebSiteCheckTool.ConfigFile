@@ -1,0 +1,11 @@
+{
+  "id": "bdbd97250cf506e590a3112028ad0afc27face7b71a6272905acd5179cbef874",
+  "name": "岡山県岡山市",
+  "url": "https://com.city.okayama.jp/cmsform/form_list.php?cd=2",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

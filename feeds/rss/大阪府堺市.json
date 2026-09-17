@@ -1,0 +1,11 @@
+{
+  "id": "bd0f3ed9b60f13b3ea81d29972bbec45146627443bbd9b8ed8a71491a7e43bd3",
+  "name": "大阪府堺市",
+  "url": "https://www.city.sakai.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

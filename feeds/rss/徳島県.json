@@ -1,0 +1,11 @@
+{
+  "id": "7a74a07b65e831455eb9455cd939780dc73a0edf8d1c3c709869c2020e8494ae",
+  "name": "徳島県",
+  "url": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

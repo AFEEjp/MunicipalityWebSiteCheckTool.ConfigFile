@@ -1,0 +1,11 @@
+{
+  "id": "d561cb1cc61de4e02dc409dc695aa93803565ea56d93b112990e3f7a65c63961",
+  "name": "静岡県",
+  "url": "https://www.pref.shizuoka.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

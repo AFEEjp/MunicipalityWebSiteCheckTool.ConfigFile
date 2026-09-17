@@ -1,0 +1,11 @@
+{
+  "id": "35437d014cd5be67caded5331de28a87b65befcbf68a617b9b0d8ca5d652df55",
+  "name": "宮城県",
+  "url": "https://www.pref.miyagi.jp/soshiki/kohou/r6publiccom.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

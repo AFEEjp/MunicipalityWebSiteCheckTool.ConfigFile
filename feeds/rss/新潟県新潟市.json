@@ -1,0 +1,11 @@
+{
+  "id": "a624592fc64e4897618a225d64a0893fd5874eb2e9601b1b5befa9ce85f4418c",
+  "name": "新潟県新潟市",
+  "url": "https://www.city.niigata.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

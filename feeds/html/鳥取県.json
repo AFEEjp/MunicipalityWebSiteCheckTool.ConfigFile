@@ -1,0 +1,11 @@
+{
+  "id": "fd4f865a805ee1a502ed2e9f13b014637720c6ff18e91fcbfd18ff0cf50e3f9d",
+  "name": "鳥取県",
+  "url": "https://www.pref.tottori.lg.jp/publiccomment/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

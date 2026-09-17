@@ -1,0 +1,11 @@
+{
+  "id": "8a5d53e82995af596c6eaa4df0ef136a0f574a24dcb1dedf5c54a7911bab5ffe",
+  "name": "東京都練馬区",
+  "url": "https://www.city.nerima.tokyo.jp/kusei/pubcom/oshirase/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

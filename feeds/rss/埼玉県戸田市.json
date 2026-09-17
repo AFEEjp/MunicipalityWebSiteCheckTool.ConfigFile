@@ -1,0 +1,11 @@
+{
+  "id": "7cd1ae0fad960f7679256e43008028c91e3bc61141c453f4aa1fb83f345e2812",
+  "name": "埼玉県戸田市",
+  "url": "https://www.city.toda.saitama.jp/rss/10/site-28.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

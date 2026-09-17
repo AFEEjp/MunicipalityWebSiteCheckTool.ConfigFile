@@ -1,0 +1,11 @@
+{
+  "id": "4df46f39b1eb89739c25a97adcdb45a89e431cab2c4195dad6c5ad89b7eca6c2",
+  "name": "岐阜県岐阜市",
+  "url": "https://www.city.gifu.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

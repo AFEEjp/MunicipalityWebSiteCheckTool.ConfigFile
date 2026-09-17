@@ -1,0 +1,11 @@
+{
+  "id": "7fedac0f1bc623243e3e716105b8fbaa101883be2c09fc26b6fd32aa72959fe9",
+  "name": "埼玉県川口市",
+  "url": "https://www.city.kawaguchi.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

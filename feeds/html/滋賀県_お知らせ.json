@@ -1,0 +1,12 @@
+{
+  "id": "b71da0acbc99232993324b17f59cac741f2e650ae6dde54565611cc90352f55a",
+  "name": "滋賀県",
+  "url": "https://www.pref.shiga.lg.jp/menu/32767.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  },
+  "notes": "RSSフィード廃止に伴う調整実施"
+}

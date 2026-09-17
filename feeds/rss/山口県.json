@@ -1,0 +1,11 @@
+{
+  "id": "298dbdf0c5965320012770e02b53783338f32b61282e20e6cc8faa39f50b18a4",
+  "name": "山口県",
+  "url": "https://www.pref.yamaguchi.lg.jp/rss/10/list6.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

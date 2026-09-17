@@ -1,0 +1,11 @@
+{
+  "id": "cd062efc97563eb155313a38e3b1946d6c4ffa7b7c451eb9eef861e65a3d99d7",
+  "name": "福井県",
+  "url": "https://www.pref.fukui.lg.jp/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

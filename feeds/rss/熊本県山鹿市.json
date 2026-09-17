@@ -1,0 +1,11 @@
+{
+  "id": "92aad1bd6c12d3000f59bef60be32029f29785f32d9f1cc793d40ed4db8e1a03",
+  "name": "熊本県山鹿市",
+  "url": "https://www.city.yamaga.kumamoto.jp/new_list.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

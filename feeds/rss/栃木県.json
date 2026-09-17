@@ -1,0 +1,11 @@
+{
+  "id": "7b0f038351af3144cf10c128c80225cd9192403694d4c2b728f8baa7fee218da",
+  "name": "栃木県",
+  "url": "https://www.pref.tochigi.lg.jp/c05/kensei/kouhou/hp/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

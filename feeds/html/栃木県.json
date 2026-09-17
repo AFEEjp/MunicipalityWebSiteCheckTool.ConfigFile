@@ -1,0 +1,11 @@
+{
+  "id": "91af02e1847d7694b37a3106d4c580e44dcdd3c9e4703028c1f664008bbbbc8a",
+  "name": "栃木県",
+  "url": "https://www.pref.tochigi.lg.jp/c05/pref/kouhou/paburikku/ichiran.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

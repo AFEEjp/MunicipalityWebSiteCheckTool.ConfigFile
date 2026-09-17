@@ -1,0 +1,11 @@
+{
+  "id": "e948773abc811a75ee628743ba8fce035d533cf0e122e963a0d47d73d0dc06f0",
+  "name": "神奈川県海老名市",
+  "url": "https://www.city.ebina.kanagawa.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

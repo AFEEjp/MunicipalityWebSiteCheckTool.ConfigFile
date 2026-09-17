@@ -1,0 +1,11 @@
+{
+  "id": "78893e6cef23422bf9a897863b1c282004d7c82fd1b2c8f5efd9c655b9b15247",
+  "name": "鳥取県",
+  "url": "https://www.pref.tottori.lg.jp/services/rdf/rss10/3902.ashx",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

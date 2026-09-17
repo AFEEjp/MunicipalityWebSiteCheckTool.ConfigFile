@@ -1,0 +1,11 @@
+{
+  "id": "17bbd28658181b3a4da3aa82aed00848693bce53c44026ff6324a382ad25cf2e",
+  "name": "東京都中野区",
+  "url": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

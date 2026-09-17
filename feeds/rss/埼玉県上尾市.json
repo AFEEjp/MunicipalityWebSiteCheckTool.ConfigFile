@@ -1,0 +1,11 @@
+{
+  "id": "05ed64ba77d825a25fd14429175a8fe9f5529ce25447b4205bfb75dcdf7ab697",
+  "name": "埼玉県上尾市",
+  "url": "https://www.city.ageo.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

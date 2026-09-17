@@ -1,0 +1,11 @@
+{
+  "id": "ad7511d18c76b28e1bd042bbf9ebd49542454d5797ca9ca2d1cc14e1f12e259b",
+  "name": "東京都世田谷区",
+  "url": "https://www.city.setagaya.lg.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

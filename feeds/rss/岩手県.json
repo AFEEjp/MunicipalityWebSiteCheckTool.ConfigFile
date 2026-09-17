@@ -1,0 +1,11 @@
+{
+  "id": "a4afb141c32c4baef52daffd21052d0c506eeb52b69e1cfb9b581f20bba82876",
+  "name": "岩手県",
+  "url": "https://www.pref.iwate.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

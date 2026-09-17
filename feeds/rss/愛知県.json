@@ -1,0 +1,11 @@
+{
+  "id": "b787a664a50844a80152b2c7d4194e5b98247961555b51a09f9a4ec5dedaeed7",
+  "name": "愛知県",
+  "url": "https://www.pref.aichi.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

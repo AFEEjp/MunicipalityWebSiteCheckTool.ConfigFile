@@ -1,0 +1,11 @@
+{
+  "id": "6fbfb51d6bef5c0190fd418dde4c6554691fabdabea40bd00956ddfce3b82bc8",
+  "name": "東京都渋谷区",
+  "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/public-comment-boshu/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

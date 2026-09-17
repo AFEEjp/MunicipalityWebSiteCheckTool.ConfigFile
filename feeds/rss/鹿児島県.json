@@ -1,0 +1,11 @@
+{
+  "id": "7f5b33e319e22614fcf3c7dcbfda82e98bca6fa4b72bd2b024c3cc109f30678d",
+  "name": "鹿児島県",
+  "url": "https://www.pref.kagoshima.jp/saishin/saishin.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

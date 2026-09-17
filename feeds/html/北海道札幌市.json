@@ -1,0 +1,11 @@
+{
+  "id": "ffa5740003563311903b425207bd80272fa070d49ab8f8a1d48a7cafde4643b4",
+  "name": "北海道札幌市",
+  "url": "https://www.city.sapporo.jp/somu/pub-comment/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

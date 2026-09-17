@@ -1,0 +1,70 @@
+name: 共通キーワード変更
+description: feed-settings.json の defaultMatch 変更依頼
+title: "[キーワード変更] "
+labels:
+  - config-request
+  - keyword
+body:
+  - type: textarea
+    id: first
+    attributes:
+      label: first（1つ以上）
+      description: 操作が「置換」のときのみ入力。1行1語。
+      placeholder: |
+        意見募集
+        パブリックコメント
+    validations:
+      required: false
+  - type: dropdown
+    id: first_action
+    attributes:
+      label: firstの操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: textarea
+    id: second
+    attributes:
+      label: second（1つ以上）
+      description: 操作が「置換」のときのみ入力。1行1語。
+      placeholder: |
+        条例
+        計画
+    validations:
+      required: false
+  - type: dropdown
+    id: second_action
+    attributes:
+      label: secondの操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: textarea
+    id: exclude
+    attributes:
+      label: exclude（任意）
+      description: 操作が「置換」のときのみ入力。1行1語。
+    validations:
+      required: false
+  - type: dropdown
+    id: exclude_action
+    attributes:
+      label: excludeの操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 補足
+    validations:
+      required: false

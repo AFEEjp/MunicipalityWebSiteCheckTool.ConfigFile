@@ -1,0 +1,11 @@
+{
+  "id": "3c1f9d7b5287ea0f8671dcae67178961fe68db9fe922185603aa4ea53ca27d13",
+  "name": "神奈川県川崎市",
+  "url": "https://www.city.kawasaki.jp/main/rss/rss.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tokyo-council-for-sound-upbringing-of-youth",
+  "name": "東京都青少年健全育成審議会",
+  "url": "https://www.tomin-anzen.metro.tokyo.lg.jp/about/kaigi/jakunen-shien/kenzensin",
+  "temporaryDisabled": false,
+  "webhookSecretKey": "DISCORD_WEBHOOK_TOKYO_KENZENSHIN",
+  "followLink": {
+    "textMatch": "次回の開催について",
+    "linkSelector": "a"
+  },
+  "contentSelector": ".orlfr-article"
+}

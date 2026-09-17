@@ -1,0 +1,11 @@
+{
+  "id": "016b141f5f0316e2494f98d3ab1051b4f35111f6358b76c5e7ce4c4da35e41b5",
+  "name": "東京都足立区",
+  "url": "https://www.city.adachi.tokyo.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

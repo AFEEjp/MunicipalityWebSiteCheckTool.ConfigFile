@@ -1,0 +1,548 @@
+name: config-request-intake
+
+on:
+  issues:
+    types:
+      - opened
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  apply-config-and-create-pr:
+    if: contains(github.event.issue.labels.*.name, 'config-request')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Apply config changes from issue form
+        id: apply_changes
+        shell: pwsh
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_LABELS_JSON: ${{ toJson(github.event.issue.labels.*.name) }}
+        run: |
+          $ErrorActionPreference = "Stop"
+
+          function Normalize-FieldValue {
+            param([string]$Value)
+            $trimmed = ($Value ?? "").Trim()
+            if ($trimmed -eq "_No response_") { return "" }
+            return $trimmed
+          }
+
+          function Parse-IssueFormBody {
+            param([string]$Body)
+            $fields = [ordered]@{}
+            $currentHeader = $null
+            $buffer = New-Object System.Collections.Generic.List[string]
+            $lines = ($Body ?? "") -split "`r?`n"
+            foreach ($line in $lines) {
+              if ($line -match '^###\s+(.+)$') {
+                if ($null -ne $currentHeader) {
+                  $fields[$currentHeader] = Normalize-FieldValue(($buffer -join "`n"))
+                }
+                $currentHeader = $Matches[1].Trim()
+                $buffer.Clear()
+                continue
+              }
+              if ($null -ne $currentHeader) {
+                $buffer.Add($line)
+              }
+            }
+            if ($null -ne $currentHeader) {
+              $fields[$currentHeader] = Normalize-FieldValue(($buffer -join "`n"))
+            }
+            return $fields
+          }
+
+          function Get-Field {
+            param($Map, [string]$Key)
+            if ($Map.Contains($Key)) {
+              return [string]$Map[$Key]
+            }
+            return ""
+          }
+
+          function Get-FieldAny {
+            param($Map, [string[]]$Keys)
+            foreach ($key in $Keys) {
+              $value = Get-Field $Map $key
+              if (-not [string]::IsNullOrWhiteSpace($value)) {
+                return $value
+              }
+            }
+            return ""
+          }
+
+          function Split-MultilineTokens {
+            param([string]$Value)
+            if ([string]::IsNullOrWhiteSpace($Value)) { return @() }
+            return @(
+              $Value -split "`r?`n" |
+              ForEach-Object { $_.Trim() } |
+              Where-Object { $_ -ne "" }
+            )
+          }
+
+          function Normalize-FileName {
+            param([string]$Value)
+            $trimmed = ($Value ?? "").Trim()
+            if ([string]::IsNullOrWhiteSpace($trimmed)) { return "unnamed" }
+            return ($trimmed -replace '[\\/:*?"<>|]', "_")
+          }
+
+          function To-IntOrDefault {
+            param([string]$Value, [int]$DefaultValue)
+            if ([string]::IsNullOrWhiteSpace($Value)) { return $DefaultValue }
+            $parsed = 0
+            if ([int]::TryParse($Value.Trim(), [ref]$parsed)) {
+              return $parsed
+            }
+            throw "整数値として解釈できません: $Value"
+          }
+
+          function Set-OptionalProperty {
+            param($Object, [string]$PropertyName, [string]$Value)
+            if ([string]::IsNullOrWhiteSpace($Value)) { return }
+            if ($Object.PSObject.Properties[$PropertyName]) {
+              $Object.$PropertyName = $Value.Trim()
+            } else {
+              $Object | Add-Member -NotePropertyName $PropertyName -NotePropertyValue $Value.Trim()
+            }
+          }
+
+          function Remove-PropertyIfExists {
+            param($Object, [string]$PropertyName)
+            if ($Object.PSObject.Properties[$PropertyName]) {
+              $Object.PSObject.Properties.Remove($PropertyName) | Out-Null
+            }
+          }
+
+          function Ensure-MatchObject {
+            param($Feed)
+            if ($null -eq $Feed.match) {
+              $Feed | Add-Member -NotePropertyName match -NotePropertyValue ([pscustomobject]@{})
+            }
+          }
+
+          function Apply-MatchOperation {
+            param(
+              $Feed,
+              [string]$FieldName,
+              [string]$ActionValue,
+              [string]$RawInput
+            )
+            switch ($ActionValue) {
+              "変更なし" { return }
+              "置換" {
+                $tokens = Split-MultilineTokens $RawInput
+                if (($FieldName -eq "first" -or $FieldName -eq "second") -and $tokens.Count -lt 1) {
+                  throw "match.$FieldName を置換する場合は1件以上入力してください。"
+                }
+                Ensure-MatchObject $Feed
+                if ($Feed.match.PSObject.Properties[$FieldName]) {
+                  $Feed.match.$FieldName = @($tokens)
+                } else {
+                  $Feed.match | Add-Member -NotePropertyName $FieldName -NotePropertyValue @($tokens)
+                }
+              }
+              "全削除" {
+                if ($null -ne $Feed.match -and $Feed.match.PSObject.Properties[$FieldName]) {
+                  $Feed.match.PSObject.Properties.Remove($FieldName) | Out-Null
+                }
+              }
+              default { throw "不正な操作です: $FieldName = $ActionValue" }
+            }
+          }
+
+          function Cleanup-MatchObject {
+            param($Feed)
+            if ($null -eq $Feed.match) { return }
+            $hasProperties = $Feed.match.PSObject.Properties.Count -gt 0
+            if (-not $hasProperties) {
+              Remove-PropertyIfExists $Feed "match"
+            }
+          }
+
+          function Find-JsonById {
+            param(
+              [string]$RootPath,
+              [string]$TargetId
+            )
+            foreach ($file in (Get-ChildItem -Path $RootPath -Recurse -File -Filter *.json)) {
+              try {
+                $json = Get-Content -Raw -Path $file.FullName | ConvertFrom-Json
+              } catch {
+                continue
+              }
+              if ([string]::Equals([string]$json.id, $TargetId, [System.StringComparison]::OrdinalIgnoreCase)) {
+                return $file.FullName
+              }
+            }
+            return $null
+          }
+
+          function Find-FeedByNameAndUrl {
+            param(
+              [string]$RootPath,
+              [string]$Name,
+              [string]$Url
+            )
+            foreach ($file in (Get-ChildItem -Path $RootPath -Recurse -File -Filter *.json)) {
+              try {
+                $json = Get-Content -Raw -Path $file.FullName | ConvertFrom-Json
+              } catch {
+                continue
+              }
+              if (
+                [string]::Equals([string]$json.name, $Name, [System.StringComparison]::OrdinalIgnoreCase) -and
+                [string]::Equals([string]$json.url, $Url, [System.StringComparison]::OrdinalIgnoreCase)
+              ) {
+                return $file.FullName
+              }
+            }
+            return $null
+          }
+
+          function Write-JsonFile {
+            param([string]$Path, $Object)
+            $dir = Split-Path -Path $Path -Parent
+            if (-not (Test-Path -Path $dir -PathType Container)) {
+              New-Item -ItemType Directory -Path $dir -Force | Out-Null
+            }
+            $Object | ConvertTo-Json -Depth 20 | Set-Content -Path $Path -Encoding utf8
+          }
+
+          $issueNumber = $env:ISSUE_NUMBER
+          $issueTitle = $env:ISSUE_TITLE
+          $issueBody = $env:ISSUE_BODY
+          $labels = ($env:ISSUE_LABELS_JSON | ConvertFrom-Json)
+          $branchName = "config-request/issue-$issueNumber"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C $branchName
+
+          $fields = Parse-IssueFormBody $issueBody
+          $isFeed = $labels -contains "feed"
+          $isPage = $labels -contains "page"
+          $isKeyword = $labels -contains "keyword"
+
+          $labelCount = (@($isFeed, $isPage, $isKeyword) | Where-Object { $_ }).Count
+          if ($labelCount -ne 1) {
+            throw "ラベル判定が不正です。feed/page/keyword のいずれか1つだけを付与してください。"
+          }
+
+          if ($isFeed) {
+            $isAdd = $fields.Contains("監視対象名")
+            if ($isAdd) {
+              $name = Get-Field $fields "監視対象名"
+              $feedType = Get-Field $fields "feed種別"
+              $url = Get-Field $fields "URL"
+              $cadence = Get-Field $fields "実行頻度(cadence)"
+              $maxSeenRaw = Get-Field $fields "maxSeen（任意）"
+              $matchFirst = Split-MultilineTokens (Get-Field $fields "個別match.first（任意）")
+              $matchSecond = Split-MultilineTokens (Get-Field $fields "個別match.second（任意）")
+              $matchExclude = Split-MultilineTokens (Get-Field $fields "個別match.exclude（任意）")
+              $webhookKey = Get-Field $fields "個別Webhook Secret名（任意）"
+              $notes = Get-FieldAny $fields @("補足", "補足（任意）")
+
+              if ([string]::IsNullOrWhiteSpace($name) -or [string]::IsNullOrWhiteSpace($feedType) -or [string]::IsNullOrWhiteSpace($url) -or [string]::IsNullOrWhiteSpace($cadence)) {
+                throw "Feed追加に必要な必須項目が不足しています。"
+              }
+              if ($feedType -ne "rss" -and $feedType -ne "html") {
+                throw "feed種別が不正です: $feedType"
+              }
+              if ($cadence -ne "fast" -and $cadence -ne "normal" -and $cadence -ne "slow") {
+                throw "cadenceが不正です: $cadence"
+              }
+
+              $existingPath = Find-FeedByNameAndUrl -RootPath "./feeds" -Name $name -Url $url
+              if (-not [string]::IsNullOrWhiteSpace($existingPath)) {
+                Write-Host "同一の name+url が既に存在するため、Feed追加はスキップします: $existingPath"
+                # 既存のID/状態を壊さないため、既存設定には触れない
+                # ここで何も書き込まなければ最終的に差分なしとなり、PRは作成されない
+              } else {
+                $hashInput = "$name`n$url".ToLowerInvariant()
+                $bytes = [System.Text.Encoding]::UTF8.GetBytes($hashInput)
+                $hashBytes = [System.Security.Cryptography.SHA256]::HashData($bytes)
+                $id = -join ($hashBytes | ForEach-Object { $_.ToString("x2") })
+                $maxSeen = To-IntOrDefault $maxSeenRaw 500
+                $fileName = "$(Normalize-FileName $name).json"
+                $targetPath = Join-Path -Path (Join-Path -Path "." -ChildPath "feeds/$feedType") -ChildPath $fileName
+
+                $feed = [pscustomobject]@{
+                  id = $id
+                  name = $name
+                  url = $url
+                  type = $feedType
+                  temporaryDisabled = $false
+                  cadence = $cadence
+                  state = [pscustomobject]@{
+                    maxSeen = $maxSeen
+                  }
+                }
+
+                if ($matchFirst.Count -gt 0 -or $matchSecond.Count -gt 0 -or $matchExclude.Count -gt 0) {
+                  $match = [pscustomobject]@{}
+                  if ($matchFirst.Count -gt 0) { $match | Add-Member -NotePropertyName first -NotePropertyValue @($matchFirst) }
+                  if ($matchSecond.Count -gt 0) { $match | Add-Member -NotePropertyName second -NotePropertyValue @($matchSecond) }
+                  if ($matchExclude.Count -gt 0) { $match | Add-Member -NotePropertyName exclude -NotePropertyValue @($matchExclude) }
+                  $feed | Add-Member -NotePropertyName match -NotePropertyValue $match
+                }
+                Set-OptionalProperty $feed "webhookKey" $webhookKey
+                Set-OptionalProperty $feed "notes" $notes
+                Write-JsonFile -Path $targetPath -Object $feed
+              }
+            } else {
+              $feedId = Get-Field $fields "対象Feed ID"
+              $action = Get-Field $fields "変更種別"
+              $path = Find-JsonById -RootPath "./feeds" -TargetId $feedId
+              if ([string]::IsNullOrWhiteSpace($path)) {
+                throw "対象Feed IDが見つかりません: $feedId"
+              }
+              $feed = Get-Content -Raw -Path $path | ConvertFrom-Json
+
+              switch ($action) {
+                "一時停止" { $feed.temporaryDisabled = $true }
+                "再開" { $feed.temporaryDisabled = $false }
+                "プロパティ更新" {
+                  Set-OptionalProperty $feed "url" (Get-Field $fields "新URL")
+                  $newCadence = Get-Field $fields "新cadence"
+                  if ($newCadence -ne "変更なし" -and -not [string]::IsNullOrWhiteSpace($newCadence)) {
+                    $feed.cadence = $newCadence
+                  }
+                  $newWebhook = Get-Field $fields "新webhookKey"
+                  if (-not [string]::IsNullOrWhiteSpace($newWebhook)) {
+                    Set-OptionalProperty $feed "webhookKey" $newWebhook
+                  }
+                  $newMaxSeenRaw = Get-Field $fields "新maxSeen"
+                  if (-not [string]::IsNullOrWhiteSpace($newMaxSeenRaw)) {
+                    if ($null -eq $feed.state) {
+                      $feed | Add-Member -NotePropertyName state -NotePropertyValue ([pscustomobject]@{})
+                    }
+                    $feed.state.maxSeen = To-IntOrDefault $newMaxSeenRaw 500
+                  }
+                  Apply-MatchOperation -Feed $feed -FieldName "first" -ActionValue (Get-Field $fields "第一検索語の操作") -RawInput (Get-Field $fields "第一検索語(AND条件・改行区切り)")
+                  Apply-MatchOperation -Feed $feed -FieldName "second" -ActionValue (Get-Field $fields "第二検索語の操作") -RawInput (Get-Field $fields "第二検索語(AND条件・改行区切り)")
+                  Apply-MatchOperation -Feed $feed -FieldName "exclude" -ActionValue (Get-Field $fields "除外語の操作") -RawInput (Get-Field $fields "除外語(任意・改行区切り)")
+                  Cleanup-MatchObject -Feed $feed
+                  $notes = Get-Field $fields "備考"
+                  if (-not [string]::IsNullOrWhiteSpace($notes)) {
+                    Set-OptionalProperty $feed "notes" $notes
+                  }
+                }
+                default { throw "未対応の変更種別です: $action" }
+              }
+
+              Write-JsonFile -Path $path -Object $feed
+            }
+          }
+
+          if ($isPage) {
+            $pageId = Get-Field $fields "対象Page ID（新規時は希望ID）"
+            $action = Get-Field $fields "変更種別"
+            $name = Get-Field $fields "name"
+            $newUrl = Get-Field $fields "url"
+            $newWebhookKey = Get-Field $fields "webhookKey"
+            $followAction = Get-Field $fields "followLinkの操作"
+            $followText = Get-Field $fields "followLink.textMatch"
+            $followSelector = Get-Field $fields "followLink.selector"
+            $contentAction = Get-Field $fields "contentSelectorの操作"
+            $newContentSelector = Get-Field $fields "contentSelector"
+            $notes = Get-Field $fields "備考"
+
+            if ([string]::IsNullOrWhiteSpace($pageId)) {
+              throw "対象Page ID は必須です。"
+            }
+
+            $path = Find-JsonById -RootPath "./pages" -TargetId $pageId
+
+            if ($action -eq "新規追加") {
+              if (-not [string]::IsNullOrWhiteSpace($path)) {
+                throw "同じIDのページ設定が既に存在します: $pageId"
+              }
+              if ([string]::IsNullOrWhiteSpace($name) -or [string]::IsNullOrWhiteSpace($newUrl) -or [string]::IsNullOrWhiteSpace($newWebhookKey)) {
+                throw "新規追加には name/url/webhookKey が必須です。"
+              }
+              $fileName = "$(Normalize-FileName $name).json"
+              $path = Join-Path -Path "./pages" -ChildPath $fileName
+              $page = [pscustomobject]@{
+                id = $pageId
+                name = $name
+                url = $newUrl
+                temporaryDisabled = $false
+                webhookSecretKey = $newWebhookKey
+              }
+            } else {
+              if ([string]::IsNullOrWhiteSpace($path)) {
+                throw "対象Page IDが見つかりません: $pageId"
+              }
+              $page = Get-Content -Raw -Path $path | ConvertFrom-Json
+            }
+
+            switch ($action) {
+              "一時停止" { $page.temporaryDisabled = $true }
+              "再開" { $page.temporaryDisabled = $false }
+              "新規追加" { }
+              "プロパティ更新" {
+                Set-OptionalProperty $page "name" $name
+                Set-OptionalProperty $page "url" $newUrl
+                if (-not [string]::IsNullOrWhiteSpace($newWebhookKey)) {
+                  $page.webhookSecretKey = $newWebhookKey
+                }
+              }
+              default { throw "未対応の変更種別です: $action" }
+            }
+
+            switch ($followAction) {
+              "変更なし" { }
+              "全削除" { Remove-PropertyIfExists $page "followLink" }
+              "置換" {
+                if ([string]::IsNullOrWhiteSpace($followText)) {
+                  throw "followLink置換時は followLink.textMatch が必須です。"
+                }
+                $follow = [pscustomobject]@{
+                  textMatch = $followText.Trim()
+                }
+                if (-not [string]::IsNullOrWhiteSpace($followSelector)) {
+                  $follow | Add-Member -NotePropertyName linkSelector -NotePropertyValue $followSelector.Trim()
+                }
+                if ($page.PSObject.Properties["followLink"]) {
+                  $page.followLink = $follow
+                } else {
+                  $page | Add-Member -NotePropertyName followLink -NotePropertyValue $follow
+                }
+              }
+              default { throw "followLinkの操作値が不正です: $followAction" }
+            }
+
+            switch ($contentAction) {
+              "変更なし" { }
+              "全削除" { Remove-PropertyIfExists $page "contentSelector" }
+              "置換" {
+                if ([string]::IsNullOrWhiteSpace($newContentSelector)) {
+                  throw "contentSelector置換時は contentSelector が必須です。"
+                }
+                if ($page.PSObject.Properties["contentSelector"]) {
+                  $page.contentSelector = $newContentSelector.Trim()
+                } else {
+                  $page | Add-Member -NotePropertyName contentSelector -NotePropertyValue $newContentSelector.Trim()
+                }
+              }
+              default { throw "contentSelectorの操作値が不正です: $contentAction" }
+            }
+
+            if (-not [string]::IsNullOrWhiteSpace($notes)) {
+              Set-OptionalProperty $page "notes" $notes
+            }
+
+            Write-JsonFile -Path $path -Object $page
+          }
+
+          if ($isKeyword) {
+            $settingsPath = "./feed-settings.json"
+            if (-not (Test-Path -Path $settingsPath -PathType Leaf)) {
+              throw "feed-settings.json が見つかりません。"
+            }
+            $settings = Get-Content -Raw -Path $settingsPath | ConvertFrom-Json
+            if ($null -eq $settings.defaultMatch) {
+              $settings | Add-Member -NotePropertyName defaultMatch -NotePropertyValue ([pscustomobject]@{})
+            }
+
+            $keywordOps = @(
+              @{ Name = "first"; Action = (Get-Field $fields "firstの操作"); Value = (Get-Field $fields "first（1つ以上）") },
+              @{ Name = "second"; Action = (Get-Field $fields "secondの操作"); Value = (Get-Field $fields "second（1つ以上）") },
+              @{ Name = "exclude"; Action = (Get-Field $fields "excludeの操作"); Value = (Get-Field $fields "exclude（任意）") }
+            )
+
+            foreach ($op in $keywordOps) {
+              switch ($op.Action) {
+                "変更なし" { }
+                "置換" {
+                  $tokens = Split-MultilineTokens $op.Value
+                  if (($op.Name -eq "first" -or $op.Name -eq "second") -and $tokens.Count -lt 1) {
+                    throw "defaultMatch.$($op.Name) を置換する場合は1件以上入力してください。"
+                  }
+                  if ($settings.defaultMatch.PSObject.Properties[$op.Name]) {
+                    $settings.defaultMatch.($op.Name) = @($tokens)
+                  } else {
+                    $settings.defaultMatch | Add-Member -NotePropertyName $op.Name -NotePropertyValue @($tokens)
+                  }
+                }
+                "全削除" {
+                  if ($settings.defaultMatch.PSObject.Properties[$op.Name]) {
+                    $settings.defaultMatch.PSObject.Properties.Remove($op.Name) | Out-Null
+                  }
+                }
+                default { throw "キーワード操作値が不正です: $($op.Name) = $($op.Action)" }
+              }
+            }
+
+            Write-JsonFile -Path $settingsPath -Object $settings
+          }
+
+          git add .
+          if (git diff --cached --quiet) {
+            "changed=false" >> $env:GITHUB_OUTPUT
+            "branch_name=$branchName" >> $env:GITHUB_OUTPUT
+            exit 0
+          }
+
+          git commit -m "設定変更依頼を自動反映 (#$issueNumber)"
+          git push origin $branchName --force
+          "changed=true" >> $env:GITHUB_OUTPUT
+          "branch_name=$branchName" >> $env:GITHUB_OUTPUT
+
+      - name: Create or update pull request
+        id: create_pr
+        if: steps.apply_changes.outputs.changed == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          BRANCH_NAME: ${{ steps.apply_changes.outputs.branch_name }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          EXISTING_PR_URL="$(gh pr list --head "${BRANCH_NAME}" --json url --jq '.[0].url // ""')"
+          if [[ -n "${EXISTING_PR_URL}" ]]; then
+            echo "pr_url=${EXISTING_PR_URL}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          PR_URL="$(gh pr create \
+            --base "${DEFAULT_BRANCH}" \
+            --head "${BRANCH_NAME}" \
+            --title "設定変更自動反映: #${ISSUE_NUMBER} ${ISSUE_TITLE}" \
+            --body "Issue #${ISSUE_NUMBER} のフォーム入力をもとに設定JSONを更新しました。"$'\n\n'"Closes #${ISSUE_NUMBER}")"
+          echo "pr_url=${PR_URL}" >> "$GITHUB_OUTPUT"
+
+      - name: Comment issue with PR link
+        if: steps.create_pr.outputs.pr_url != ''
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          PR_URL: ${{ steps.create_pr.outputs.pr_url }}
+        run: |
+          gh issue comment "${ISSUE_NUMBER}" --body "設定変更用のPRを作成しました: ${PR_URL}"
+
+      - name: Comment issue when no changes detected
+        if: steps.apply_changes.outputs.changed != 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "${ISSUE_NUMBER}" --body "フォーム内容を処理しましたが、設定JSONの差分が発生しなかったためPRは作成しませんでした。"

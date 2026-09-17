@@ -1,0 +1,100 @@
+name: ページ監視変更
+description: pages/*.json の追加・変更・停止依頼
+title: "[Page変更] "
+labels:
+  - config-request
+  - page
+body:
+  - type: input
+    id: page_id
+    attributes:
+      label: 対象Page ID（新規時は希望ID）
+      placeholder: tokyo-council-for-sound-upbringing-of-youth
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: 変更種別
+      options:
+        - 新規追加
+        - プロパティ更新
+        - 一時停止
+        - 再開
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: name
+      description: 新規追加または名称変更時に入力。未変更なら空欄。
+      placeholder: 東京都 青少年健全育成審議会
+    validations:
+      required: false
+  - type: input
+    id: new_url
+    attributes:
+      label: url
+      description: 新規追加またはURL変更時に入力。未変更なら空欄。
+      placeholder: https://www.example.jp/page
+    validations:
+      required: false
+  - type: input
+    id: new_webhook_key
+    attributes:
+      label: webhookKey
+      description: 新規追加または通知先変更時に入力。未変更なら空欄。
+      placeholder: DISCORD_WEBHOOK_PAGE_TOKYO
+    validations:
+      required: false
+  - type: dropdown
+    id: follow_link_action
+    attributes:
+      label: followLinkの操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: input
+    id: follow_link_text_match
+    attributes:
+      label: followLink.textMatch
+      description: followLink操作が「置換」のとき入力。
+      placeholder: 次回の開催について
+    validations:
+      required: false
+  - type: input
+    id: follow_link_selector
+    attributes:
+      label: followLink.selector
+      description: 任意。followLink操作が「置換」のとき入力。
+      placeholder: a
+    validations:
+      required: false
+  - type: dropdown
+    id: content_selector_action
+    attributes:
+      label: contentSelectorの操作
+      options:
+        - 変更なし
+        - 置換
+        - 全削除
+    validations:
+      required: true
+  - type: input
+    id: new_content_selector
+    attributes:
+      label: contentSelector
+      description: contentSelector操作が「置換」のとき入力。
+      placeholder: #main
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: 備考
+      description: 任意。運用メモとして記録。
+    validations:
+      required: false

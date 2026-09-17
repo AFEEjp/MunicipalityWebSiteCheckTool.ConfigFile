@@ -1,0 +1,11 @@
+{
+  "id": "c79c689c65b2687f0682fea78d39eb71ca22c19f0512ad0e053fb503e4d14536",
+  "name": "三重県",
+  "url": "https://www.pref.mie.lg.jp/app/rss/new_rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

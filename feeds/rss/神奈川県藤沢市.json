@@ -1,0 +1,11 @@
+{
+  "id": "5ef53111f2c675d6a6fce65823384ef60c6c8c5590ae6eca4e71e5f6065fbedc",
+  "name": "神奈川県藤沢市",
+  "url": "https://www.city.fujisawa.kanagawa.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

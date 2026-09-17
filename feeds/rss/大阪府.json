@@ -1,0 +1,11 @@
+{
+  "id": "d516dd8c728b66d823f81b83780329d86392ead3c746300667a122680cfd1ee1",
+  "name": "大阪府",
+  "url": "https://www.pref.osaka.lg.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

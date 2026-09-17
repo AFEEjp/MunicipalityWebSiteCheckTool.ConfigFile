@@ -1,0 +1,11 @@
+{
+  "id": "f20d05d291223c993c67d29d773827bd08a1a52ef20b13e5b44f6b77e1e1a12f",
+  "name": "東京都新宿区",
+  "url": "https://www.city.shinjuku.lg.jp/top_rss.rdf",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

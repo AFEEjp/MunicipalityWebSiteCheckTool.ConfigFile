@@ -1,0 +1,11 @@
+{
+  "id": "f19c55c948f9b79bf01cc9cbafedeb4b80355931e871358dac5fd85524b82b73",
+  "name": "愛媛県",
+  "url": "https://www.pref.ehime.jp/rss/20/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

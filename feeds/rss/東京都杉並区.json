@@ -1,0 +1,11 @@
+{
+  "id": "b353a6cc18bede6724ea24aa96298f00899e27089bedaf42dbc9dfc3c1e4bfeb",
+  "name": "東京都杉並区",
+  "url": "https://www.city.suginami.tokyo.jp/kusei/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

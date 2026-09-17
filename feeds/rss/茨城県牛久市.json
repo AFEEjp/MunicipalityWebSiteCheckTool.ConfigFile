@@ -1,0 +1,11 @@
+{
+  "id": "39475f6f3611a55ae0b19b840b54e56c8c6765e029e4578fbfe0c8ac8765d94f",
+  "name": "茨城県牛久市",
+  "url": "https://www.city.ushiku.lg.jp/rss.php?mode=news&type=0",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

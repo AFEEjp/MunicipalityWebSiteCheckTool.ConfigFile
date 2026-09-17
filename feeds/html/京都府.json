@@ -1,0 +1,11 @@
+{
+  "id": "bb9edfa5926a42a906a698e7f7bafc64a2baf5dea1ab3e1a6a147b64d534df55",
+  "name": "京都府",
+  "url": "https://www.pref.kyoto.jp/comment/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

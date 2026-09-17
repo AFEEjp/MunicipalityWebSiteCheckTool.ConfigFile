@@ -1,0 +1,11 @@
+{
+  "id": "4a0d48f0efd0ebb58556dc015ab2806ad57a4fd192546e5a6ebee49b375b4ec2",
+  "name": "神奈川県横浜市",
+  "url": "https://www.city.yokohama.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

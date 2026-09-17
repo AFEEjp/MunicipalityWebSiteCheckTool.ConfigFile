@@ -1,0 +1,11 @@
+{
+  "id": "4d63b0ce0d13d3ac1ee77d90685eb9c741a66ce813e0c8bb1c84c0786d236c5f",
+  "name": "埼玉県さいたま市",
+  "url": "https://www.city.saitama.lg.jp/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

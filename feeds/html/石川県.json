@@ -1,0 +1,11 @@
+{
+  "id": "930e8043d471af7a2c1222c4ab5027ba97ce311734d6fb05d220bfe6ff536583",
+  "name": "石川県",
+  "url": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

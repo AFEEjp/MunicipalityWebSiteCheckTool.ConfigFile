@@ -1,0 +1,11 @@
+{
+  "id": "f44e3c7e5b8a5166e4b7fcbbf80373792b49f21428d514d2fc52669bb47e6518",
+  "name": "長崎県",
+  "url": "https://www.pref.nagasaki.jp/doc/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

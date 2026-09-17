@@ -1,0 +1,11 @@
+{
+  "id": "a6cee160cb556023c228c799a6c1245c378c5478704a4584f297c7ffd428dfc2",
+  "name": "福島県",
+  "url": "https://www.pref.fukushima.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

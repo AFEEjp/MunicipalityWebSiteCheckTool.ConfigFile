@@ -1,0 +1,11 @@
+{
+  "id": "02d5771df92ca2f7f8ff3d651313ddab5129efb02084a59710e03149b540a489",
+  "name": "東京都大田区",
+  "url": "https://www.city.ota.tokyo.jp/oshirase/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

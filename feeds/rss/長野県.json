@@ -1,0 +1,11 @@
+{
+  "id": "44ed8cb6d3dff9077cf4f14a9fb5fabb72eacda187606f2a73c3c45b98610906",
+  "name": "長野県",
+  "url": "https://www.pref.nagano.lg.jp/kensei/koho/pressreleases/pressreleases.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

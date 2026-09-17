@@ -1,0 +1,11 @@
+{
+  "id": "c59056ba288a835855213ebc180836e1044a33ff790743ce69a6232f24667f47",
+  "name": "宮崎県",
+  "url": "https://www.pref.miyazaki.lg.jp/shinchaku/shincyaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

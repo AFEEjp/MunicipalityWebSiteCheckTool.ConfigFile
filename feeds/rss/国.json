@@ -1,0 +1,11 @@
+{
+  "id": "ca95d89cf9ce3572ffe65db6701958174cbea2a9d7f513e7bd1606579e30dfe5",
+  "name": "国",
+  "url": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

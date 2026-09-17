@@ -1,0 +1,11 @@
+{
+  "id": "1bd7bd3ec0f654dce57ce8c3941dd26a8f87cf260e4dcb8a888787a56ec6536e",
+  "name": "東京都",
+  "url": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

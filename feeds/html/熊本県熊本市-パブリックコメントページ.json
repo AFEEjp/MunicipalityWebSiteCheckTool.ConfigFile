@@ -1,0 +1,11 @@
+{
+  "id": "c32defc0d349a53c1c4e0d2134bbb9a122094ee186e2af1b4617c1078bc8bb8a",
+  "name": "熊本県熊本市",
+  "url": "https://www.city.kumamoto.jp/kiji003283/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

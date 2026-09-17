@@ -1,0 +1,11 @@
+{
+  "id": "759d355e096026a43800807ca70e281e3ebd9bacd1a92d09b96fae584af9f76e",
+  "name": "青森県",
+  "url": "https://www.pref.aomori.lg.jp/soshiki/soumu/koho/iken.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

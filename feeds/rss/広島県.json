@@ -1,0 +1,11 @@
+{
+  "id": "c5a57e2dbfd116d0071fb8a73ab43aa675f437576f16206723a96cf8dd55c75f",
+  "name": "広島県",
+  "url": "https://www.pref.hiroshima.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

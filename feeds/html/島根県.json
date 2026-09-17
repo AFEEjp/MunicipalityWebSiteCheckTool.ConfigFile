@@ -1,0 +1,11 @@
+{
+  "id": "b4e7957d43e31711a0cd168b8758772c1285d238245c583a00ea82c5a01df5bc",
+  "name": "島根県",
+  "url": "https://www.pref.shimane.lg.jp/admin/seisaku/koho/come/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

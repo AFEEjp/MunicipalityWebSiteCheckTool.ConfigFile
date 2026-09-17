@@ -1,0 +1,11 @@
+{
+  "id": "cc0968b5e3f8218ea07635f66bace6ac1a9384f17d7a5194683caafec909f559",
+  "name": "福岡県福岡市",
+  "url": "https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7354.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "95ad2563ca6f28f6597565e48c49221dcc04fa709ed7c14cd18c6640a9e3a02f",
+  "name": "北海道",
+  "url": "https://www.pref.hokkaido.lg.jp/news/rss.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

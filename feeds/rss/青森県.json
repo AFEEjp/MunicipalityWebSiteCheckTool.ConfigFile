@@ -1,0 +1,11 @@
+{
+  "id": "97ea223ddd9bda975e1269362c6dd21c6ae8df424d0880b6ac50009fb11f447b",
+  "name": "青森県",
+  "url": "https://www.pref.aomori.lg.jp/rss/feed.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

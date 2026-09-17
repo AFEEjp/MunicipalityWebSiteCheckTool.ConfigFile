@@ -1,0 +1,11 @@
+{
+  "id": "b7cd5d3b1f5c9e79d3b2ba93479bdf5ba364d8bf0381feb0d971fe43d3d9c5bc",
+  "name": "東京都豊島区",
+  "url": "https://www.city.toshima.lg.jp/oshirase/oshirase.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

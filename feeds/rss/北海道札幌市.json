@@ -1,0 +1,11 @@
+{
+  "id": "5aae2ffc19d7daed36de5ed5be3c2c219eabae5f48e2317d72d274223f698884",
+  "name": "北海道札幌市",
+  "url": "https://www.city.sapporo.jp/new/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

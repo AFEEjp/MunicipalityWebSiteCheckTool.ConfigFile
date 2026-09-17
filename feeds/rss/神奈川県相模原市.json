@@ -1,0 +1,11 @@
+{
+  "id": "8bf1e9a533b833ff6931d23a197713d29fc2b2e5676cb93840b102c824f4b5dc",
+  "name": "神奈川県相模原市",
+  "url": "https://www.city.sagamihara.kanagawa.jp/rss.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a20a30fdc6c2096975d575257b8e9a4b3081a54c54384960efeec9872ea3e616",
+  "name": "宮崎県",
+  "url": "https://www.pref.miyazaki.lg.jp/kense/koho/p-comment/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

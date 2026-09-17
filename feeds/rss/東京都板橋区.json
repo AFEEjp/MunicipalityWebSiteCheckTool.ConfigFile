@@ -1,0 +1,11 @@
+{
+  "id": "dc691d879cf7b5d274959c356f8c83d0c90d6489eec931cc9847dbd43150ce00",
+  "name": "東京都板橋区",
+  "url": "https://www.city.itabashi.tokyo.jp/rss/news_release.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

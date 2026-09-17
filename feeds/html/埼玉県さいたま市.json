@@ -1,0 +1,11 @@
+{
+  "id": "0265ce77874529e38b956b8c7a0af1c0304d264920a59640d0ec1478493dfaa9",
+  "name": "埼玉県さいたま市",
+  "url": "https://www.city.saitama.lg.jp/006/002/008/002/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

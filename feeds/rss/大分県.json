@@ -1,0 +1,11 @@
+{
+  "id": "c5985bac0eeedaa57d2199638a65edd10b9c59f8ab4074d8e48fa1d31e8deae6",
+  "name": "大分県",
+  "url": "https://www.pref.oita.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

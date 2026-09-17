@@ -1,0 +1,12 @@
+{
+  "id": "90aee87e44c430a100a39b9584e37f475dce3f53c130fd8a6e007a94318297e3",
+  "name": "滋賀県",
+  "url": "https://www.pref.shiga.lg.jp/bj00/10105.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  },
+  "notes": "https://www.pref.shiga.lg.jp/kensei/kenseisanka/22148.html から変更"
+}

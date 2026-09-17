@@ -1,0 +1,11 @@
+{
+  "id": "c118bc818f2e4996fc2b9447a9f17bed9320f458a47596a3bb05fbe2c786c742",
+  "name": "埼玉県朝霞市",
+  "url": "https://www.city.asaka.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

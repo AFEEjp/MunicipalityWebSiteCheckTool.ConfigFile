@@ -1,0 +1,11 @@
+{
+  "id": "d5b30df9722620a93ac4484da9af01b66c1d27f46b1d378efdae0b0db5df8de3",
+  "name": "熊本県熊本市",
+  "url": "https://www.city.kumamoto.jp/new_list.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

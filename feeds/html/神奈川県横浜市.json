@@ -1,0 +1,11 @@
+{
+  "id": "356bf8539aa4c65785c86a0539c6151de32e5bfecf3669c660b903c41176333c",
+  "name": "神奈川県横浜市",
+  "url": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/kocho/public/public-jyokyo.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

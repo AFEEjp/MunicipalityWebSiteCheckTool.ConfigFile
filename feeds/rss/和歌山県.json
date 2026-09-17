@@ -1,0 +1,11 @@
+{
+  "id": "534a6cc4d0ae2370e970ed6bc11d7625a764132c744d555d90d21a3c1831b61c",
+  "name": "和歌山県",
+  "url": "https://www.pref.wakayama.lg.jp/whatsnew/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

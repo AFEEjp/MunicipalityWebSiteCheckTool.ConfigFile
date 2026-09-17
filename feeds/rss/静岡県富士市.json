@@ -1,0 +1,11 @@
+{
+  "id": "fcd4f1119f2a7480627badd1d50fe5d130a2b74b0ef2b3ff0b3beac8308e83ae",
+  "name": "静岡県富士市",
+  "url": "https://www.city.fuji.shizuoka.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

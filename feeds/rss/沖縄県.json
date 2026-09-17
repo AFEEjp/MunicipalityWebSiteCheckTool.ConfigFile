@@ -1,0 +1,11 @@
+{
+  "id": "2a9a82916a3312651e78057844f20a7eb5653535a087bd4a1db7e188f2be351a",
+  "name": "沖縄県",
+  "url": "https://www.pref.okinawa.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

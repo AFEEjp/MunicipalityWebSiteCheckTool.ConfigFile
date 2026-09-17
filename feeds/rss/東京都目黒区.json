@@ -1,0 +1,11 @@
+{
+  "id": "d586aaaafc2d81f0290fe0b36b12f078bf2d1d16a93f4bd5410d2a6e196533df",
+  "name": "東京都目黒区",
+  "url": "https://www.city.meguro.tokyo.jp/oshirase/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

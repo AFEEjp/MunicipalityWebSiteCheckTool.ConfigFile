@@ -1,0 +1,11 @@
+{
+  "id": "54723c27ed6704f584238cf39c043443d9fb664b974fb79ba5837aea593413c6",
+  "name": "山梨県",
+  "url": "https://www.pref.yamanashi.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a231de2807b59f67d97b9f563dc3e92143db2f092153b835f8ccd323c661def5",
+  "name": "富山県",
+  "url": "https://www.pref.toyama.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

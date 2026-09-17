@@ -1,0 +1,11 @@
+{
+  "id": "afce92b215584ec3a5c83191ebf4e80dc7d352f522bc5033d11114c8faccc080",
+  "name": "大阪府",
+  "url": "https://www.pref.osaka.lg.jp/o070050/fumin/public/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

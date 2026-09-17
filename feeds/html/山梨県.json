@@ -1,0 +1,11 @@
+{
+  "id": "981f0f873f1eeaae1d70e70c05445cf4af06f7676e4e36a38250918da9c9cc33",
+  "name": "山梨県",
+  "url": "https://www.pref.yamanashi.jp/gyoukaku/public/gyoukaku/boshuchu.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

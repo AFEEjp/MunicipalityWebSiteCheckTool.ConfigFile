@@ -1,0 +1,11 @@
+{
+  "id": "11996e5ac0d78385af7c8b860512d042f5686b532bc66343a405fffd3a7c9050",
+  "name": "岐阜県垂井町",
+  "url": "https://www.town.tarui.lg.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

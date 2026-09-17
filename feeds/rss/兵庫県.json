@@ -1,0 +1,11 @@
+{
+  "id": "9f3425513bb51c60bb5aa9cbc5c5c1fb922324cff65a891634aa0d7754c3f08a",
+  "name": "兵庫県",
+  "url": "https://web.pref.hyogo.lg.jp/topics.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

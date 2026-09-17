@@ -1,0 +1,11 @@
+{
+  "id": "73a0d49db8f5cbd238f9553809ba7fcac6e52d2845a88677817b6beabd3de258",
+  "name": "東京都武蔵野市",
+  "url": "https://www.city.musashino.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

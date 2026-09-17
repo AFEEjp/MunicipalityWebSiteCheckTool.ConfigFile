@@ -1,0 +1,11 @@
+{
+  "id": "9af6e73340dc2a72b3a8c53325835aa03698b62d6737e806c244263faa2c3b80",
+  "name": "国",
+  "url": "https://www.cfa.go.jp/news",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

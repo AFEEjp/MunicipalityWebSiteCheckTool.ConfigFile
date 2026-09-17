@@ -1,0 +1,11 @@
+{
+  "id": "b302a62e8f73c28fa09987edf7025d51f40fdc0bd8ec2784bd9939a1c96f3d8c",
+  "name": "福井県",
+  "url": "https://www.pref.fukui.lg.jp/doc/kouho/pabukome/publicjissi2.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "249425ad41dfb9071762d1ca738680818c6d1a9ea798a00f2624d53b3ea68160",
+  "name": "香川県",
+  "url": "https://www.pref.kagawa.lg.jp/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

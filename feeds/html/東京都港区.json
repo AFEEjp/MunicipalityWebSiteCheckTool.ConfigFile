@@ -1,0 +1,11 @@
+{
+  "id": "2f16211ca9d6cb0b135dcc8f5222eaa8ba25baa18cd7fb7a1e28b88d2306aae6",
+  "name": "東京都港区",
+  "url": "https://www.city.minato.tokyo.jp/kouchou/kuse/kocho/kuseiken/boshu.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40170383f8c7982d1e9aa831a00cdfc55cde9cfdbae723bf12329620bc635f62",
+  "name": "宮城県",
+  "url": "https://www.pref.miyagi.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

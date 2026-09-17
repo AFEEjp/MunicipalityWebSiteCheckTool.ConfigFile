@@ -1,0 +1,11 @@
+{
+  "id": "df2b4065c21e02869b146e95e04791a19cbaef4edb7b6cd82497eb0526dcdebf",
+  "name": "東京都江戸川区",
+  "url": "https://www.city.edogawa.tokyo.jp/news/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

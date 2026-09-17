@@ -1,0 +1,90 @@
+name: Feed監視追加
+description: 新しいfeed監視対象の追加依頼
+title: "[Feed追加] "
+labels:
+  - config-request
+  - feed
+body:
+  - type: input
+    id: target_name
+    attributes:
+      label: 監視対象名
+      description: 自治体名や機関名など
+      placeholder: 例) 東京都〇〇区
+    validations:
+      required: true
+  - type: dropdown
+    id: feed_type
+    attributes:
+      label: feed種別
+      options:
+        - rss
+        - html
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: dropdown
+    id: cadence
+    attributes:
+      label: 実行頻度(cadence)
+      description: fast=15分ごと / normal=毎時 / slow=6時間ごと の目安で実行されます
+      options:
+        - fast
+        - normal
+        - slow
+      default: 1
+    validations:
+      required: true
+  - type: input
+    id: max_seen
+    attributes:
+      label: maxSeen（任意）
+      placeholder: "500"
+    validations:
+      required: false
+  - type: textarea
+    id: match_first
+    attributes:
+      label: 個別match.first（任意）
+      description: 改行区切り。未入力時は共通defaultMatchを使用
+      placeholder: |
+        意見募集
+        パブリックコメント
+    validations:
+      required: false
+  - type: textarea
+    id: match_second
+    attributes:
+      label: 個別match.second（任意）
+      description: 改行区切り。未入力時は共通defaultMatchを使用
+      placeholder: |
+        条例
+        計画
+    validations:
+      required: false
+  - type: textarea
+    id: match_exclude
+    attributes:
+      label: 個別match.exclude（任意）
+      description: 改行区切り。未入力可
+    validations:
+      required: false
+  - type: input
+    id: webhook_key
+    attributes:
+      label: 個別Webhook Secret名（任意）
+      placeholder: "DISCORD_WEBHOOK_PUBCOM_SUB"
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: 補足（任意）
+    validations:
+      required: false

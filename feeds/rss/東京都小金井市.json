@@ -1,0 +1,11 @@
+{
+  "id": "20c57b97807deda21d298c60f4e28454e7a402446bf177a46104039fd5740b2d",
+  "name": "東京都小金井市",
+  "url": "https://www.city.koganei.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

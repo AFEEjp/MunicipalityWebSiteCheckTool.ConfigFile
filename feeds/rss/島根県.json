@@ -1,0 +1,11 @@
+{
+  "id": "cf1b883ffa1aa3de698fa8b8c1cba2bf548dfe376049070151a7d6a3d1eac742",
+  "name": "島根県",
+  "url": "https://www.pref.shimane.lg.jp/top_news.rdf",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

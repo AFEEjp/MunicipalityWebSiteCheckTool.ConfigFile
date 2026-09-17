@@ -1,0 +1,11 @@
+{
+  "id": "b3a9c3d87a515c74cfe43ebddedbc423516c9a1b8b035821f766a8a11f6ca8b5",
+  "name": "東京都荒川区",
+  "url": "https://www.city.arakawa.tokyo.jp/news/ippan_all.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

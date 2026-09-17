@@ -1,0 +1,11 @@
+{
+  "id": "944610c989e3479e60dd0096958f8d86434688544b6d352df77f4a43e5a85d3e",
+  "name": "北海道",
+  "url": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

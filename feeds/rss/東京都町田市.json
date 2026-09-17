@@ -1,0 +1,11 @@
+{
+  "id": "ef71e5bb50407a6afe9b124372c33bc5a84be0bbe03d97667adc03fcb4711ee4",
+  "name": "東京都町田市",
+  "url": "https://www.city.machida.tokyo.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

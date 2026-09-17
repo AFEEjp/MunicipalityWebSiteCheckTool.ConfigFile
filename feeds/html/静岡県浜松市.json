@@ -1,0 +1,11 @@
+{
+  "id": "307ce7375d705642491b0e42d65951ceb38b079ec1cfddd957ef687c2227de41",
+  "name": "静岡県浜松市",
+  "url": "https://www.city.hamamatsu.shizuoka.jp/oshirase/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

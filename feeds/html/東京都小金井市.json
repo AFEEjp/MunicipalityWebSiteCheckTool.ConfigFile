@@ -1,0 +1,11 @@
+{
+  "id": "1de08544323547a5d36e41b9dd5ebe4461135b9f6c06243cd600be2b3f8a1e20",
+  "name": "東京都小金井市",
+  "url": "https://www.city.koganei.lg.jp/shisei/S01/S03/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

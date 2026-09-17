@@ -1,0 +1,11 @@
+{
+  "id": "369c924585939e1134a33194c9fc33044d1b8afcd166e49e09f6e7e3159f7d29",
+  "name": "熊本県",
+  "url": "https://www.pref.kumamoto.jp/life/sub/7/index-2.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

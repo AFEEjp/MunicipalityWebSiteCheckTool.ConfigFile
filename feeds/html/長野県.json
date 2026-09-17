@@ -1,0 +1,11 @@
+{
+  "id": "3c1d8ea8d2288ab005c198dda509e645f491f7f1558fb8a4c7dc1e94f8d5861b",
+  "name": "長野県",
+  "url": "https://www.pref.nagano.lg.jp/koho/kensei/koho/public/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

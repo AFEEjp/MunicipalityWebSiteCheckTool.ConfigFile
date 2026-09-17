@@ -1,0 +1,11 @@
+{
+  "id": "dd313502df22289dabe4ce89a159e69a54619cc9ad71f5d8a6b5334748f03976",
+  "name": "神奈川県",
+  "url": "https://www.pref.kanagawa.jp/pub/list-2.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

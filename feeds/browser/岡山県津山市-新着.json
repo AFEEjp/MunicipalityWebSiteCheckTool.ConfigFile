@@ -1,0 +1,14 @@
+{
+  "id": "q7m4z9c1x2b8v6n5k3d0f4h1j8l2p9s6t3w7y0a5e2r8u1i6o4g9m2n7c5f3o4n8",
+  "name": "岡山県津山市",
+  "url": "https://www.city.tsuyama.lg.jp/articleList?tabType=all&articleListContentsType=latest",
+  "type": "browser",
+  "browser": {
+    "timeoutMs": 15000
+  },
+  "cadence": "normal",
+  "temporaryDisabled": false,
+  "state": {
+    "maxSeen": 500
+  }
+}

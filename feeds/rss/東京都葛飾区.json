@@ -1,0 +1,11 @@
+{
+  "id": "dfb11990cd4985460328820c0d64f3275aa5826b7c693478ea768eaf2ac6a956",
+  "name": "東京都葛飾区",
+  "url": "https://www.city.katsushika.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

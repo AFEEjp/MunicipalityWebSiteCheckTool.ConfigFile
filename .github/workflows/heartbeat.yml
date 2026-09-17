@@ -1,0 +1,30 @@
+name: heartbeat
+
+on:
+  schedule:
+    - cron: "13 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_ERROR: ${{ secrets.DISCORD_WEBHOOK_ERROR }}
+
+    steps:
+      - name: Send heartbeat
+        shell: bash
+        run: |
+          payload='{"content":"[heartbeat] GitHub Actions workflow is alive."}'
+          curl --fail-with-body -sS \
+            -H "Content-Type: application/json" \
+            -X POST \
+            -d "$payload" \
+            "$DISCORD_WEBHOOK_ERROR"

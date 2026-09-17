@@ -1,0 +1,11 @@
+{
+  "id": "13d0dd8d21a335668090080dc7a44f5264b1a8ee7096ae780ae81f4d6bdf6b78",
+  "name": "国",
+  "url": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTLIST&Mode=0",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "42fc052c236ae7f0948d934776bb30bbe47ddbd42fb19818528d4a4008106866",
+  "name": "岡山県",
+  "url": "https://www.pref.okayama.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

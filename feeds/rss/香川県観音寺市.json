@@ -1,0 +1,11 @@
+{
+  "id": "70a4052caaf4bfb218a3de19c01584509a89fea1509bbc9b546e0b7c6df45b7d",
+  "name": "香川県観音寺市",
+  "url": "https://www.city.kanonji.kagawa.jp/rss/10/list1.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9fcaa12ed6331f04b31e1cfc2b1d8ce0127c6a8a11c206a21538d84fdc97ce8e",
+  "name": "東京都日野市",
+  "url": "https://www.city.hino.lg.jp/rss.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

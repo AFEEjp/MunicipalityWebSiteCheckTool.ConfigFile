@@ -1,0 +1,11 @@
+{
+  "id": "af7353c64d2a8f6f77741fa0f47ced9db2edb86c5a04aae8112d2e0680aa0cca",
+  "name": "千葉県松戸市",
+  "url": "https://www.city.matsudo.chiba.jp/shiminnokoe/pabu_come/anken/index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

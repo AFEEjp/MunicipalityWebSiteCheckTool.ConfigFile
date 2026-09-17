@@ -1,0 +1,11 @@
+{
+  "id": "b58c77f13b97b830ab335e961db8bbfd972bffddafcd98c60e8740134125b543",
+  "name": "高知県",
+  "url": "https://www.pref.kochi.lg.jp/category/bunya/kenseijoho/public_comment/index.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

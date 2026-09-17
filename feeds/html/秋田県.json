@@ -1,0 +1,11 @@
+{
+  "id": "e50a02aaf246a6b71efe3508682601655a7f744cebae29a578171f7f3195d497",
+  "name": "秋田県",
+  "url": "https://www.pref.akita.lg.jp/pages/archive/390",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

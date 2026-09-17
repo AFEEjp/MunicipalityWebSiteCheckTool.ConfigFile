@@ -1,0 +1,11 @@
+{
+  "id": "04453d90b6b53c7c5f9c7b2a00b8471e35b74a0261eaa46c0027df85d5ae6b37",
+  "name": "宮城県仙台市",
+  "url": "https://www.city.sendai.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

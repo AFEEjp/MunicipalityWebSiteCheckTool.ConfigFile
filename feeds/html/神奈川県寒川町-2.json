@@ -1,0 +1,11 @@
+{
+  "id": "06446d489fde7254766431f916d40b710261bee3d51150b438fddd35220e31be",
+  "name": "神奈川県寒川町",
+  "url": "https://www.town.samukawa.kanagawa.jp/news.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

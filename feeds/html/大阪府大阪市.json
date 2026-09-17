@@ -1,0 +1,11 @@
+{
+  "id": "a2cd3acb151dd4e86306d5179e337588f50db55ebeb1a73f99eb48090e8f332c",
+  "name": "大阪府大阪市",
+  "url": "https://www.city.osaka.lg.jp/templates/jorei_boshu/0-Curr.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

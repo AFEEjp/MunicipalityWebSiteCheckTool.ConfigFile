@@ -1,0 +1,11 @@
+{
+  "id": "653427b6ad319bafff2a7a236577fe83c9f1cef56afb27fe5b5b3400e7ad2a12",
+  "name": "愛知県名古屋市",
+  "url": "https://www.city.nagoya.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

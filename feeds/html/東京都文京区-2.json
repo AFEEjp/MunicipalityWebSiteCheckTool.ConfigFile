@@ -1,0 +1,11 @@
+{
+  "id": "cb42c6ea59a31199260e7839a27426269934de44f97fa92bd452e1d46f67fe28",
+  "name": "東京都文京区",
+  "url": "https://www.city.bunkyo.lg.jp/chuumoku/chuumoku.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

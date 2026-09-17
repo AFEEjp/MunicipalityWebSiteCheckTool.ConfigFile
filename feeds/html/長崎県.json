@@ -1,0 +1,11 @@
+{
+  "id": "a63f3633da03853bdcf7a43d6cc92e365875b596f1c1ce3dae688ad2a247d834",
+  "name": "長崎県",
+  "url": "https://www.pref.nagasaki.jp/public-comments/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

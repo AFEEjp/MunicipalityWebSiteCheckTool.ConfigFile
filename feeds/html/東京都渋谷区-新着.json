@@ -1,0 +1,11 @@
+{
+  "id": "907c2c94fcdc8b93f58072d0b0d8d2a41cf5ff3021559c4edafd6189a32013cd",
+  "name": "東京都渋谷区",
+  "url": "https://www.city.shibuya.tokyo.jp/contents/news/",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

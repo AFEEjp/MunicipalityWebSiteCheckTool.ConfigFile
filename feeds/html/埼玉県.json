@@ -1,0 +1,11 @@
+{
+  "id": "35481b0da33f0f854d45244f2e941bd6cee2a1f99aab6efc17962dc517a2c466",
+  "name": "埼玉県",
+  "url": "https://www.pref.saitama.lg.jp/a0301/kenminc/bosyuu.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

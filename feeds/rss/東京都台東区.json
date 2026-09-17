@@ -1,0 +1,11 @@
+{
+  "id": "b7b894a86c337b833d6b6b6ac1491d9ad0243d7c5c4b6f1cd6a28fb0fc76a93f",
+  "name": "東京都台東区",
+  "url": "https://www.city.taito.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

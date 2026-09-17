@@ -1,0 +1,50 @@
+name: monitor-state-squash
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-state
+  cancel-in-progress: false
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout monitor-state branch
+        uses: actions/checkout@v5
+        with:
+          ref: monitor-state
+          fetch-depth: 1
+
+      - name: Squash monitor-state history
+        shell: pwsh
+        run: |
+          $tempStatePath = Join-Path $env:RUNNER_TEMP "monitor-state-squash"
+          if (Test-Path $tempStatePath) {
+            Remove-Item -Recurse -Force $tempStatePath
+          }
+
+          if (Test-Path ./state) {
+            Copy-Item -Path ./state -Destination $tempStatePath -Recurse -Force
+          } else {
+            New-Item -ItemType Directory -Path $tempStatePath -Force | Out-Null
+          }
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan monitor-state-temp
+          git rm -r --ignore-unmatch . | Out-Null
+          if (Test-Path ./state) {
+            Remove-Item -Recurse -Force ./state
+          }
+
+          Copy-Item -Path $tempStatePath -Destination ./state -Recurse -Force
+          Set-Content -Path ./README.md -Value "# monitor-state`n`nstate files managed by GitHub Actions."
+          git add state README.md
+          git commit -m "Squash monitor-state history"
+          git push origin HEAD:monitor-state --force

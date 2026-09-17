@@ -1,0 +1,23 @@
+name: monitor-normal
+
+on:
+  schedule:
+    - cron: "11 * * * *"
+      timezone: "Asia/Tokyo"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-state
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    uses: ./.github/workflows/monitor-feed-reusable.yml
+    with:
+      cadence: normal
+      commit-suffix: normal
+      skip-on-holiday: ${{ github.event_name == 'schedule' }}
+    secrets: inherit

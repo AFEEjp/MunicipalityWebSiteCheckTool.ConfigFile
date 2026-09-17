@@ -1,0 +1,11 @@
+{
+  "id": "d606678b2778d8dcdb1544a6eff0f3e51a0829bd4c3b883a1af94a322ac0db96",
+  "name": "香川県三豊市",
+  "url": "https://www.city.mitoyo.lg.jp/cgi-bin/feed.php?type=rss_2.0",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

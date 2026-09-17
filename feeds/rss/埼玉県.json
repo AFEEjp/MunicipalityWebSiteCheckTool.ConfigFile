@@ -1,0 +1,11 @@
+{
+  "id": "ef8a3b235ae372a5a83b4f4de0e9f3216d944186bbde2c87002a6ab2c181bc70",
+  "name": "埼玉県",
+  "url": "https://www.pref.saitama.lg.jp/news/news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

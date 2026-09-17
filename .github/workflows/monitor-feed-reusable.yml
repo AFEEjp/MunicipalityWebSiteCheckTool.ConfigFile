@@ -1,0 +1,225 @@
+name: monitor-feed-reusable
+
+on:
+  workflow_call:
+    inputs:
+      cadence:
+        description: feed 監視の cadence
+        required: true
+        type: string
+      commit-suffix:
+        description: monitor-state 更新コミットの識別子
+        required: true
+        type: string
+      skip-on-holiday:
+        description: 日本時間の休日判定を行い、休日なら本体をスキップするか
+        required: true
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  calendar_guard:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.guard.outputs.should_run }}
+      reason: ${{ steps.guard.outputs.reason }}
+      jst_date: ${{ steps.guard.outputs.jst_date }}
+      jst_now: ${{ steps.guard.outputs.jst_now }}
+    steps:
+      - name: Setup Node.js
+        if: inputs.skip-on-holiday
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Check Japanese business day
+        id: guard
+        shell: bash
+        env:
+          SKIP_ON_HOLIDAY: ${{ inputs.skip-on-holiday }}
+        run: |
+          set +e
+
+          if [ "$SKIP_ON_HOLIDAY" != "true" ]; then
+            {
+              echo "should_run=true"
+              echo "reason=holiday-check-disabled"
+              echo "jst_date="
+              echo "jst_now="
+            } >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          mkdir -p "$RUNNER_TEMP/calendar-guard"
+          cd "$RUNNER_TEMP/calendar-guard"
+          export npm_config_cache="$RUNNER_TEMP/npm-cache"
+          npm init -y >/dev/null 2>&1
+          npm install --silent --no-save --no-package-lock @holiday-jp/holiday_jp@2.5.1
+
+          node <<'NODE'
+          const fs = require('node:fs');
+          const out = process.env.GITHUB_OUTPUT;
+
+          const parts = new Intl.DateTimeFormat('en-US', {
+            timeZone: 'Asia/Tokyo',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            weekday: 'short',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit',
+            hour12: false,
+          }).formatToParts(new Date());
+
+          const map = Object.fromEntries(
+            parts.filter(part => part.type !== 'literal').map(part => [part.type, part.value])
+          );
+
+          const jstDate = `${map.year}-${map.month}-${map.day}`;
+          const jstNow = `${jstDate} ${map.hour}:${map.minute}:${map.second} JST`;
+
+          let shouldRun = true;
+          let reason = 'business-day';
+
+          try {
+            const holidayJp = require('@holiday-jp/holiday_jp');
+            const isWeekend = map.weekday === 'Sat' || map.weekday === 'Sun';
+            const isHoliday = holidayJp.isHoliday(jstDate);
+            shouldRun = !(isWeekend || isHoliday);
+            reason = isWeekend ? 'weekend' : isHoliday ? 'holiday' : 'business-day';
+          } catch (error) {
+            shouldRun = true;
+            reason = `holiday-check-error:${error instanceof Error ? error.message : String(error)}`;
+          }
+
+          fs.appendFileSync(out, `should_run=${String(shouldRun)}\n`);
+          fs.appendFileSync(out, `reason=${reason}\n`);
+          fs.appendFileSync(out, `jst_date=${jstDate}\n`);
+          fs.appendFileSync(out, `jst_now=${jstNow}\n`);
+          NODE
+
+  monitor:
+    needs: calendar_guard
+    if: needs.calendar_guard.outputs.should_run == 'true'
+    runs-on: ubuntu-latest
+    env:
+      MONITOR_RUNTIME_ASSET_URL: https://github.com/AFEEjp/MunicipalityWebSiteCheckTool/releases/download/monitor-runtime/MunicipalityWebSiteCheckTool-linux-x64.zip
+      DISCORD_WEBHOOK_PUBCOM: ${{ secrets.DISCORD_WEBHOOK_PUBCOM }}
+      DISCORD_WEBHOOK_ERROR: ${{ secrets.DISCORD_WEBHOOK_ERROR }}
+      DISCORD_WEBHOOK_PUBCOM_SUB: ${{ secrets.DISCORD_WEBHOOK_PUBCOM_SUB }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Checkout monitor-state branch
+        uses: actions/checkout@v5
+        with:
+          ref: monitor-state
+          path: .state-work
+          fetch-depth: 1
+
+      - name: Ensure state directory
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Path ./.state-work/state -Force | Out-Null
+
+      - name: Download monitor runtime release asset
+        shell: bash
+        run: |
+          curl -fL "$MONITOR_RUNTIME_ASSET_URL" -o ./monitor-runtime.zip
+
+      - name: Extract monitor runtime
+        shell: bash
+        run: |
+          unzip -o ./monitor-runtime.zip -d ./publish
+          chmod +x ./publish/MunicipalityWebSiteCheckTool
+
+      - name: Detect browser mode feeds for this cadence
+        id: detect_browser_mode
+        shell: pwsh
+        env:
+          TARGET_CADENCE: ${{ inputs.cadence }}
+        run: |
+          $needBrowser = $false
+          $files = Get-ChildItem -Path ./feeds -Recurse -File -Filter *.json
+          foreach ($file in $files) {
+            try {
+              $feed = Get-Content -Raw -Path $file.FullName | ConvertFrom-Json
+            } catch {
+              continue
+            }
+
+            $type = [string]$feed.type
+            $cadence = [string]$feed.cadence
+            $temporaryDisabled = [bool]$feed.temporaryDisabled
+            if (
+              $temporaryDisabled -eq $false -and
+              [string]::Equals($type, "browser", [System.StringComparison]::OrdinalIgnoreCase) -and
+              [string]::Equals($cadence, $env:TARGET_CADENCE, [System.StringComparison]::OrdinalIgnoreCase)
+            ) {
+              $needBrowser = $true
+              break
+            }
+          }
+
+          if ($needBrowser) {
+            "need_browser=true" >> $env:GITHUB_OUTPUT
+            Write-Host "browser モード対象あり: Playwright Chromium をセットアップします。"
+          } else {
+            "need_browser=false" >> $env:GITHUB_OUTPUT
+            Write-Host "browser モード対象なし: Playwright セットアップをスキップします。"
+          }
+
+      - name: Install Playwright Chromium
+        if: steps.detect_browser_mode.outputs.need_browser == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          npx -y playwright@1.61.0 install --with-deps chromium
+
+      - name: Run feed monitor
+        run: >
+          ./publish/MunicipalityWebSiteCheckTool
+          --mode feed
+          --cadence ${{ inputs.cadence }}
+          --feeds-dir ./feeds
+          --pages-dir ./pages
+          --feed-settings ./feed-settings.json
+          --state-dir ./.state-work/state
+
+      - name: Update monitor-state branch
+        if: always()
+        shell: pwsh
+        run: |
+          Push-Location ./.state-work
+          try {
+            New-Item -ItemType Directory -Path ./state -Force | Out-Null
+
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            Set-Content -Path ./README.md -Value "# monitor-state`n`nstate files managed by GitHub Actions."
+            git add state README.md
+            if ((git status --short)) {
+              git commit -m "Update monitor state (${{ inputs.commit-suffix }})"
+              git push origin HEAD:monitor-state
+            }
+          } finally {
+            Pop-Location
+          }
+
+  skipped:
+    needs: calendar_guard
+    if: needs.calendar_guard.outputs.should_run != 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Report skipped run
+        run: >
+          echo "skip: ${{ needs.calendar_guard.outputs.reason }}
+          at ${{ needs.calendar_guard.outputs.jst_now }}
+          cadence=${{ inputs.cadence }}"

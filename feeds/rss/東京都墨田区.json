@@ -1,0 +1,11 @@
+{
+  "id": "cd1608d5417e803c18b8c7114ee3a77b9675ddce2bb9ddc2445629df2907c01c",
+  "name": "東京都墨田区",
+  "url": "https://www.city.sumida.lg.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

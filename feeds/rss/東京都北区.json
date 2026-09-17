@@ -1,0 +1,11 @@
+{
+  "id": "ccf4c7fb9793ee491255e296294afb8618868bc2eeb60116aec63a027f97ea7e",
+  "name": "東京都北区",
+  "url": "https://www.city.kita.lg.jp/news.rss",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

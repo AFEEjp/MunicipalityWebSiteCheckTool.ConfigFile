@@ -1,0 +1,11 @@
+{
+  "id": "5c42003470a2551bbe9812e7778cdb82bf25a75b438e96852bab3bf7d35fcf1f",
+  "name": "和歌山県",
+  "url": "https://www.pref.wakayama.lg.jp/prefg/000200/ikenbosyu_index.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

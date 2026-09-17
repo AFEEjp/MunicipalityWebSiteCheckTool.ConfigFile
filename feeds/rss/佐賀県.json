@@ -1,0 +1,11 @@
+{
+  "id": "ce65656d56e6b197bda72d322ec7d35e496f814fd347b5715ce7297282b66f87",
+  "name": "佐賀県",
+  "url": "https://www.pref.saga.lg.jp/new_list.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

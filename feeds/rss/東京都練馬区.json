@@ -1,0 +1,11 @@
+{
+  "id": "8a098e720474971e22347c02a229b41f7331034fbab5a41fb8827b7336ce40c3",
+  "name": "東京都練馬区",
+  "url": "https://www.city.nerima.tokyo.jp/rss_news.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

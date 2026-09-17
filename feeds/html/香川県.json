@@ -1,0 +1,11 @@
+{
+  "id": "0e762cda248aa295c2cdf7b08fa347aeb6e4d1aab60f4de9727a7523107db270",
+  "name": "香川県",
+  "url": "https://www.pref.kagawa.lg.jp/cgi-bin/page/list.php?tpl_type=2&page_type=9",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}

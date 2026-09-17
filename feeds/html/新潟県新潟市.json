@@ -1,0 +1,11 @@
+{
+  "id": "9778368e15bdc2c6bbed6e1408724fa1a8c1beb0a61f308049791a20134a87cb",
+  "name": "新潟県新潟市",
+  "url": "https://www.city.niigata.lg.jp/shisei/kocho/public/bosyuseisaku.html",
+  "type": "html",
+  "temporaryDisabled": false,
+  "cadence": "normal",
+  "state": {
+    "maxSeen": 500
+  }
+}
