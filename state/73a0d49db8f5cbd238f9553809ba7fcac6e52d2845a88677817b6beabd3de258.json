@@ -2,18 +2,27 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T06:43:26.0188048+00:00",
+  "updatedUtc": "2026-09-17T09:58:11.4482249+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "7d9473801ca2e70efd9b35e71bae43f0",
       "title": "令和7年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1054102/1054134/1054143.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1054102/1054134/1054143.html",
       "firstSeenAt": "2026-09-17T04:48:44.0053647+00:00"
+    },
+    {
+      "key": "435380bcfc89e0ad688e1d64506fc735",
+      "title": "子どもプラン推進地域協議会（令和8年度第1回）",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shingikai/kaisaiannai/1055008.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shingikai/kaisaiannai/1055008.html",
+      "firstSeenAt": "2026-09-17T09:58:11.450646+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002212342-65ba5441870b9\u0022",
-    "lastModifiedUtc": "2026-09-17T03:20:30Z"
+    "eTag": "\u002212408-65baa542188a0\u0022",
+    "lastModifiedUtc": "2026-09-17T09:22:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

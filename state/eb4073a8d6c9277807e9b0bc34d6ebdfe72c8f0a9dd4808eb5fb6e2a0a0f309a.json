@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/public_comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-17T06:43:02.1195036+00:00",
+  "updatedUtc": "2026-09-17T09:57:52.1867389+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "a31ed3cdf5b9d02114bf32100ff0ff03",
+      "title": "第六次子どもプラン武蔵野に関するアンケート調査",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/1045644.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/1045644.html",
+      "firstSeenAt": "2026-09-17T09:57:52.190009+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u002298b9-65ba52974212e\u0022",
-    "lastModifiedUtc": "2026-09-17T03:13:03Z"
+    "eTag": "\u002298b9-65baa3956832e\u0022",
+    "lastModifiedUtc": "2026-09-17T09:15:24Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
