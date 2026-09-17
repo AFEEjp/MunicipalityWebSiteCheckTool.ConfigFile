@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.suginami.tokyo.jp/kusei/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T09:58:10.7390302+00:00",
+  "updatedUtc": "2026-09-17T14:56:34.4898362+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "55ed7e5c44dfaa1c253620787466ca34",
       "title": "決算審査意見書・健全化判断比率審査意見書",
+      "firstUrl": "https://www.city.suginami.tokyo.jp/s119/5939.html",
+      "currentUrl": "https://www.city.suginami.tokyo.jp/s119/5939.html",
       "firstSeenAt": "2026-09-17T04:48:43.3587747+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022f413-65b9aecb71247\u0022",
-    "lastModifiedUtc": "2026-09-16T15:00:14Z"
+    "eTag": "\u0022f413-65baad8fe54f2\u0022",
+    "lastModifiedUtc": "2026-09-17T10:00:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
