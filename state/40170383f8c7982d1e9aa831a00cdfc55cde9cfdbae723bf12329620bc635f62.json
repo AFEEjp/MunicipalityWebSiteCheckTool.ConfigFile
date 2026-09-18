@@ -2,12 +2,27 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyagi.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-18T00:11:58.1114894+00:00",
+  "updatedUtc": "2026-09-18T04:41:39.5651678+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "bc54c9b9a85f7d098c4e26a3fe3db6e1",
+      "title": "「（仮称）宮城県インターネット上の誹謗中傷等防止条例骨子案」に対する御意見（パブリックコメント）の募集結果と御意見に対する宮城県議会の考え方について",
+      "firstUrl": "https://www.pref.miyagi.jp/site/kengikai/public_comment_20260629.html",
+      "currentUrl": "https://www.pref.miyagi.jp/site/kengikai/public_comment_20260629.html",
+      "firstSeenAt": "2026-09-18T04:41:39.566891+00:00"
+    },
+    {
+      "key": "d45606d7b26b46ae4fac063899e66a2d",
+      "title": "「（仮称）宮城県インターネット上の誹謗中傷等防止条例（条文）案」に対する御意見（パブリックコメント）の募集について",
+      "firstUrl": "https://www.pref.miyagi.jp/site/kengikai/public_comment_20260918.html",
+      "currentUrl": "https://www.pref.miyagi.jp/site/kengikai/public_comment_20260918.html",
+      "firstSeenAt": "2026-09-18T04:41:39.5669545+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00221cf3-65ba99842ae8b\u0022",
-    "lastModifiedUtc": "2026-09-17T08:30:22Z"
+    "eTag": "\u00221e6c-65bb736ccf0f2\u0022",
+    "lastModifiedUtc": "2026-09-18T00:45:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

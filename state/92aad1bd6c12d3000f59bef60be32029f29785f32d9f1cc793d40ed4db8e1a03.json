@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.yamaga.kumamoto.jp/new_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-18T00:12:03.9013185+00:00",
+  "updatedUtc": "2026-09-18T04:41:50.1070223+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022d035fd5b646dd1:0\u0022",
-    "lastModifiedUtc": "2026-09-17T15:05:48Z"
+    "eTag": "\u00228268d0add47dd1:0\u0022",
+    "lastModifiedUtc": "2026-09-18T01:33:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

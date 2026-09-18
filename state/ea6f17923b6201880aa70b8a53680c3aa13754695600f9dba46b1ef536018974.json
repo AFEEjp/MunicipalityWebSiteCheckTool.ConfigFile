@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.soka.saitama.jp/li/060/050/010/030/036/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-18T00:11:36.2164087+00:00",
+  "updatedUtc": "2026-09-18T04:41:07.9806194+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "3b5801f5c92c6d2b259073fbfca11399",
+      "title": "草加市「こども」プラン",
+      "firstUrl": "https://www.city.soka.saitama.jp/cont/s1301/030/030/020/010/006/PAGE000000000000081991.html",
+      "currentUrl": "https://www.city.soka.saitama.jp/cont/s1301/030/030/020/010/006/PAGE000000000000081991.html",
+      "firstSeenAt": "2026-09-18T04:41:07.983545+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-04-27T08:07:52Z"
+    "lastModifiedUtc": "2026-09-18T01:52:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

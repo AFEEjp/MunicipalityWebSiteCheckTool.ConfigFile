@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.niigata.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-18T00:12:00.8373835+00:00",
+  "updatedUtc": "2026-09-18T04:41:44.08504+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022b677-65bb69fb7def7-gzip\u0022",
-    "lastModifiedUtc": "2026-09-18T00:03:02Z"
+    "eTag": "\u0022b6ec-65bba63df3762-gzip\u0022",
+    "lastModifiedUtc": "2026-09-18T04:32:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
