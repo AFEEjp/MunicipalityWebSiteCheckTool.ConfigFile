@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-17T22:07:46.8702492+00:00",
+  "updatedUtc": "2026-09-18T00:11:56.7789901+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "a7397b03ca48b7faed858567e1a2975f",
       "title": "学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律の施行に伴う関係政令の整備に関する政令（案）に関する御意見の募集について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000239\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000239\u0026Mode=0",
       "firstSeenAt": "2026-09-17T04:48:33.6060198+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022e0b5c05188c5b1e23ff6875a6f8058cd-1-gzip\u0022",
-    "lastModifiedUtc": "2026-09-17T00:01:12Z"
+    "eTag": "\u00220d63576a364a56086b0a75e9b2181f74-1-gzip\u0022",
+    "lastModifiedUtc": "2026-09-18T00:01:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
