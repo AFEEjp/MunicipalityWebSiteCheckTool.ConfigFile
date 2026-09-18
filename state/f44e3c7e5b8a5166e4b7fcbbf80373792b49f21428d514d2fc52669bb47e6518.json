@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.nagasaki.jp/doc/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-18T04:41:49.8780725+00:00",
+  "updatedUtc": "2026-09-18T09:41:14.1346987+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "965de1a02422e1c87341bcae30bfeb3c",
+      "title": "長崎県人権尊重を促す条例（仮称）（素案）に対する意見募集結果について",
+      "firstUrl": "https://www.pref.nagasaki.jp/doc/52622.html",
+      "currentUrl": "https://www.pref.nagasaki.jp/doc/52622.html",
+      "firstSeenAt": "2026-09-18T09:41:14.1406863+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00222ecaf-65bba5ef89be4-gzip\u0022",
-    "lastModifiedUtc": "2026-09-18T04:31:15Z"
+    "eTag": "\u00222f4e4-65bbe24b81a2c-gzip\u0022",
+    "lastModifiedUtc": "2026-09-18T09:01:18Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
