@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-23T20:17:12.6323188+00:00",
+  "updatedUtc": "2026-09-23T23:39:10.7076512+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-23T20:00:01Z"
+    "lastModifiedUtc": "2026-09-23T23:30:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
@@ -14,7 +14,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-link|585cf213a7730ee37b7e6fa26604900d0897d867e8dddf893a7be2c07876acc6",
-    "consecutiveCount": 2,
+    "consecutiveCount": 3,
     "lastReason": "migration-link",
     "lastCandidateUrl": "https://www.city.tokyo-nakano.lg.jp/bosai/suigai-hassei/hinanjyo.html",
     "lastConfidence": "medium",
