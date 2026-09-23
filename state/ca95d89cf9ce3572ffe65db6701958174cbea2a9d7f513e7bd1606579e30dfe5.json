@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-18T14:27:26.6933282+00:00",
+  "updatedUtc": "2026-09-23T16:52:06.6091409+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000239\u0026Mode=0",
       "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000239\u0026Mode=0",
       "firstSeenAt": "2026-09-17T04:48:33.6060198+00:00"
+    },
+    {
+      "key": "5fdbcf05b1eb9397306b36fd1baca1e0",
+      "title": "難病の患者に対する医療等に関する法律施行規則第十五条第一項第一号イに規定する厚生労働大臣が定める認定機関が認定する専門医の資格及び児童福祉法施行規則第七条の十第一項第一号に規定する厚生労働大臣が定める認定機関が認定する専門医の資格の一部を改正する告示案に関する御意見の募集について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=495260192\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=495260192\u0026Mode=0",
+      "firstSeenAt": "2026-09-23T16:52:06.6116566+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00220d63576a364a56086b0a75e9b2181f74-1-gzip\u0022",
-    "lastModifiedUtc": "2026-09-18T00:01:23Z"
+    "eTag": "\u0022ab41df952a456ad0a26de6779b69900e-1-gzip\u0022",
+    "lastModifiedUtc": "2026-09-23T00:01:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

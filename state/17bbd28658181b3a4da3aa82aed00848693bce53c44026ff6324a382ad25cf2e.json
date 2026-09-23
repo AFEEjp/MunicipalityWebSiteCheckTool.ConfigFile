@@ -2,21 +2,21 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-18T14:27:04.6551192+00:00",
+  "updatedUtc": "2026-09-23T16:51:44.9510844+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-18T14:00:01Z"
+    "lastModifiedUtc": "2026-09-23T16:30:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
-    "currentFingerprint": "migration-link|f65322480d704b1fb3a327982cfa51bbea2a4dd6cf70db53da4c244fe3650f7b",
-    "consecutiveCount": 11,
+    "currentFingerprint": "migration-link|585cf213a7730ee37b7e6fa26604900d0897d867e8dddf893a7be2c07876acc6",
+    "consecutiveCount": 1,
     "lastReason": "migration-link",
-    "lastCandidateUrl": "https://www.city.tokyo-nakano.lg.jp/event/heiwa.html",
+    "lastCandidateUrl": "https://www.city.tokyo-nakano.lg.jp/bosai/suigai-hassei/hinanjyo.html",
     "lastConfidence": "medium",
     "lastNotifiedFingerprint": "migration-link|f65322480d704b1fb3a327982cfa51bbea2a4dd6cf70db53da4c244fe3650f7b",
     "lastNotifiedUtc": "2026-09-17T05:21:29.9591311+00:00"

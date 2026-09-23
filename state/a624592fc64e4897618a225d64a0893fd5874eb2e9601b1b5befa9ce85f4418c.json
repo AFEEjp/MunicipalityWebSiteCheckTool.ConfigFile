@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.niigata.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-18T14:27:35.0011325+00:00",
+  "updatedUtc": "2026-09-23T16:52:15.1404599+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-18T11:00:03Z"
+    "lastModifiedUtc": "2026-09-23T15:00:27Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
