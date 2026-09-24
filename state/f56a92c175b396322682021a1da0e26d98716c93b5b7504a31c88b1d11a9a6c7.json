@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.yamato.lg.jp/gyosei/shiseijoho/shiminsanka/publiccomment/7752.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-23T23:39:19.2632201+00:00",
+  "updatedUtc": "2026-09-24T04:40:12.8503774+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "f465162a5ab67ed7835b722bc36021ac",
       "title": "人権指針の改定",
+      "firstUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/38/shiminsanka/publiccomment/reiwa6nendo_1/25230.html",
+      "currentUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/38/shiminsanka/publiccomment/reiwa6nendo_1/25230.html",
       "firstSeenAt": "2026-09-17T04:48:25.4349819+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226aa74f96-e00b\u0022",
-    "lastModifiedUtc": "2026-09-14T01:36:22Z"
+    "eTag": "\u00226ab47221-e213\u0022",
+    "lastModifiedUtc": "2026-09-24T00:43:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

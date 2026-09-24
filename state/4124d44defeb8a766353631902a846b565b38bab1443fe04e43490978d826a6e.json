@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.nara.lg.jp/press/press.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-23T23:39:33.3195452+00:00",
+  "updatedUtc": "2026-09-24T04:40:24.0255017+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022c225-65bbd7f774ceb\u0022",
-    "lastModifiedUtc": "2026-09-18T08:15:05Z"
+    "eTag": "\u0022bfd8-65c2f4877c677\u0022",
+    "lastModifiedUtc": "2026-09-24T00:00:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

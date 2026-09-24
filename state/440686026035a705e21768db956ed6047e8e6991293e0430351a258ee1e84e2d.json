@@ -2,12 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.gunma.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-23T23:39:42.4880622+00:00",
+  "updatedUtc": "2026-09-24T04:40:33.3335349+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022f824d5f9\u0022",
-    "lastModifiedUtc": "2026-09-23T15:35:43Z"
+    "lastModifiedUtc": "2026-09-24T04:36:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
