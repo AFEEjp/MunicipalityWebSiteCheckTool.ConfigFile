@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyazaki.lg.jp/kense/koho/p-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-24T09:56:19.8966459+00:00",
+  "updatedUtc": "2026-09-24T14:59:52.9211764+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,6 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002269be-65b7a4324562b\u0022",
     "lastModifiedUtc": "2026-09-15T00:02:10Z"
   },
   "consecutiveFailures": 0,
