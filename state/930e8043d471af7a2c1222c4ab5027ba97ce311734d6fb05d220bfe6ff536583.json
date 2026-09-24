@@ -2,18 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-24T04:40:12.2234924+00:00",
+  "updatedUtc": "2026-09-24T09:56:35.5199452+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "0e1235fe316ac36fcd3a064c009b51cd",
       "title": "いしかわ食文化振興行動宣言（案）",
+      "firstUrl": "https://www.pref.ishikawa.lg.jp/syoko/syokubunka/publiccomment2026.html",
+      "currentUrl": "https://www.pref.ishikawa.lg.jp/syoko/syokubunka/publiccomment2026.html",
       "firstSeenAt": "2026-09-17T04:48:23.5582048+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022662c-65ada29c00669\u0022",
-    "lastModifiedUtc": "2026-09-07T01:01:50Z"
+    "eTag": "\u0022662c-65c355fd2d211\u0022",
+    "lastModifiedUtc": "2026-09-24T07:16:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
