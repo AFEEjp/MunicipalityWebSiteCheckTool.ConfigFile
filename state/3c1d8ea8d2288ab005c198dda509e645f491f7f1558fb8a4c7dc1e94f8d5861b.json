@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.nagano.lg.jp/koho/kensei/koho/public/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-25T07:42:48.412879+00:00",
+  "updatedUtc": "2026-09-25T13:41:56.4157033+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-18T02:11:41Z"
+    "lastModifiedUtc": "2026-09-25T08:07:49Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,78 +2,104 @@
   "version": 1,
   "feedUrl": "https://www.city.chiba.jp/shimin/shimin/jichi/public_comment.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-25T07:42:19.9215674+00:00",
+  "updatedUtc": "2026-09-25T13:41:25.7339047+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "9bffd229b56c9413be8e30cbc9346631",
       "title": "千葉市文化財保存活用地域計画（案）（意見募集期間：令和7年5月28日から6月30日まで）",
+      "firstUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/bunkazai/r7bunkazaihozonkatsuyo_pubcome.html",
+      "currentUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/bunkazai/r7bunkazaihozonkatsuyo_pubcome.html",
       "firstSeenAt": "2026-09-17T04:47:58.5599861+00:00"
     },
     {
       "key": "8869141d566c13da0f2513dac8825dec",
       "title": "「千葉市子ども読書活動推進計画（第5次）（案）」に係るパブリックコメント手続について（公表日：令和8年4月30日）（令和8年4月策定）",
+      "firstUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/chuotoshokan/kanri/kodomo05_publiccomment.html",
+      "currentUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/chuotoshokan/kanri/kodomo05_publiccomment.html",
       "firstSeenAt": "2026-09-17T04:47:58.5604516+00:00"
     },
     {
       "key": "26266b2a6790e6af4919734e9e7a61d5",
       "title": "第5次千葉市男女共同参画ハーモニープラン改定（案）に関するパブリックコメント手続結果について（公表日：令和8年3月31日）（令和8年3月改正）",
+      "firstUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/5thharmonyplan_revision_public-comment.html",
+      "currentUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/5thharmonyplan_revision_public-comment.html",
       "firstSeenAt": "2026-09-17T04:47:58.560743+00:00"
     },
     {
       "key": "bb1231a071990676304257258461d712",
       "title": "「ちば男女共同参画基本計画・第4次ハーモニープラン(案)」パブリックコメント手続実施シート",
+      "firstUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/public-comment-4thharmonyplan.html",
+      "currentUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/public-comment-4thharmonyplan.html",
       "firstSeenAt": "2026-09-17T04:47:58.56173+00:00"
     },
     {
       "key": "2514f1212d8d5f267cba7cba2ead911a",
       "title": "千葉市こども・若者プラン（案）の策定に係るパブリックコメント手続結果について（公表日：令和7年3月31日）",
+      "firstUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/r6_kodomowakamonoplan_public_comment.html",
+      "currentUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/r6_kodomowakamonoplan_public_comment.html",
       "firstSeenAt": "2026-09-17T04:47:58.5618628+00:00"
     },
     {
       "key": "ab171d35c6e62cf8962cb7030383a77b",
       "title": "千葉市こども・若者基本条例（案）パブリックコメント手続結果について（公表日：令和6年11月29日）",
+      "firstUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/kodomowakamonokihonjyourei_shokai.html",
+      "currentUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/kodomowakamonokihonjyourei_shokai.html",
       "firstSeenAt": "2026-09-17T04:47:58.5619977+00:00"
     },
     {
       "key": "6beb12cdbcf04a1e85e08f3b86c847c9",
       "title": "第３次千葉市文化芸術振興計画（案）に係るパブリックコメント手続結果について（公表日：令和6年3月29日）",
+      "firstUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/bunka/keikaku/pabukome2.html",
+      "currentUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/bunka/keikaku/pabukome2.html",
       "firstSeenAt": "2026-09-17T04:47:58.562635+00:00"
     },
     {
       "key": "7f36c50f2df7f5fa63dce1d4c4ff35ed",
       "title": "【提出された意見等の公表】放課後子どもプラン第２期",
+      "firstUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/shogaigakushu/houkagoplan2/houkagoplan2.html",
+      "currentUrl": "https://www.city.chiba.jp/kyoiku/shogaigakushu/shogaigakushu/houkagoplan2/houkagoplan2.html",
       "firstSeenAt": "2026-09-17T04:47:58.5631934+00:00"
     },
     {
       "key": "f0f6c447a8a9896881ab0375037c42eb",
       "title": "【提出された意見等の公表】第２期こども未来応援プラン",
+      "firstUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kateishien/kodomomiraiouenplan.html",
+      "currentUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kateishien/kodomomiraiouenplan.html",
       "firstSeenAt": "2026-09-17T04:47:58.5632766+00:00"
     },
     {
       "key": "6381ba3baa624311853144cfe73f6874",
       "title": "【提出された意見等の公表】男女共同参画プラン（案）",
+      "firstUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/5thdannjyoplan_public-comment.html",
+      "currentUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/danjo/5thdannjyoplan_public-comment.html",
       "firstSeenAt": "2026-09-17T04:47:58.5633547+00:00"
     },
     {
       "key": "89b218e985b8d078ec5e0e5f4fc68063",
       "title": "第2次千葉市文化芸術振興計画（案）に関するパブリックコメント手続実施シート",
+      "firstUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/bunka/keikaku/pabukome1.html",
+      "currentUrl": "https://www.city.chiba.jp/shimin/seikatsubunka/bunka/keikaku/pabukome1.html",
       "firstSeenAt": "2026-09-17T04:47:58.5638628+00:00"
     },
     {
       "key": "62982a2af28e405b4b639f765449b3cd",
       "title": "千葉市こどもプラン（第2期）（案）パブリックコメント手続実施シート",
+      "firstUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/010117pabukome.html",
+      "currentUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/010117pabukome.html",
       "firstSeenAt": "2026-09-17T04:47:58.5640084+00:00"
     },
     {
       "key": "210aa697dd432896ee146424d18085d5",
       "title": "千葉市こどもプラン（案）パブリックコメント手続実施シート",
+      "firstUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/270120pabukome.html",
+      "currentUrl": "https://www.city.chiba.jp/kodomomirai/kodomomirai/kikaku/270120pabukome.html",
       "firstSeenAt": "2026-09-17T04:47:58.5646294+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022dfa7-65b0e25533a2a\u0022",
-    "lastModifiedUtc": "2026-09-09T15:02:54Z"
+    "eTag": "\u0022e10e-65c4af357d9e4\u0022",
+    "lastModifiedUtc": "2026-09-25T09:00:40Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
