@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.machida.tokyo.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-25T13:42:10.5620903+00:00",
+  "updatedUtc": "2026-09-27T18:20:04.8389747+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-25T13:00:02Z"
+    "lastModifiedUtc": "2026-09-27T18:00:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

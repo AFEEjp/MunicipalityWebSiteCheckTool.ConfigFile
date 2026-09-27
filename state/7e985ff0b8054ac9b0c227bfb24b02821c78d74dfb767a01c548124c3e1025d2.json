@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukushima.lg.jp/sec/01010e/koucho-public2026.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-25T13:41:55.0797292+00:00",
+  "updatedUtc": "2026-09-27T18:19:47.5217547+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223eee-65c439b93bd59\u0022",
-    "lastModifiedUtc": "2026-09-25T00:15:02Z"
+    "eTag": "\u00223eee-65c78c3ad347f\u0022",
+    "lastModifiedUtc": "2026-09-27T15:40:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

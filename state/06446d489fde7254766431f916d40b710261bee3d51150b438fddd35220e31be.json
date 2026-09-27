@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.town.samukawa.kanagawa.jp/news.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-25T13:41:52.4050376+00:00",
+  "updatedUtc": "2026-09-27T18:19:44.8393718+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00226a8ff782-1135c\u0022",
-    "lastModifiedUtc": "2026-08-27T08:38:26Z"
+    "eTag": "\u00226ab78482-1135c\u0022",
+    "lastModifiedUtc": "2026-09-26T08:38:26Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

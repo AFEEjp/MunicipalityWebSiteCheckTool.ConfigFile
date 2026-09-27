@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
   "feedType": "html",
-  "updatedUtc": "2026-09-25T13:41:24.7610526+00:00",
+  "updatedUtc": "2026-09-27T18:19:15.3097508+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -53,11 +53,18 @@
       "firstUrl": "https://www.pref.hokkaido.lg.jp/ks/bns/240912.html",
       "currentUrl": "https://www.pref.hokkaido.lg.jp/ks/bns/240912.html",
       "firstSeenAt": "2026-09-17T04:47:57.7353168+00:00"
+    },
+    {
+      "key": "4368cc3e460a57a435606efcd475d79c",
+      "title": "令和６年度・こどものいけん（計画等への意見募集）の結果子ども政策企画課",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/218181.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/218181.html",
+      "firstSeenAt": "2026-09-27T18:19:15.3209369+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226ab67776-7015\u0022",
-    "lastModifiedUtc": "2026-09-25T13:30:30Z"
+    "eTag": "\u00226ab95c17-6ff4\u0022",
+    "lastModifiedUtc": "2026-09-27T18:10:31Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
