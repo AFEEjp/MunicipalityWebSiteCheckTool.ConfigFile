@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.town.saitama-misato.lg.jp/category/5-11-10-1-0-0-0-0-0-0.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-28T00:38:07.992557+00:00",
+  "updatedUtc": "2026-09-28T06:45:47.6444159+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222af2-65c7fbfd6ae37\u0022",
-    "lastModifiedUtc": "2026-09-28T00:00:09Z"
+    "eTag": "\u00222af2-65c84c752892b\u0022",
+    "lastModifiedUtc": "2026-09-28T06:00:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

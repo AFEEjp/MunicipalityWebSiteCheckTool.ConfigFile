@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-28T00:38:41.5525683+00:00",
+  "updatedUtc": "2026-09-28T06:46:29.4093986+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "9685bcafeb1cf03e0c5c89686599efb3",
+      "title": "放課後子ども総合プラン推進のための調査報告書",
+      "firstUrl": "https://www.pref.kanagawa.jp/docs/gt2/houkagokodomosougouplanhoukokusyo.html",
+      "currentUrl": "https://www.pref.kanagawa.jp/docs/gt2/houkagokodomosougouplanhoukokusyo.html",
+      "firstSeenAt": "2026-09-28T06:46:29.4127869+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-28T00:00:23Z"
+    "lastModifiedUtc": "2026-09-28T06:30:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
