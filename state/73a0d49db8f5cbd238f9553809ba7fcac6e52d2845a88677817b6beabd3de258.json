@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-28T06:46:28.3771224+00:00",
+  "updatedUtc": "2026-09-28T15:22:22.2186804+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,11 +18,39 @@
       "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shingikai/kaisaiannai/1055008.html",
       "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shingikai/kaisaiannai/1055008.html",
       "firstSeenAt": "2026-09-17T09:58:11.450646+00:00"
+    },
+    {
+      "key": "f80f2618cd55748c3a7a60f7fe6f81f8",
+      "title": "令和4年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1043471/1043520/1055072.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1043471/1043520/1055072.html",
+      "firstSeenAt": "2026-09-28T15:22:22.2232621+00:00"
+    },
+    {
+      "key": "dcf7a6106a22ed4729ea0e3f3da9d922",
+      "title": "令和6年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1050475/1050511/1050520.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1050475/1050511/1050520.html",
+      "firstSeenAt": "2026-09-28T15:22:22.2237517+00:00"
+    },
+    {
+      "key": "010a7b6c674b9cc821b7b29032a7e68a",
+      "title": "令和5年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1047072/1047119/1047131.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/1047072/1047119/1047131.html",
+      "firstSeenAt": "2026-09-28T15:22:22.2237953+00:00"
+    },
+    {
+      "key": "ed0c5ef07474101488d8cab80544815f",
+      "title": "令和3年度決算に基づく健全化判断比率、資金不足比率審査意見書",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/r4/zaisei/1036728.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/r4/zaisei/1036728.html",
+      "firstSeenAt": "2026-09-28T15:22:22.2238459+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022123ed-65c828d3171fa\u0022",
-    "lastModifiedUtc": "2026-09-28T03:20:44Z"
+    "eTag": "\u002212266-65c8c9c72f8b6\u0022",
+    "lastModifiedUtc": "2026-09-28T15:20:50Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
