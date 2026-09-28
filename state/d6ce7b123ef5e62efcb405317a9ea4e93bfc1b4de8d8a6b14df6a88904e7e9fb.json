@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.hiroshima.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-27T22:04:49.3642296+00:00",
+  "updatedUtc": "2026-09-28T00:38:37.290565+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022966b-65c7dc19520df\u0022",
-    "lastModifiedUtc": "2026-09-27T21:37:28Z"
+    "eTag": "\u00229a43-65c804560ea8c\u0022",
+    "lastModifiedUtc": "2026-09-28T00:37:29Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

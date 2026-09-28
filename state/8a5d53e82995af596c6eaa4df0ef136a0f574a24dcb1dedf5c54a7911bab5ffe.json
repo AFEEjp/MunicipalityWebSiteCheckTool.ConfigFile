@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.nerima.tokyo.jp/kusei/pubcom/oshirase/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-27T22:04:30.0069424+00:00",
+  "updatedUtc": "2026-09-28T00:38:21.3602283+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-27T22:00:20Z"
+    "lastModifiedUtc": "2026-09-28T00:15:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

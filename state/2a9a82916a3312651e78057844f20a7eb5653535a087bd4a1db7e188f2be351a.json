@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.okinawa.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-27T22:04:54.5582129+00:00",
+  "updatedUtc": "2026-09-28T00:38:41.8999498+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002299e9-65c7daac6f769\u0022",
-    "lastModifiedUtc": "2026-09-27T21:31:06Z"
+    "eTag": "\u00229768-65c802ecb8679\u0022",
+    "lastModifiedUtc": "2026-09-28T00:31:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
