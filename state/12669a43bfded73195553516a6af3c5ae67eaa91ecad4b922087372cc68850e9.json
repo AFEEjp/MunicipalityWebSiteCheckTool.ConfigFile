@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-29T15:44:12.959529+00:00",
+  "updatedUtc": "2026-09-29T20:43:52.0220291+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,10 +11,17 @@
       "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomosogo.html",
       "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomosogo.html",
       "firstSeenAt": "2026-09-17T04:48:11.3874285+00:00"
+    },
+    {
+      "key": "52dc5c3028937a2ed44d839148ebfd88",
+      "title": "「第5次中野区環境（かんきょう）基本計画素案（そあん）」について子どもの意見交換（こうかん）会を開催（かいさい）しました（子ども向け）",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/kousou/bunyabetsu/kankyou/ikenkoukan-kodomo.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/kousou/bunyabetsu/kankyou/ikenkoukan-kodomo.html",
+      "firstSeenAt": "2026-09-29T20:43:52.0241666+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-29T15:30:28Z"
+    "lastModifiedUtc": "2026-09-29T20:00:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
