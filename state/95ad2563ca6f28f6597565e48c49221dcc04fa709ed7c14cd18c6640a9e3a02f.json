@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/news/rss.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-29T01:52:46.8440709+00:00",
+  "updatedUtc": "2026-09-29T08:23:58.7462383+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "ebcd92fe11284fcc0c09568e90398ba1",
+      "title": "こどものいけん（10テーマへの意見募集）",
+      "firstUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/r6iken.html",
+      "currentUrl": "https://www.pref.hokkaido.lg.jp/hf/kms/r6iken.html",
+      "firstSeenAt": "2026-09-29T08:23:58.7496867+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00226abb15ad-3cb5\u0022",
-    "lastModifiedUtc": "2026-09-29T01:34:37Z"
+    "eTag": "\u00226abb7377-3cb3\u0022",
+    "lastModifiedUtc": "2026-09-29T08:14:47Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
