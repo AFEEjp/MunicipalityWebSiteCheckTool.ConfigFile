@@ -2,23 +2,27 @@
   "version": 1,
   "feedUrl": "https://www.city.adachi.tokyo.jp/ku/mado/p-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-29T08:23:51.1020005+00:00",
+  "updatedUtc": "2026-09-29T15:44:19.0414698+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "8664b46a45245930e92cafd824c595f0",
       "title": "足立区子ども・若者計画（案）のパブリックコメントの実施について",
+      "firstUrl": "https://www.city.adachi.tokyo.jp/k-hinkon/kodomowakamonokeikaku-comment.html",
+      "currentUrl": "https://www.city.adachi.tokyo.jp/k-hinkon/kodomowakamonokeikaku-comment.html",
       "firstSeenAt": "2026-09-17T04:48:21.6824954+00:00"
     },
     {
       "key": "6515748e3ed81bcf4d2b3c1895d16e24",
       "title": "第２次足立区人権推進指針 人権の推進をめざして（素案）",
+      "firstUrl": "https://www.city.adachi.tokyo.jp/somu/dai2jijinkenshishin-publiccomment.html",
+      "currentUrl": "https://www.city.adachi.tokyo.jp/somu/dai2jijinkenshishin-publiccomment.html",
       "firstSeenAt": "2026-09-17T04:48:21.6826573+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226bcb-65b7b12f3715d\u0022",
-    "lastModifiedUtc": "2026-09-15T01:00:17Z"
+    "eTag": "\u00226bcb-65ca070c9e362\u0022",
+    "lastModifiedUtc": "2026-09-29T15:00:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
