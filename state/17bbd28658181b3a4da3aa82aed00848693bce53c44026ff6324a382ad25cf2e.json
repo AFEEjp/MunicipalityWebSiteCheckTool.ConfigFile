@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-28T21:54:18.1140436+00:00",
+  "updatedUtc": "2026-09-29T01:52:31.2189013+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-28T21:30:03Z"
+    "lastModifiedUtc": "2026-09-29T01:32:29Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
