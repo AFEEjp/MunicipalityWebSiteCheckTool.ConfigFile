@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.saga.lg.jp/list00726.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-30T06:39:07.0922774+00:00",
+  "updatedUtc": "2026-09-30T13:38:22.9638033+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002282bacf25a550dd1:0\u0022",
-    "lastModifiedUtc": "2026-09-30T06:30:12Z"
+    "eTag": "\u002298aaf062aa50dd1:0\u0022",
+    "lastModifiedUtc": "2026-09-30T07:07:42Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

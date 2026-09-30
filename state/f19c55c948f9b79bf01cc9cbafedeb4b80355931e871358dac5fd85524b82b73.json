@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.ehime.jp/rss/20/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T06:39:37.6931917+00:00",
+  "updatedUtc": "2026-09-30T13:39:00.9150735+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-30T06:33:33Z"
+    "lastModifiedUtc": "2026-09-30T13:33:24Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
