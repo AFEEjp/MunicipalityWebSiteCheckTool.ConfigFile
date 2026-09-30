@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/rss/feed.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-29T20:44:27.4329269+00:00",
+  "updatedUtc": "2026-09-30T00:22:39.1154533+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "37271602cb3f9f8bafcdbfe75847e4c5",
+      "title": "第12次青森県交通安全計画（案）についての意見募集結果 [地域生活文化課 9月30日]",
+      "firstUrl": "http://www.pref.aomori.lg.jp//soshiki/kotsu/seikatsu/koutsuanzen_12keikaku_jisskekka.html?ref=rss",
+      "currentUrl": "http://www.pref.aomori.lg.jp//soshiki/kotsu/seikatsu/koutsuanzen_12keikaku_jisskekka.html?ref=rss",
+      "firstSeenAt": "2026-09-30T00:22:39.1165472+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-29T20:30:17Z"
+    "lastModifiedUtc": "2026-09-30T00:15:18Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

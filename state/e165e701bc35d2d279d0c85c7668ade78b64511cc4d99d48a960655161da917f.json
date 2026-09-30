@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.pref.akita.lg.jp/feed/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-29T20:44:25.6952678+00:00",
+  "updatedUtc": "2026-09-30T00:22:38.0826686+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "1ca21180941f71bbcfbbe0d606968ef4",
+      "title": "【開催レポート・アーカイブ配信を掲載しました】「人生100年時代！働き方とライフプランを見つめ直す“これから”セミナー」について",
+      "firstUrl": "https://www.pref.akita.lg.jp/pages/archive/91330",
+      "currentUrl": "https://www.pref.akita.lg.jp/pages/archive/91330",
+      "firstSeenAt": "2026-09-30T00:22:38.0851703+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
