@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.sagamihara.kanagawa.jp/rss.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T13:39:04.2425773+00:00",
+  "updatedUtc": "2026-09-30T19:18:57.2887876+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.city.sagamihara.kanagawa.jp/kosodate/1026602/kosodate/1026604/1018656/1006937/1006940.html",
       "currentUrl": "https://www.city.sagamihara.kanagawa.jp/kosodate/1026602/kosodate/1026604/1018656/1006937/1006940.html",
       "firstSeenAt": "2026-09-17T19:00:07.9398809+00:00"
+    },
+    {
+      "key": "5f70a01dd03643ed740a172eee6aafd0",
+      "title": "（仮称）放課後等のこどもの居場所に関する基本方針（案）について",
+      "firstUrl": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/shisei_sanka/pubcome/1005071/1036274.html",
+      "currentUrl": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/shisei_sanka/pubcome/1005071/1036274.html",
+      "firstSeenAt": "2026-09-30T19:18:57.2909939+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022109f4-65ca0b1b5895a\u0022",
-    "lastModifiedUtc": "2026-09-29T15:18:26Z"
+    "eTag": "\u002210aa8-65cb4d25d378d\u0022",
+    "lastModifiedUtc": "2026-09-30T15:19:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

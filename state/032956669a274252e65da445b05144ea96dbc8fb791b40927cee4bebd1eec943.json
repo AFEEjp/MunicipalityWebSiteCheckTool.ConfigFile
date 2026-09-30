@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagoshima.jp/ab02/kohokocho/public/boshu.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-30T13:38:54.3943624+00:00",
+  "updatedUtc": "2026-09-30T19:18:45.6843918+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223fee-650aeb9aac08e\u0022",
-    "lastModifiedUtc": "2026-04-30T15:00:29Z"
+    "eTag": "\u002240c9-65cb492c42d7b\u0022",
+    "lastModifiedUtc": "2026-09-30T15:01:26Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

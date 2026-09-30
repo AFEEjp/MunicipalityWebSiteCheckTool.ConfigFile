@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.nagoya.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T13:39:00.8059805+00:00",
+  "updatedUtc": "2026-09-30T19:18:53.1023896+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "c51ab1026992f269d89130a47842ebcd",
+      "title": "市会だより臨時号 子ども議員のみなさんが感想や意見を発表しました。",
+      "firstUrl": "https://www.city.nagoya.jp/shikai/kouhou/1030998/1054237/1054238/1054251.html",
+      "currentUrl": "https://www.city.nagoya.jp/shikai/kouhou/1030998/1054237/1054238/1054251.html",
+      "firstSeenAt": "2026-09-30T19:18:53.10489+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00221191e-65cb0b7cc28be\u0022",
-    "lastModifiedUtc": "2026-09-30T10:25:27Z"
+    "eTag": "\u0022117aa-65cb4e9646727\u0022",
+    "lastModifiedUtc": "2026-09-30T15:25:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

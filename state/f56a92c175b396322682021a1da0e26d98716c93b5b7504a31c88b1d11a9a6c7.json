@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.yamato.lg.jp/gyosei/shiseijoho/shiminsanka/publiccomment/7752.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-30T13:38:47.4393341+00:00",
+  "updatedUtc": "2026-09-30T19:18:39.0478481+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/38/shiminsanka/publiccomment/reiwa6nendo_1/25230.html",
       "currentUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/38/shiminsanka/publiccomment/reiwa6nendo_1/25230.html",
       "firstSeenAt": "2026-09-17T04:48:25.4349819+00:00"
+    },
+    {
+      "key": "6e35f3255f0491a94eef8bdd2f624560",
+      "title": "財政健全化プランの策定",
+      "firstUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/39/shinoshokai/zaisei/5283.html",
+      "currentUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/39/shinoshokai/zaisei/5283.html",
+      "firstSeenAt": "2026-09-30T19:18:39.0514323+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226ab47221-e213\u0022",
-    "lastModifiedUtc": "2026-09-24T00:43:13Z"
+    "eTag": "\u00226abd2549-e345\u0022",
+    "lastModifiedUtc": "2026-09-30T15:05:45Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
