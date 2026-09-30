@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.kawasaki.jp/main/rss/rss.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T00:22:37.4418074+00:00",
+  "updatedUtc": "2026-09-30T06:39:41.004422+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-30T00:03:27Z"
+    "lastModifiedUtc": "2026-09-30T06:33:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

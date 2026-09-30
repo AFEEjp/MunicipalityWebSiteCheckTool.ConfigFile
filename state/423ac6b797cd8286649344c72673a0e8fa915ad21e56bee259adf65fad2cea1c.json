@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.niigata.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T00:22:34.5902368+00:00",
+  "updatedUtc": "2026-09-30T06:39:37.9391445+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "7c1696d85c52d9d2e445c0d2a32381aa",
+      "title": "決算に基づく健全化判断比率及び資金不足比率の審査意見について",
+      "firstUrl": "https://www.pref.niigata.lg.jp/sec/kansa/1356757080466.html",
+      "currentUrl": "https://www.pref.niigata.lg.jp/sec/kansa/1356757080466.html",
+      "firstSeenAt": "2026-09-30T06:39:37.939877+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022ada5-65ca83a1a3863-gzip\u0022",
-    "lastModifiedUtc": "2026-09-30T00:17:39Z"
+    "eTag": "\u0022b160-65cad77ad4177-gzip\u0022",
+    "lastModifiedUtc": "2026-09-30T06:32:47Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

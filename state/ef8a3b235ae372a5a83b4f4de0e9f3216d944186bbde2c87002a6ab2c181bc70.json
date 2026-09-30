@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.saitama.lg.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-30T00:22:29.343625+00:00",
+  "updatedUtc": "2026-09-30T06:39:33.7263+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "6465091fb1669e6d0d3fdf347121cfb4",
+      "title": "「埼玉県男女共同参画基本計画（案）」に対する県民コメント（意見募集）の実施について",
+      "firstUrl": "https://www.pref.saitama.lg.jp/a0309/news/page/news2026093001.html",
+      "currentUrl": "https://www.pref.saitama.lg.jp/a0309/news/page/news2026093001.html",
+      "firstSeenAt": "2026-09-30T06:39:33.7297097+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u002239f0-65c98e573da4a\u0022",
-    "lastModifiedUtc": "2026-09-29T06:00:14Z"
+    "eTag": "\u00223a4d-65caa7f984b5f\u0022",
+    "lastModifiedUtc": "2026-09-30T03:00:15Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
