@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fuji.shizuoka.jp/shiseijoho/kocho/paburikkukomento/boshuuchuu/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-01T13:05:20.156003+00:00",
+  "updatedUtc": "2026-10-01T18:51:24.907766+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00227e9b-65cc19b43416c\u0022",
-    "lastModifiedUtc": "2026-10-01T06:34:23Z"
+    "eTag": "\u00227d71-65cc8abc069ae\u0022",
+    "lastModifiedUtc": "2026-10-01T15:00:04Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
