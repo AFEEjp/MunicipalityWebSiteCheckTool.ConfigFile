@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.koganei.lg.jp/shisei/S01/S03/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-02T02:11:26.9449392+00:00",
+  "updatedUtc": "2026-10-02T08:29:51.596977+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-02T01:30:04Z"
+    "lastModifiedUtc": "2026-10-02T06:46:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

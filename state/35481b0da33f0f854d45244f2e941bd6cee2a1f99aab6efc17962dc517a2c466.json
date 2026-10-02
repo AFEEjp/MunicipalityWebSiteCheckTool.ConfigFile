@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.saitama.lg.jp/a0301/kenminc/bosyuu.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-02T02:11:15.2442745+00:00",
+  "updatedUtc": "2026-10-02T08:29:37.9233847+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "453d0fca2633dfe685134b9b56988184",
+      "title": "「埼玉県男女共同参画基本計画」(案)",
+      "firstUrl": "https://www.pref.saitama.lg.jp/a0309/danjyokeikaku/danjyokeikaku0930-1.html",
+      "currentUrl": "https://www.pref.saitama.lg.jp/a0309/danjyokeikaku/danjyokeikaku0930-1.html",
+      "firstSeenAt": "2026-10-02T08:29:37.9298792+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022421e-6595d6404ac79\u0022",
-    "lastModifiedUtc": "2026-08-19T02:45:05Z"
+    "eTag": "\u00224a9e-65cd4d2f58f9a\u0022",
+    "lastModifiedUtc": "2026-10-02T05:30:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

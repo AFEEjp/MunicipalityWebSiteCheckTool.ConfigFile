@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.sapporo.jp/new/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-02T02:11:41.7008556+00:00",
+  "updatedUtc": "2026-10-02T08:30:07.375153+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022238fa7a1252dd1:0\u0022",
-    "lastModifiedUtc": "2026-10-02T02:02:13Z"
+    "eTag": "\u0022bfd78d43b52dd1:0\u0022",
+    "lastModifiedUtc": "2026-10-02T07:01:21Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
