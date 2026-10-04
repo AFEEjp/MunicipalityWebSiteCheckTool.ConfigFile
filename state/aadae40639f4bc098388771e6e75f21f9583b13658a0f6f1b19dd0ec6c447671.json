@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.ageo.lg.jp/page/4-shiminkomento.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-04T17:33:09.7512803+00:00",
+  "updatedUtc": "2026-10-04T21:17:43.4212881+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223309-65cf376c0b3ac\u0022",
-    "lastModifiedUtc": "2026-10-03T18:03:19Z"
+    "eTag": "\u00223309-65d07949d32bf\u0022",
+    "lastModifiedUtc": "2026-10-04T18:03:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
