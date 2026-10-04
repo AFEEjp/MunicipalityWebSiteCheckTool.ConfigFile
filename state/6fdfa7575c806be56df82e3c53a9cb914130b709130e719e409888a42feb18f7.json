@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.shizuoka.lg.jp/oshirase.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-02T08:30:19.2552567+00:00",
+  "updatedUtc": "2026-10-04T17:33:53.809211+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00228def-65cc71cedaa02\u0022",
-    "lastModifiedUtc": "2026-10-01T13:08:33Z"
+    "eTag": "\u00228def-65d0374c36e37\u0022",
+    "lastModifiedUtc": "2026-10-04T13:08:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

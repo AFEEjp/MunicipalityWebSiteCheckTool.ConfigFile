@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.wakayama.lg.jp/whatsnew/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-02T08:30:09.7120557+00:00",
+  "updatedUtc": "2026-10-04T17:33:43.3742397+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00222cc2c-65cd71bb48345\u0022",
-    "lastModifiedUtc": "2026-10-02T08:13:32Z"
+    "eTag": "\u00222cd3f-65cffb8b87f8f\u0022",
+    "lastModifiedUtc": "2026-10-04T08:40:45Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

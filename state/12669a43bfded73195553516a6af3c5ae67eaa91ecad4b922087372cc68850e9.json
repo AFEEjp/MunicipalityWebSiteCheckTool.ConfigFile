@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-02T08:29:48.7572585+00:00",
+  "updatedUtc": "2026-10-04T17:33:20.2140208+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,10 +18,17 @@
       "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/kousou/bunyabetsu/kankyou/ikenkoukan-kodomo.html",
       "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/kousou/bunyabetsu/kankyou/ikenkoukan-kodomo.html",
       "firstSeenAt": "2026-09-29T20:43:52.0241666+00:00"
+    },
+    {
+      "key": "81dab1e5199d88fa135da7e8c79c72cc",
+      "title": "「（仮称）中野区子どもの権利に関する条例案に盛り込むべき事項」についてのパブリック・コメント手続の実施結果",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomo-kenri.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomo-kenri.html",
+      "firstSeenAt": "2026-10-04T17:33:20.2168938+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-02T08:06:06Z"
+    "lastModifiedUtc": "2026-10-04T17:30:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

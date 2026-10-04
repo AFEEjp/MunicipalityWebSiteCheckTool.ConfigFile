@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamagata.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-02T08:30:11.4752959+00:00",
+  "updatedUtc": "2026-10-04T17:33:45.287564+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00229b12-65cd6ec00a3b8\u0022",
-    "lastModifiedUtc": "2026-10-02T08:00:12Z"
+    "eTag": "\u00229a5e-65cdd3568184d\u0022",
+    "lastModifiedUtc": "2026-10-02T15:30:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
