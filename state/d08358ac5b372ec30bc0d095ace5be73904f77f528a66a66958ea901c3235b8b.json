@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.hino.lg.jp/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-04T21:17:54.5065033+00:00",
+  "updatedUtc": "2026-10-05T00:51:13.0896366+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022af80-65d0531bdb5c0\u0022",
-    "lastModifiedUtc": "2026-10-04T15:12:31Z"
+    "eTag": "\u0022af80-65d0cab95cd99\u0022",
+    "lastModifiedUtc": "2026-10-05T00:07:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
