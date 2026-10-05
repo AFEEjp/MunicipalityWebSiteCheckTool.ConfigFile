@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kitakyushu.lg.jp/contents/924_01294.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-05T06:57:34.0456018+00:00",
+  "updatedUtc": "2026-10-05T15:57:08.6795132+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -20,7 +20,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|f949167cacc0214f1ff149fc3e7055075be9de299051e446aa03131365f415c7",
-    "consecutiveCount": 47,
+    "consecutiveCount": 48,
     "lastReason": "migration-text-only",
     "lastConfidence": "low",
     "lastNotifiedFingerprint": "migration-text-only|f949167cacc0214f1ff149fc3e7055075be9de299051e446aa03131365f415c7",

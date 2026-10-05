@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.chiyoda.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-05T06:57:45.2451967+00:00",
+  "updatedUtc": "2026-10-05T15:57:21.1803173+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00229da6-65d0a109ad401\u0022",
-    "lastModifiedUtc": "2026-10-04T21:01:09Z"
+    "eTag": "\u00229dd7-65d13ee3d359c\u0022",
+    "lastModifiedUtc": "2026-10-05T08:47:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

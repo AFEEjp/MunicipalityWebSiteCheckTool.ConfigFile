@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-05T06:57:47.0530057+00:00",
+  "updatedUtc": "2026-10-05T15:57:22.7952878+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -46,11 +46,18 @@
       "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/r4/zaisei/1036728.html",
       "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisei_siryo/r4/zaisei/1036728.html",
       "firstSeenAt": "2026-09-28T15:22:22.2238459+00:00"
+    },
+    {
+      "key": "175104dca93ba0abec7e1248fe14bd85",
+      "title": "武蔵野市子どもプラン推進地域協議会(令和7年11月7日～令和9年3月31日)",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kodomokateibu_shisaku_keikaku/kodomoplan_kyogikai/1052815.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kodomokateibu_shisaku_keikaku/kodomoplan_kyogikai/1052815.html",
+      "firstSeenAt": "2026-10-05T15:57:22.7999062+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022123ad-65d0f5e3386ec\u0022",
-    "lastModifiedUtc": "2026-10-05T03:20:46Z"
+    "eTag": "\u00221224e-65d196d161a34\u0022",
+    "lastModifiedUtc": "2026-10-05T15:20:45Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

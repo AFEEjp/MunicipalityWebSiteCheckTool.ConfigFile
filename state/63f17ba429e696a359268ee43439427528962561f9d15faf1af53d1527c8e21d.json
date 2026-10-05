@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://web.pref.hyogo.lg.jp/kk12/ac09_000000032.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-05T06:57:09.470811+00:00",
+  "updatedUtc": "2026-10-05T15:56:40.8494913+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00225b72-65cb496397ead\u0022",
-    "lastModifiedUtc": "2026-09-30T15:02:24Z"
+    "eTag": "\u00225968-65d10c3a41e16\u0022",
+    "lastModifiedUtc": "2026-10-05T05:00:43Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
