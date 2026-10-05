@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.yokohama.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-05T00:51:35.5124289+00:00",
+  "updatedUtc": "2026-10-05T06:57:47.9253599+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "7c5b879ebb3d8937eb665506162bfe63",
+      "title": "【記者発表】各区の公会堂及び区民文化センターへのネーミングライツ導入について事業者の皆様からのご意見を募集します",
+      "firstUrl": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/shimin/2026/1005kdkbnr.html",
+      "currentUrl": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/shimin/2026/1005kdkbnr.html",
+      "firstSeenAt": "2026-10-05T06:57:47.9293956+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00221c029-65d0d31a1177a\u0022",
-    "lastModifiedUtc": "2026-10-05T00:45:08Z"
+    "eTag": "\u00221c2c5-65d123915c9e6\u0022",
+    "lastModifiedUtc": "2026-10-05T06:45:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

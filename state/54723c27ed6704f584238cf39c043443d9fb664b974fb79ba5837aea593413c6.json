@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamanashi.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-05T00:51:30.5770343+00:00",
+  "updatedUtc": "2026-10-05T06:57:42.4414586+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002222cf-65d0c940aea7b\u0022",
-    "lastModifiedUtc": "2026-10-05T00:01:04Z"
+    "eTag": "\u002222cc-65d0feb733695\u0022",
+    "lastModifiedUtc": "2026-10-05T04:00:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
