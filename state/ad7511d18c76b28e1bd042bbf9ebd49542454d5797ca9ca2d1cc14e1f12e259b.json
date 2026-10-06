@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.setagaya.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-06T10:09:35.1208007+00:00",
+  "updatedUtc": "2026-10-06T16:46:15.3933149+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,15 +21,15 @@
     },
     {
       "key": "bdbc1074825eb4c5177f7a2c2f1651b0",
-      "title": "（仮称）世田谷区第三次男女共同参画プラン（素案）の意見募集（パブリックコメント）について",
+      "title": "（仮称）世田谷区第三次男女共同参画プラン（素案）について（募集は終了しました）",
       "firstUrl": "https://www.city.setagaya.lg.jp/02409/34851.html",
       "currentUrl": "https://www.city.setagaya.lg.jp/02409/34851.html",
       "firstSeenAt": "2026-09-17T04:48:41.1182064+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002288af-65d27ce5c2051\u0022",
-    "lastModifiedUtc": "2026-10-06T08:30:07Z"
+    "eTag": "\u00228b2d-65d2d4405f17f\u0022",
+    "lastModifiedUtc": "2026-10-06T15:00:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
