@@ -2,14 +2,14 @@
   "version": 1,
   "feedUrl": "https://www.pref.ibaraki.jp/bugai/koho/kenmin/category/public-comment.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-06T21:37:14.7697979+00:00",
+  "updatedUtc": "2026-10-07T01:30:00.3182104+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
     "eTag": "\u00224376-65b8f303287a6\u0022",
     "lastModifiedUtc": "2026-09-16T01:00:07Z"
   },
-  "consecutiveFailures": 1,
+  "consecutiveFailures": 2,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,

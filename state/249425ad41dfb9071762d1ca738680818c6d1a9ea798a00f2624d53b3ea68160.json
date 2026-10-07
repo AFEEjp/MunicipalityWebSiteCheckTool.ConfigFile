@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagawa.lg.jp/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-06T21:37:13.5148205+00:00",
+  "updatedUtc": "2026-10-07T01:30:00.9715134+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00225ac4-65d2dac20c082\u0022",
-    "lastModifiedUtc": "2026-10-06T15:30:03Z"
+    "eTag": "\u002258c5-65d35a88b6f51\u0022",
+    "lastModifiedUtc": "2026-10-07T01:01:42Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
