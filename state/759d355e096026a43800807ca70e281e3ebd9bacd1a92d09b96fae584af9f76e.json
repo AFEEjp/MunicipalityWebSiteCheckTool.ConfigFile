@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/soshiki/soumu/koho/iken.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-07T21:58:11.7953443+00:00",
+  "updatedUtc": "2026-10-08T01:53:28.5090579+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,10 +11,17 @@
       "firstUrl": "https://www.pref.aomori.lg.jp/soshiki/kodomo/kenmin/seishonen_jourei_iken2025.html",
       "currentUrl": "https://www.pref.aomori.lg.jp/soshiki/kodomo/kenmin/seishonen_jourei_iken2025.html",
       "firstSeenAt": "2026-09-17T04:48:31.061458+00:00"
+    },
+    {
+      "key": "deb2080a0aa33f7b592e585fe73d6d2d",
+      "title": "第６次あおもり男女共同参画プラン（案）",
+      "firstUrl": "https://www.pref.aomori.lg.jp/soshiki/kodomo/kenmin/dai6ji_danjoplan_public_comment_00.html",
+      "currentUrl": "https://www.pref.aomori.lg.jp/soshiki/kodomo/kenmin/dai6ji_danjoplan_public_comment_00.html",
+      "firstSeenAt": "2026-10-08T01:53:28.5114316+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-01T02:05:56Z"
+    "lastModifiedUtc": "2026-10-07T23:47:34Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

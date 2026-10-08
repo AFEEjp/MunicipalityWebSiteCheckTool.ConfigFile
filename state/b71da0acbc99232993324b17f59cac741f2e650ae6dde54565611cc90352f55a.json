@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/menu/32767.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-07T21:58:03.7075291+00:00",
+  "updatedUtc": "2026-10-08T01:53:22.2147881+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,15 +14,18 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022eabc-65d38fd98ec2b\u0022",
-    "lastModifiedUtc": "2026-10-07T05:00:14Z"
+    "lastModifiedUtc": "2026-10-08T01:15:12Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
-    "consecutiveCount": 0,
+    "currentFingerprint": "migration-link|b22bf1f66541f65ef30796f3426a63a71f21e1340154d8def31832fa8b32b235",
+    "consecutiveCount": 1,
+    "lastReason": "migration-link",
+    "lastCandidateUrl": "https://www.pref.shiga.lg.jp/eg00/press-release/33739.html",
+    "lastConfidence": "medium",
     "lastNotifiedFingerprint": "migration-link|b22bf1f66541f65ef30796f3426a63a71f21e1340154d8def31832fa8b32b235",
     "lastNotifiedUtc": "2026-10-02T08:29:56.9151688+00:00"
   }

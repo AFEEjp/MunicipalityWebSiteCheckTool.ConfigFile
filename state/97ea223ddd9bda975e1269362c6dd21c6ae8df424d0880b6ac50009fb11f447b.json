@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/rss/feed.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-07T21:58:33.5584636+00:00",
+  "updatedUtc": "2026-10-08T01:53:49.5924445+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,10 +11,17 @@
       "firstUrl": "http://www.pref.aomori.lg.jp//soshiki/kotsu/seikatsu/koutsuanzen_12keikaku_jisskekka.html?ref=rss",
       "currentUrl": "http://www.pref.aomori.lg.jp//soshiki/kotsu/seikatsu/koutsuanzen_12keikaku_jisskekka.html?ref=rss",
       "firstSeenAt": "2026-09-30T00:22:39.1165472+00:00"
+    },
+    {
+      "key": "6c6e2b98ca042cdcd22e57a86ddaf701",
+      "title": "第6次あおもり男女共同参画プラン（案）に対する意見募集（パブリックコメント）について [県民活躍推進課 10月8日]",
+      "firstUrl": "http://www.pref.aomori.lg.jp//soshiki/kodomo/kenmin/dai6ji_danjoplan_public_comment_00.html?ref=rss",
+      "currentUrl": "http://www.pref.aomori.lg.jp//soshiki/kodomo/kenmin/dai6ji_danjoplan_public_comment_00.html?ref=rss",
+      "firstSeenAt": "2026-10-08T01:53:49.5939186+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-07T21:45:17Z"
+    "lastModifiedUtc": "2026-10-08T01:45:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
