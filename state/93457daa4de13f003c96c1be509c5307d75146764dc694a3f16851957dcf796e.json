@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.mie.lg.jp/KOUKAI/33773024450.htm",
   "feedType": "html",
-  "updatedUtc": "2026-10-08T08:52:38.6472471+00:00",
+  "updatedUtc": "2026-10-08T16:25:42.3682987+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00220c546677056dd1:0\u0022",
-    "lastModifiedUtc": "2026-10-07T15:27:46Z"
+    "eTag": "\u002280d4fbc3a57dd1:0\u0022",
+    "lastModifiedUtc": "2026-10-08T15:36:07Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
