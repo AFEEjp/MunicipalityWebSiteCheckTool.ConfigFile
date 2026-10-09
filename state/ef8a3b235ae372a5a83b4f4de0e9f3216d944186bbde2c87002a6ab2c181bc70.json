@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.saitama.lg.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-08T22:02:22.0840403+00:00",
+  "updatedUtc": "2026-10-09T02:05:49.7293609+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.pref.saitama.lg.jp/a0309/news/page/news2026093001.html",
       "currentUrl": "https://www.pref.saitama.lg.jp/a0309/news/page/news2026093001.html",
       "firstSeenAt": "2026-09-30T06:39:33.7297097+00:00"
+    },
+    {
+      "key": "1a715db5826744c0dd2f9e835377ec3a",
+      "title": "女性のためのビジネスプランコンテスト「SAITAMA Smile Women ピッチ 2026」ファイナルピッチを開催します！",
+      "firstUrl": "https://www.pref.saitama.lg.jp/a0803/news/page/news2026100901.html",
+      "currentUrl": "https://www.pref.saitama.lg.jp/a0803/news/page/news2026100901.html",
+      "firstSeenAt": "2026-10-09T02:05:49.7324454+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00223933-65d4df2535c75\u0022",
-    "lastModifiedUtc": "2026-10-08T06:00:19Z"
+    "eTag": "\u002238a8-65d5eb60044c0\u0022",
+    "lastModifiedUtc": "2026-10-09T02:00:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
