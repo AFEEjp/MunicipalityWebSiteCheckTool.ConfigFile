@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-09T08:56:52.0631024+00:00",
+  "updatedUtc": "2026-10-12T17:49:12.1949262+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022662c-65c355fd2d211\u0022",
-    "lastModifiedUtc": "2026-09-24T07:16:10Z"
+    "eTag": "\u0022694f-65d699ac051de\u0022",
+    "lastModifiedUtc": "2026-10-09T15:00:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

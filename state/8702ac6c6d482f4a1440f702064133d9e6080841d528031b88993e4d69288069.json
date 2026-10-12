@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.kobe.lg.jp/a63551/shise/kocho/comment/iken/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-09T08:56:30.3306121+00:00",
+  "updatedUtc": "2026-10-12T17:48:51.3189076+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223c14-65d35d83a2f14\u0022",
-    "lastModifiedUtc": "2026-10-07T01:15:02Z"
+    "eTag": "\u00223cce-65da5f79c538c\u0022",
+    "lastModifiedUtc": "2026-10-12T15:01:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
