@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.kita.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-12T17:49:27.9305888+00:00",
+  "updatedUtc": "2026-10-13T00:35:16.8210275+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "e71f725aa6f8b0e9a0f7f5c2b5cccb7f",
+      "title": "【北区版】生成AI利用ガイドラインの改定について",
+      "firstUrl": "https://www.city.kita.lg.jp/children-edu/schools/1018650/1020128.html",
+      "currentUrl": "https://www.city.kita.lg.jp/children-edu/schools/1018650/1020128.html",
+      "firstSeenAt": "2026-10-13T00:35:16.8238605+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022e328-65da624553955\u0022",
-    "lastModifiedUtc": "2026-10-12T15:13:35Z"
+    "eTag": "\u0022e42d-65dad9c3da078\u0022",
+    "lastModifiedUtc": "2026-10-13T00:08:12Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

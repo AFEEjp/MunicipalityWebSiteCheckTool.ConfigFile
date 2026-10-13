@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.cfa.go.jp/news",
   "feedType": "html",
-  "updatedUtc": "2026-10-12T17:48:52.2520602+00:00",
+  "updatedUtc": "2026-10-13T00:34:44.3906475+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "db22c227eb0ec842de36de5446c8b053",
+      "title": "調達情報 意見招請：こども性暴力防止法に関する情報システムの改修及び運用・保守等業務一式を掲載しました 2026年10月13日",
+      "firstUrl": "https://www.cfa.go.jp/procurement/portal",
+      "currentUrl": "https://www.cfa.go.jp/procurement/portal",
+      "firstSeenAt": "2026-10-13T00:34:44.4116494+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u00221791531029-gzip\u0022",
-    "lastModifiedUtc": "2026-10-09T07:30:29Z"
+    "eTag": "\u00221791851437-gzip\u0022",
+    "lastModifiedUtc": "2026-10-13T00:30:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
