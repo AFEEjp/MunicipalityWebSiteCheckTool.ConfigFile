@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.gifu.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-13T00:35:12.8005958+00:00",
+  "updatedUtc": "2026-10-13T07:40:48.1924477+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "4b7e6516c21b739a9324cfb23572e3e7",
+      "title": "「岐阜情報スーパーハイウェイ」ネットワーク・伝送路運用保守業務委託に関する仕様書案に係る意見招請の公告（情報システム課）",
+      "firstUrl": "https://www.pref.gifu.lg.jp/bid/bid/515936.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/bid/bid/515936.html",
+      "firstSeenAt": "2026-10-13T07:40:48.195515+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u002211216-65dadf5714e47\u0022",
-    "lastModifiedUtc": "2026-10-13T00:33:08Z"
+    "eTag": "\u002211032-65db3d08e8740\u0022",
+    "lastModifiedUtc": "2026-10-13T07:32:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
