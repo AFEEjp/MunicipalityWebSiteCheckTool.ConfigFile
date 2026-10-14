@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.wakayama.lg.jp/prefg/000200/ikenbosyu_index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T01:11:10.1911715+00:00",
+  "updatedUtc": "2026-10-14T06:08:04.3212442+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002247ab-65dc0ca046af7\u0022",
-    "lastModifiedUtc": "2026-10-13T23:01:04Z"
+    "eTag": "\u00224797-65dc34e1d5023\u0022",
+    "lastModifiedUtc": "2026-10-14T02:01:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
