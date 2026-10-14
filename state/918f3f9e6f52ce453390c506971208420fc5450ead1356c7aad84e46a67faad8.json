@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/shisei_sanka/pubcome/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T11:45:37.0459728+00:00",
+  "updatedUtc": "2026-10-14T17:04:59.0319505+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022da4b-65dba48508b86\u0022",
-    "lastModifiedUtc": "2026-10-13T15:15:18Z"
+    "eTag": "\u0022da4b-65dce666d4e1d\u0022",
+    "lastModifiedUtc": "2026-10-14T15:15:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

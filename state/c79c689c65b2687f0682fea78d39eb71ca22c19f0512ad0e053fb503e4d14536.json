@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.pref.mie.lg.jp/app/rss/new_rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-14T11:45:42.0141265+00:00",
+  "updatedUtc": "2026-10-14T17:05:04.6240658+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "41d92bf7ec6922a460245b3b57f990d1",
+      "title": "第３次三重県男女共同参画基本計画の改定について答申が行われます",
+      "firstUrl": "https://www.pref.mie.lg.jp/TOPICS/m0011500594.htm",
+      "currentUrl": "https://www.pref.mie.lg.jp/TOPICS/m0011500594.htm",
+      "firstSeenAt": "2026-10-14T17:05:04.6380025+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

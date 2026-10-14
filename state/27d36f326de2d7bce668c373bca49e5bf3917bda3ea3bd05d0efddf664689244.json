@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.edogawa.tokyo.jp/kuseijoho/kohokocho/publiccomment/koubo/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T11:45:31.2500787+00:00",
+  "updatedUtc": "2026-10-14T17:04:52.3850445+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002233a9-65b72b6a9f80e\u0022",
-    "lastModifiedUtc": "2026-09-14T15:01:49Z"
+    "eTag": "\u002232d4-65dce36d5c333\u0022",
+    "lastModifiedUtc": "2026-10-14T15:02:04Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
