@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/soshiki/soumu/koho/iken.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-13T21:13:50.4368797+00:00",
+  "updatedUtc": "2026-10-14T01:11:31.1986503+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-07T23:47:34Z"
+    "lastModifiedUtc": "2026-10-14T00:24:50Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
