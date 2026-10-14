@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamagata.jp/kensei/joho/kocho/publiccomment/boshuuchuu.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T06:08:12.8007976+00:00",
+  "updatedUtc": "2026-10-14T11:45:22.7678261+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222e9a-65cbf0832dbab\u0022",
-    "lastModifiedUtc": "2026-10-01T03:30:06Z"
+    "eTag": "\u00222e9a-65dc7b08e752a\u0022",
+    "lastModifiedUtc": "2026-10-14T07:15:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

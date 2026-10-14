@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.ibaraki.jp/",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T06:08:41.1173511+00:00",
+  "updatedUtc": "2026-10-14T11:45:42.0463075+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-13T02:46:21Z"
+    "lastModifiedUtc": "2026-10-14T07:30:00Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
