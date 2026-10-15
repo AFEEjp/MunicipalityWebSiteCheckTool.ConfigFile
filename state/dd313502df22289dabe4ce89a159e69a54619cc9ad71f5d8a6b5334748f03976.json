@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/pub/list-2.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-14T23:54:20.2893131+00:00",
+  "updatedUtc": "2026-10-15T04:29:15.8238323+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "9c02566a30d1d9c48b768cd4ae58c357",
+      "title": "「かながわ人権施策推進指針（改定素案）」に関する意見の募集について",
+      "firstUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
+      "currentUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
+      "firstSeenAt": "2026-10-15T04:29:15.8261226+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-09T05:02:03Z"
+    "lastModifiedUtc": "2026-10-15T00:00:38Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

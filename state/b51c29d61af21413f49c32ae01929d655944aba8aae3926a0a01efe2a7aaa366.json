@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-14T23:54:35.2338464+00:00",
+  "updatedUtc": "2026-10-15T04:29:30.7401957+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,10 +11,17 @@
       "firstUrl": "https://www.pref.kanagawa.jp/docs/gt2/houkagokodomosougouplanhoukokusyo.html",
       "currentUrl": "https://www.pref.kanagawa.jp/docs/gt2/houkagokodomosougouplanhoukokusyo.html",
       "firstSeenAt": "2026-09-28T06:46:29.4127869+00:00"
+    },
+    {
+      "key": "9c02566a30d1d9c48b768cd4ae58c357",
+      "title": "「かながわ人権施策推進指針（改定素案）」に関する意見の募集について",
+      "firstUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
+      "currentUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
+      "firstSeenAt": "2026-10-15T04:29:30.741907+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-14T23:45:02Z"
+    "lastModifiedUtc": "2026-10-15T04:15:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

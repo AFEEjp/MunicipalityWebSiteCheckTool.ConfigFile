@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.toshima.lg.jp/oshirase/oshirase.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-14T23:54:34.7722259+00:00",
+  "updatedUtc": "2026-10-15T04:29:30.3410839+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222445-65dce3782f9cd\u0022",
-    "lastModifiedUtc": "2026-10-14T15:02:16Z"
+    "eTag": "\u002224fa-65dd72996d6e6\u0022",
+    "lastModifiedUtc": "2026-10-15T01:42:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
