@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kita.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-15T22:12:42.1213433+00:00",
+  "updatedUtc": "2026-10-16T01:16:21.2171327+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.city.kita.lg.jp/children-edu/schools/1018650/1020128.html",
       "currentUrl": "https://www.city.kita.lg.jp/children-edu/schools/1018650/1020128.html",
       "firstSeenAt": "2026-10-13T00:35:16.8238605+00:00"
+    },
+    {
+      "key": "c4d76fb9514069f9029850c86d0e743a",
+      "title": "子どもセンター・子どもティーンズセンター指定管理者及び放課後子ども総合プラン事業受託者を募集します",
+      "firstUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1007588/1024798.html",
+      "currentUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1007588/1024798.html",
+      "firstSeenAt": "2026-10-16T01:16:21.2200266+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022f084-65de84895c9dd\u0022",
-    "lastModifiedUtc": "2026-10-15T22:08:11Z"
+    "eTag": "\u0022f417-65deace482d53\u0022",
+    "lastModifiedUtc": "2026-10-16T01:08:44Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,28 +2,33 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/bj00/10105.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-15T22:12:25.1316666+00:00",
+  "updatedUtc": "2026-10-16T01:16:02.7041575+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "007d9554b073797e5fd4c6d7d6ad1731",
       "title": "（仮称）パートナーしがプラン2030（滋賀県男女共同参画計画・滋賀県女性活躍推進計画）（原案）のご意見募集の結果ページはこちら",
+      "firstUrl": "https://www.pref.shiga.lg.jp/fg00/press-release/24878.html",
+      "currentUrl": "https://www.pref.shiga.lg.jp/fg00/press-release/24878.html",
       "firstSeenAt": "2026-09-17T04:48:22.291896+00:00"
     },
     {
       "key": "f0e0779def5d74f48631ac01c8ae3c84",
       "title": "滋賀県文化振興基本方針（第4次）素案のご意見募集の結果ページはこちら",
+      "firstUrl": "https://www.pref.shiga.lg.jp/sc00/2501.html",
+      "currentUrl": "https://www.pref.shiga.lg.jp/sc00/2501.html",
       "firstSeenAt": "2026-09-17T04:48:22.2919579+00:00"
     },
     {
       "key": "56f753e0acf709f6e79ed2e099d51854",
       "title": "滋賀県CO₂ネットゼロ社会づくり推進計画改定（原案）のご意見募集の結果ページはこちら",
+      "firstUrl": "https://www.pref.shiga.lg.jp/cg00/press-release/24880.html",
+      "currentUrl": "https://www.pref.shiga.lg.jp/cg00/press-release/24880.html",
       "firstSeenAt": "2026-09-17T04:48:22.291992+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00228051-65b65e833af76\u0022",
-    "lastModifiedUtc": "2026-09-13T23:45:05Z"
+    "lastModifiedUtc": "2026-10-15T23:45:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
