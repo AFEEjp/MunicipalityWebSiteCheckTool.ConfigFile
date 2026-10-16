@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukui.lg.jp/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-16T01:16:26.0817916+00:00",
+  "updatedUtc": "2026-10-16T07:05:58.1393396+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221a2a-65deadf1675c6\u0022",
-    "lastModifiedUtc": "2026-10-16T01:13:26Z"
+    "eTag": "\u00221a2a-65defad108654\u0022",
+    "lastModifiedUtc": "2026-10-16T06:57:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
