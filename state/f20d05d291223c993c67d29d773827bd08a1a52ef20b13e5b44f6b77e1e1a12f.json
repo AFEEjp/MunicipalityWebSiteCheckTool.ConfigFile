@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.shinjuku.lg.jp/top_rss.rdf",
   "feedType": "rss",
-  "updatedUtc": "2026-10-16T12:20:54.6208845+00:00",
+  "updatedUtc": "2026-10-18T18:03:54.1915468+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00226ad1e06f-3ca9\u0022",
-    "lastModifiedUtc": "2026-10-16T08:29:35Z"
+    "eTag": "\u00226ad2acda-3cb2\u0022",
+    "lastModifiedUtc": "2026-10-16T23:01:46Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
