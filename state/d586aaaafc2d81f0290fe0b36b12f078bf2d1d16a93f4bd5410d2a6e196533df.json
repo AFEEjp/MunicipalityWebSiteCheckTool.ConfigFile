@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.meguro.tokyo.jp/oshirase/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-19T13:03:17.409576+00:00",
+  "updatedUtc": "2026-10-19T19:17:09.4290321+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022999c-65e2b3a27ddb9\u0022",
-    "lastModifiedUtc": "2026-10-19T06:00:12Z"
+    "eTag": "\u0022994b-65e32c91b3718\u0022",
+    "lastModifiedUtc": "2026-10-19T15:01:15Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

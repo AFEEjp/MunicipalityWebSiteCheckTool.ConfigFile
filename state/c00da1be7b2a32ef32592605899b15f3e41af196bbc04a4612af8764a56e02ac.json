@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.toyama.jp/1021/kensei/kenseisanka/kenseisanka/publiccomment/kj00015208-001-01.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-19T13:02:44.2567974+00:00",
+  "updatedUtc": "2026-10-19T19:16:37.1100803+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00224d4b-65d6a098a3f39\u0022",
-    "lastModifiedUtc": "2026-10-09T15:31:08Z"
+    "eTag": "\u00224ab8-65e33307e985c\u0022",
+    "lastModifiedUtc": "2026-10-19T15:30:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
