@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyazaki.lg.jp/shinchaku/shincyaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-20T04:41:29.5954382+00:00",
+  "updatedUtc": "2026-10-20T09:59:45.8572703+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222086-65e3cd7e77b66\u0022",
-    "lastModifiedUtc": "2026-10-20T03:01:13Z"
+    "eTag": "\u00222043-65e402eb0e2bc\u0022",
+    "lastModifiedUtc": "2026-10-20T07:00:14Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
