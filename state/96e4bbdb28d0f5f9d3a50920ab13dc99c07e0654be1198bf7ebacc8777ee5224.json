@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.ebina.kanagawa.jp/koho/public/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-21T01:30:56.1985303+00:00",
+  "updatedUtc": "2026-10-21T07:31:18.3722134+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -63,8 +63,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022b477-65e4f575affdf\u0022",
-    "lastModifiedUtc": "2026-10-21T01:05:21Z"
+    "eTag": "\u0022b477-65e545ee7e4f9\u0022",
+    "lastModifiedUtc": "2026-10-21T07:05:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
