@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagawa.lg.jp/cgi-bin/page/list.php?tpl_type=2\u0026page_type=9",
   "feedType": "html",
-  "updatedUtc": "2026-10-21T13:43:36.5602458+00:00",
+  "updatedUtc": "2026-10-21T18:34:55.9590118+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "httpCache": {},
-  "consecutiveFailures": 0,
+  "consecutiveFailures": 1,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,

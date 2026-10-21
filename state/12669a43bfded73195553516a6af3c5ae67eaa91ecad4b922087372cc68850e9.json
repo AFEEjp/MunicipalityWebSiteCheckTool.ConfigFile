@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-21T13:43:23.9148828+00:00",
+  "updatedUtc": "2026-10-21T18:34:43.2759512+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -25,10 +25,17 @@
       "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomo-kenri.html",
       "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/kodomo-kenri.html",
       "firstSeenAt": "2026-10-04T17:33:20.2168938+00:00"
+    },
+    {
+      "key": "5ff369618c08c1d764ee58c3869c11e3",
+      "title": "「中野区児童館運営・整備推進計画(案)」についてのパブリック・コメント手続の実施結果",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/0686485620240304181931705.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/0686485620240304181931705.html",
+      "firstSeenAt": "2026-10-21T18:34:43.2788734+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-21T13:30:16Z"
+    "lastModifiedUtc": "2026-10-21T18:30:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
