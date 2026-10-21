@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.kyoto.lg.jp/templates/pubcomment/0-Curr.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-20T22:17:01.5736361+00:00",
+  "updatedUtc": "2026-10-21T01:30:34.0532489+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "3ffe7f2a1a82eb45becc70e9128dd1fc",
+      "title": "第3期 京都文化芸術都市創生計画（案）に関する市民意見の募集",
+      "firstUrl": "https://www.city.kyoto.lg.jp/templates/pubcomment/bunshi/0000358460.html",
+      "currentUrl": "https://www.city.kyoto.lg.jp/templates/pubcomment/bunshi/0000358460.html",
+      "firstSeenAt": "2026-10-21T01:30:34.1508289+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-20T22:02:13Z"
+    "lastModifiedUtc": "2026-10-21T01:02:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

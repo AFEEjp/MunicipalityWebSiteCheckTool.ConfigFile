@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.koto.lg.jp/kuse/kocho/paburikku/r08/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-20T22:17:21.9496789+00:00",
+  "updatedUtc": "2026-10-21T01:30:50.2158781+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222b9e-65e42b1c2d6fd\u0022",
-    "lastModifiedUtc": "2026-10-20T10:00:03Z"
+    "eTag": "\u00222c37-65e4e6efdb5f6\u0022",
+    "lastModifiedUtc": "2026-10-21T00:00:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

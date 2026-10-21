@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.minato.tokyo.jp/kouchou/kuse/kocho/kuseiken/boshu.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-20T22:17:21.9059926+00:00",
+  "updatedUtc": "2026-10-21T01:30:50.5762645+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002245f2-65de75505e0e2\u0022",
-    "lastModifiedUtc": "2026-10-15T21:00:05Z"
+    "eTag": "\u002245f2-65e4f693761af\u0022",
+    "lastModifiedUtc": "2026-10-21T01:10:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
