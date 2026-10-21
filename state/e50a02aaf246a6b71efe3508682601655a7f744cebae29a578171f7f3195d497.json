@@ -2,10 +2,13 @@
   "version": 1,
   "feedUrl": "https://www.pref.akita.lg.jp/pages/archive/390",
   "feedType": "html",
-  "updatedUtc": "2026-10-21T07:31:19.8905387+00:00",
+  "updatedUtc": "2026-10-21T13:43:33.8581044+00:00",
   "maxSeen": 500,
   "seen": [],
-  "httpCache": {},
+  "httpCache": {
+    "eTag": "\u0022a4131ca8306825b2d237c65693d8952c\u0022",
+    "lastModifiedUtc": "2026-10-21T12:23:11Z"
+  },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
