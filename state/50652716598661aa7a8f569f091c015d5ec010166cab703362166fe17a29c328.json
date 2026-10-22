@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.chiyoda.lg.jp/koho/kuse/sankaku-kyodo/p-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-22T18:30:07.6043258+00:00",
+  "updatedUtc": "2026-10-22T22:16:59.4828256+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -42,8 +42,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00226cc5-65e5e5aab8f9e\u0022",
-    "lastModifiedUtc": "2026-10-21T19:00:01Z"
+    "eTag": "\u00226cc5-65e72788c7146\u0022",
+    "lastModifiedUtc": "2026-10-22T19:00:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
