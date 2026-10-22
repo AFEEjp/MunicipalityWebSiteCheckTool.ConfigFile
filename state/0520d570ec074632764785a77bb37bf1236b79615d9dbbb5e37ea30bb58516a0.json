@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.soka.saitama.jp/li/020/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-22T01:28:23.3112595+00:00",
+  "updatedUtc": "2026-10-22T07:37:58.0467273+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-19T07:01:28Z"
+    "lastModifiedUtc": "2026-10-22T07:33:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
