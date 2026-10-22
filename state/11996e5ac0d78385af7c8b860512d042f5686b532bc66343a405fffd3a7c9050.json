@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.town.tarui.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-21T22:18:29.3821253+00:00",
+  "updatedUtc": "2026-10-22T01:28:29.2102474+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-21T22:15:42Z"
+    "lastModifiedUtc": "2026-10-22T01:15:42Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

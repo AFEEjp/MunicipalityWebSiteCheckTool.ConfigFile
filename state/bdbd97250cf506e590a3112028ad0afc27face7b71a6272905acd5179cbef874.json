@@ -1,11 +1,13 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://com.city.okayama.jp/cmsform/form_list.php?cd=2",
+  "feedUrl": "https://www.city.okayama.jp/error/403.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-21T22:18:04.4429012+00:00",
+  "updatedUtc": "2026-10-22T01:27:56.5318596+00:00",
   "maxSeen": 500,
   "seen": [],
-  "httpCache": {},
+  "httpCache": {
+    "lastModifiedUtc": "2026-10-22T01:26:51Z"
+  },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,

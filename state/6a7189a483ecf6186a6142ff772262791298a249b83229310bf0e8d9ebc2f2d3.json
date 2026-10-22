@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.minato.tokyo.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-21T22:18:33.8390648+00:00",
+  "updatedUtc": "2026-10-22T01:28:39.1090487+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "fe54565e07bda573f76187d98edcf11b",
+      "title": "子どもの意見をイベントのテーマや企画に反映！「オレンジリボンDAY＠minato2026」を開催",
+      "firstUrl": "https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202610/20261022.html",
+      "currentUrl": "https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202610/20261022.html",
+      "firstSeenAt": "2026-10-22T01:28:39.1116496+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022a061-65e6008156914\u0022",
-    "lastModifiedUtc": "2026-10-21T21:00:05Z"
+    "eTag": "\u0022a0e9-65e6362854fed\u0022",
+    "lastModifiedUtc": "2026-10-22T01:00:07Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
