@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.aichi.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-23T07:25:19.2629497+00:00",
+  "updatedUtc": "2026-10-23T13:28:24.1615228+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002214155-65e7ca8e54d1b\u0022",
-    "lastModifiedUtc": "2026-10-23T07:09:22Z"
+    "eTag": "\u002213f93-65e81afcfb9a9\u0022",
+    "lastModifiedUtc": "2026-10-23T13:09:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

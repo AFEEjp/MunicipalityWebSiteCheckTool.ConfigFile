@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.koganei.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-23T07:25:22.7825981+00:00",
+  "updatedUtc": "2026-10-23T13:28:26.5460369+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-23T06:47:20Z"
+    "lastModifiedUtc": "2026-10-23T08:48:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
