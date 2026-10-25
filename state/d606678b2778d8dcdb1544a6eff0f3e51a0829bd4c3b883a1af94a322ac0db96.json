@@ -2,16 +2,16 @@
   "version": 1,
   "feedUrl": "https://www.city.mitoyo.lg.jp/cgi-bin/feed.php?type=rss_2.0",
   "feedType": "rss",
-  "updatedUtc": "2026-10-25T16:07:19.0808568+00:00",
+  "updatedUtc": "2026-10-25T18:59:10.9072209+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
-  "consecutiveFailures": 11,
-  "circuitOpenUntil": "2026-10-25T16:37:19.080853+00:00",
+  "consecutiveFailures": 12,
+  "circuitOpenUntil": "2026-10-25T19:29:10.9072163+00:00",
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 9,
-  "consecutiveFailureLastNotifiedUtc": "2026-10-23T07:25:40.0850257+00:00",
+  "consecutiveFailureLastNotifiedCount": 12,
+  "consecutiveFailureLastNotifiedUtc": "2026-10-25T18:59:10.9072242+00:00",
   "urlMigration": {
     "consecutiveCount": 0
   }

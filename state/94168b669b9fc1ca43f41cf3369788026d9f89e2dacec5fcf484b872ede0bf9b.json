@@ -2,16 +2,16 @@
   "version": 1,
   "feedUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/feed.php?siteNew=1\u0026displayCount=10\u0026displayRange=90\u0026includeShortcut=1",
   "feedType": "rss",
-  "updatedUtc": "2026-10-25T16:06:58.8553301+00:00",
+  "updatedUtc": "2026-10-25T18:58:54.6264818+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
-  "consecutiveFailures": 11,
-  "circuitOpenUntil": "2026-10-25T16:36:58.8553245+00:00",
+  "consecutiveFailures": 12,
+  "circuitOpenUntil": "2026-10-25T19:28:54.6264774+00:00",
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 9,
-  "consecutiveFailureLastNotifiedUtc": "2026-10-23T07:25:22.08483+00:00",
+  "consecutiveFailureLastNotifiedCount": 12,
+  "consecutiveFailureLastNotifiedUtc": "2026-10-25T18:58:54.6264821+00:00",
   "urlMigration": {
     "consecutiveCount": 0
   }
