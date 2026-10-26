@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-26T06:05:35.2589859+00:00",
+  "updatedUtc": "2026-10-26T12:51:24.9435238+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -53,11 +53,18 @@
       "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kodomokateibu_shisaku_keikaku/kodomoplan_kyogikai/1052815.html",
       "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kodomokateibu_shisaku_keikaku/kodomoplan_kyogikai/1052815.html",
       "firstSeenAt": "2026-10-05T15:57:22.7999062+00:00"
+    },
+    {
+      "key": "4f990965fd7218d1a0ac2e0e2949fcc8",
+      "title": "【アーカイブ】第二期武蔵野市学校施設整備基本計画策定支援業務委託に関するプロポーザル",
+      "firstUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kyoikubu_shisaku_keikaku/1055138/1053503.html",
+      "currentUrl": "https://www.city.musashino.lg.jp/shiseijoho/shisaku_keikaku/kyoikubu_shisaku_keikaku/1055138/1053503.html",
+      "firstSeenAt": "2026-10-26T12:51:24.9472027+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00221206b-65eb5d09daae5\u0022",
-    "lastModifiedUtc": "2026-10-26T03:20:42Z"
+    "eTag": "\u002212049-65ebad8347fd8\u0022",
+    "lastModifiedUtc": "2026-10-26T09:20:44Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

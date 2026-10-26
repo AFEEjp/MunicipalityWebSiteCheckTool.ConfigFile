@@ -2,16 +2,16 @@
   "version": 1,
   "feedUrl": "https://www.city.shinagawa.tokyo.jp/PC/re_direct/hpg000016838.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-26T06:05:06.281927+00:00",
+  "updatedUtc": "2026-10-26T12:50:55.4721179+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
-  "consecutiveFailures": 23,
-  "circuitOpenUntil": "2026-10-26T06:35:06.2818655+00:00",
+  "consecutiveFailures": 24,
+  "circuitOpenUntil": "2026-10-26T13:20:55.4720477+00:00",
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 21,
-  "consecutiveFailureLastNotifiedUtc": "2026-10-25T21:42:51.8769904+00:00",
+  "consecutiveFailureLastNotifiedCount": 24,
+  "consecutiveFailureLastNotifiedUtc": "2026-10-26T12:50:55.4721182+00:00",
   "urlMigration": {
     "consecutiveCount": 0
   }
