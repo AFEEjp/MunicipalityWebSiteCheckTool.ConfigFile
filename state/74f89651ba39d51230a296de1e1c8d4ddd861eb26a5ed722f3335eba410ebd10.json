@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.pref.tokushima.lg.jp/public_comment/",
   "feedType": "html",
-  "updatedUtc": "2026-10-26T00:16:32.3559618+00:00",
+  "updatedUtc": "2026-10-26T06:05:05.3243124+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "464dd430c8bbdb988ff0de97b45e4e8d",
+      "title": "「児童福祉法による保育士の登録に関する事務に係る重点項目評価書（案）」について県民の皆さんのご意見を募集します。",
+      "firstUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7316996/",
+      "currentUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7316996/",
+      "firstSeenAt": "2026-10-26T06:05:05.3266005+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

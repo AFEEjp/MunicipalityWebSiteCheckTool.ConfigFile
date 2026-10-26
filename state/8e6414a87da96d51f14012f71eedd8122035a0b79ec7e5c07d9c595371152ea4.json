@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.kitakyushu.lg.jp/index.rdf",
   "feedType": "rss",
-  "updatedUtc": "2026-10-26T00:16:59.6445186+00:00",
+  "updatedUtc": "2026-10-26T06:05:39.752154+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022fb84-65eb2e6bc275d\u0022",
-    "lastModifiedUtc": "2026-10-25T23:52:08Z"
+    "eTag": "\u002210108-65eb8074012e2\u0022",
+    "lastModifiedUtc": "2026-10-26T05:59:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
