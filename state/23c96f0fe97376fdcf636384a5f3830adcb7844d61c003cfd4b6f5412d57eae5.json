@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.itabashi.tokyo.jp/kusei/publiccomment/1045415.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-26T19:13:47.0687232+00:00",
+  "updatedUtc": "2026-10-26T23:49:14.2825386+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00225dc3-65ebfbb403b90\u0022",
-    "lastModifiedUtc": "2026-10-26T15:10:33Z"
+    "eTag": "\u00225dc3-65ec65f1a88dc\u0022",
+    "lastModifiedUtc": "2026-10-26T23:05:52Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
