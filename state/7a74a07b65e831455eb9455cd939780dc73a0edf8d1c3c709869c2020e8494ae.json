@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-10-27T16:40:13.8717225+00:00",
+  "updatedUtc": "2026-10-27T21:16:40.1997648+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-27T16:30:08Z"
+    "lastModifiedUtc": "2026-10-27T21:00:04Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
