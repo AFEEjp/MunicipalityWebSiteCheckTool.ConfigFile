@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.bunkyo.lg.jp/chuumoku/chuumoku.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-26T23:49:13.3850593+00:00",
+  "updatedUtc": "2026-10-27T04:55:56.7451997+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222e51-65eb94c9361ad\u0022",
-    "lastModifiedUtc": "2026-10-26T07:30:06Z"
+    "eTag": "\u00222e51-65ecae6adb3e7\u0022",
+    "lastModifiedUtc": "2026-10-27T04:30:06Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
