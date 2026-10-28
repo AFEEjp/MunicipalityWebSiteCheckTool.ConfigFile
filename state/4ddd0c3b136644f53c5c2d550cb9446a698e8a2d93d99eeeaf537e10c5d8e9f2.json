@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1039425/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-27T21:16:22.7188247+00:00",
+  "updatedUtc": "2026-10-28T01:16:09.7359739+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00228d3c-65ed803655e00\u0022",
-    "lastModifiedUtc": "2026-10-27T20:08:43Z"
+    "eTag": "\u00228d3c-65edb5cd5ed4d\u0022",
+    "lastModifiedUtc": "2026-10-28T00:08:28Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

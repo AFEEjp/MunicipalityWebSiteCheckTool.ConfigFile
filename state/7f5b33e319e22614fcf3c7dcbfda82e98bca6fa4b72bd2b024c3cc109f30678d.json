@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagoshima.jp/saishin/saishin.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-27T21:16:49.4874802+00:00",
+  "updatedUtc": "2026-10-28T01:16:38.1057684+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222439-65ed0fccaf6d5\u0022",
-    "lastModifiedUtc": "2026-10-27T11:45:47Z"
+    "eTag": "\u00222413-65edc16723dba\u0022",
+    "lastModifiedUtc": "2026-10-28T01:00:22Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
