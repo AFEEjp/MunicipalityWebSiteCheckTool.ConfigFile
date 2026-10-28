@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.town.tarui.lg.jp/site/pubkome/",
   "feedType": "html",
-  "updatedUtc": "2026-10-28T01:15:58.4670263+00:00",
+  "updatedUtc": "2026-10-28T08:21:45.0679414+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-28T01:15:13Z"
+    "lastModifiedUtc": "2026-10-28T08:15:15Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
