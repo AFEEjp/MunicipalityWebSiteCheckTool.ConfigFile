@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.nerima.tokyo.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-28T15:58:44.252823+00:00",
+  "updatedUtc": "2026-10-28T21:00:38.7770855+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-28T15:00:01Z"
+    "lastModifiedUtc": "2026-10-28T19:00:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-28T15:58:12.2182657+00:00",
+  "updatedUtc": "2026-10-28T21:00:13.1644127+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -35,7 +35,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-28T15:30:29Z"
+    "lastModifiedUtc": "2026-10-28T20:00:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
