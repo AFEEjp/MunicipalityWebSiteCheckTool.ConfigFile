@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-28T08:22:19.868723+00:00",
+  "updatedUtc": "2026-10-28T15:58:44.9982576+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-10-28T08:15:10Z"
+    "lastModifiedUtc": "2026-10-28T15:20:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
