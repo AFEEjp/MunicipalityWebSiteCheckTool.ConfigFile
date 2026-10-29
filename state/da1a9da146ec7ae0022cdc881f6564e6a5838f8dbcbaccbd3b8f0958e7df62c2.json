@@ -1,17 +1,18 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.city.shinagawa.tokyo.jp/PC/re_direct/hpg000016838.html",
+  "feedUrl": "https://www.city.shinagawa.tokyo.jp/kusei/kohokocho/1006648/1006650/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-29T00:51:18.3838876+00:00",
+  "updatedUtc": "2026-10-29T07:00:09.8169336+00:00",
   "maxSeen": 500,
   "seen": [],
-  "httpCache": {},
-  "consecutiveFailures": 35,
-  "circuitOpenUntil": "2026-10-29T01:21:18.3838177+00:00",
+  "httpCache": {
+    "eTag": "\u0022ce58-65ef3a79ffad5\u0022",
+    "lastModifiedUtc": "2026-10-29T05:07:22Z"
+  },
+  "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 33,
-  "consecutiveFailureLastNotifiedUtc": "2026-10-28T15:58:13.5203045+00:00",
+  "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "consecutiveCount": 0
   }
