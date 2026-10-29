@@ -2,16 +2,14 @@
   "version": 1,
   "feedUrl": "https://www.city.kawaguchi.lg.jp/cgi-bin/feed.php?type=rss_2.0\u0026new1=1",
   "feedType": "rss",
-  "updatedUtc": "2026-10-29T07:00:46.2637355+00:00",
+  "updatedUtc": "2026-10-29T14:12:12.3994692+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
-  "consecutiveFailures": 26,
-  "circuitOpenUntil": "2026-10-29T07:30:46.2636589+00:00",
+  "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 24,
-  "consecutiveFailureLastNotifiedUtc": "2026-10-28T21:00:43.6055691+00:00",
+  "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "consecutiveCount": 0
   }
