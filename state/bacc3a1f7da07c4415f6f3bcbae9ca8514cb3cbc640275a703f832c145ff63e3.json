@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.chuo.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-10-30T05:38:44.8823422+00:00",
+  "updatedUtc": "2026-10-30T12:45:10.4372039+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221f96-65f072c11ddf5\u0022",
-    "lastModifiedUtc": "2026-10-30T04:24:29Z"
+    "eTag": "\u00221eb4-65f0a2f7d4daf\u0022",
+    "lastModifiedUtc": "2026-10-30T08:00:11Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
