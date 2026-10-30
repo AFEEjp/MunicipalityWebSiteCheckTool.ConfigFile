@@ -1,13 +1,21 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.city.shinagawa.tokyo.jp/kusei/kohokocho/1006648/1006650/index.html",
+  "feedUrl": "https://www.city.shinagawa.tokyo.jp/news/newslist.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-29T23:55:08.9811862+00:00",
+  "updatedUtc": "2026-10-30T05:38:15.9227332+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "37e9910d05b389c2132632bbb5424fe8",
+      "title": "いつも「しながわこどもぽけっと」をご利用いただきありがとうございます。 今後のサービス向上のため、アンケートを実施しております。 1分程度の簡単な内容ですので、ぜひご協力をお願いいたします。 実施期間：10月20日（火曜日）～11月20日（金曜日） 皆様からのご意見をお待ちしております。",
+      "firstUrl": "https://www.city.shinagawa.tokyo.jp/kodomo/kosodate/1009436/1011654.html",
+      "currentUrl": "https://www.city.shinagawa.tokyo.jp/kodomo/kosodate/1009436/1011654.html",
+      "firstSeenAt": "2026-10-30T05:38:15.9255495+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022ce58-65f02bde71922\u0022",
-    "lastModifiedUtc": "2026-10-29T23:07:20Z"
+    "eTag": "\u0022d2da-65f07ca4b668c\u0022",
+    "lastModifiedUtc": "2026-10-30T05:08:43Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

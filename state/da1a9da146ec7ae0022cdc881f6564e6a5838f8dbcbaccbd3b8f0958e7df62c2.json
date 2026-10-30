@@ -1,13 +1,13 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.city.shinagawa.tokyo.jp/kusei/kohokocho/1006648/1006650/index.html",
+  "feedUrl": "https://www.city.shinagawa.tokyo.jp/kusei/kohokocho/1006648/1006650/1006651/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-29T23:55:08.9399199+00:00",
+  "updatedUtc": "2026-10-30T05:38:15.7437684+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022ce58-65f02bde71922\u0022",
-    "lastModifiedUtc": "2026-10-29T23:07:20Z"
+    "eTag": "\u0022c481-65f07c580223d\u0022",
+    "lastModifiedUtc": "2026-10-30T05:07:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
