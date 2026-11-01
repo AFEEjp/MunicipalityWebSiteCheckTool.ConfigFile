@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.saitama.lg.jp/006/002/008/002/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-10-30T12:44:39.1495418+00:00",
+  "updatedUtc": "2026-11-01T18:53:02.8200849+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002223f634-7eae-65cb4f4330402\u0022",
-    "lastModifiedUtc": "2026-09-30T15:28:41Z"
+    "eTag": "\u002223f634-7a69-65f1050947958\u0022",
+    "lastModifiedUtc": "2026-10-30T15:18:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
