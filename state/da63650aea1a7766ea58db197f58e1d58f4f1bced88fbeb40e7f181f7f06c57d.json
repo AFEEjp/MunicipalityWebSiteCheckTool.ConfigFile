@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.okayama.jp/rss/rss_topics_shisei.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-01T22:45:37.2994902+00:00",
+  "updatedUtc": "2026-11-02T02:25:24.7504565+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-01T22:34:11Z"
+    "lastModifiedUtc": "2026-11-02T02:04:29Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

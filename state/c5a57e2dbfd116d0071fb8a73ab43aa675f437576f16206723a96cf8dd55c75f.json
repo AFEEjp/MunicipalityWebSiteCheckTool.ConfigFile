@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hiroshima.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-01T22:45:37.433728+00:00",
+  "updatedUtc": "2026-11-02T02:25:24.8688257+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.pref.hiroshima.lg.jp/soshiki/248/kodomo-iken.html",
       "currentUrl": "https://www.pref.hiroshima.lg.jp/soshiki/248/kodomo-iken.html",
       "firstSeenAt": "2026-10-27T04:56:19.9517877+00:00"
+    },
+    {
+      "key": "80bdcc5b091b4f4a432d936425ef190f",
+      "title": "【11月1日～11月30日】子供・若者のみなさんの意見募集中！",
+      "firstUrl": "https://www.pref.hiroshima.lg.jp/soshiki/248/kodomo-iken202611.html",
+      "currentUrl": "https://www.pref.hiroshima.lg.jp/soshiki/248/kodomo-iken202611.html",
+      "firstSeenAt": "2026-11-02T02:25:24.8707994+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002211960-65f3eab1ac876\u0022",
-    "lastModifiedUtc": "2026-11-01T22:37:03Z"
+    "eTag": "\u002211ae2-65f41bde3df95\u0022",
+    "lastModifiedUtc": "2026-11-02T02:17:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

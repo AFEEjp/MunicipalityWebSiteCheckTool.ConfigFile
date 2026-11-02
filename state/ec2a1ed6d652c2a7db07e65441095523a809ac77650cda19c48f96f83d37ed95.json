@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.gifu.lg.jp/info/publiccomment/1008468/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-01T22:45:15.2752728+00:00",
+  "updatedUtc": "2026-11-02T02:24:57.6430784+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "5bc20c4c8408811ffe7c223cfef52cfb",
+      "title": "第4次岐阜市子どもの読書活動推進計画（案）の意見募集",
+      "firstUrl": "https://www.city.gifu.lg.jp/info/publiccomment/1008468/1041559.html",
+      "currentUrl": "https://www.city.gifu.lg.jp/info/publiccomment/1008468/1041559.html",
+      "firstSeenAt": "2026-11-02T02:24:57.6479962+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022f983-65f388cd76e80\u0022",
-    "lastModifiedUtc": "2026-11-01T15:19:06Z"
+    "eTag": "\u0022fa93-65f3fd0d7882a\u0022",
+    "lastModifiedUtc": "2026-11-01T23:59:11Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
