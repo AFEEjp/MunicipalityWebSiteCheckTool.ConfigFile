@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.osaka.lg.jp/o070050/fumin/public/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-02T02:24:52.6871495+00:00",
+  "updatedUtc": "2026-11-02T10:55:15.9050839+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002244f5-65f081a1d0d51\u0022",
-    "lastModifiedUtc": "2026-10-30T05:31:02Z"
+    "eTag": "\u00224717-65f46f787ea38\u0022",
+    "lastModifiedUtc": "2026-11-02T08:31:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
