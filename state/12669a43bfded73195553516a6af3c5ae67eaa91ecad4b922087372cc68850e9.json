@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-02T10:55:20.9765852+00:00",
+  "updatedUtc": "2026-11-03T18:25:12.3051912+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -32,10 +32,17 @@
       "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/0686485620240304181931705.html",
       "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/0686485620240304181931705.html",
       "firstSeenAt": "2026-10-21T18:34:43.2788734+00:00"
+    },
+    {
+      "key": "569cf8491dca2b41450c7cdefacb9871",
+      "title": "「子ども読書活動推進計画（第4次）（案）」に係るパブリック・コメント手続の実施結果について",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/dokusyo.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/dokusyo.html",
+      "firstSeenAt": "2026-11-03T18:25:12.3078456+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-02T10:30:17Z"
+    "lastModifiedUtc": "2026-11-03T18:00:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

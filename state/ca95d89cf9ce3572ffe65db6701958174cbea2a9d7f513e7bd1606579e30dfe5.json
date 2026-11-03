@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-02T10:55:36.6900337+00:00",
+  "updatedUtc": "2026-11-03T18:25:32.3480218+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -32,11 +32,25 @@
       "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000242\u0026Mode=0",
       "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000242\u0026Mode=0",
       "firstSeenAt": "2026-10-23T01:35:46.9989409+00:00"
+    },
+    {
+      "key": "5fc38e54602bec6c967721c1d699182c",
+      "title": "「著作権法施行令の一部を改正する政令（案）」及び「著作権法施行規則の一部を改正する省令（案）」に関する意見募集の実施について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=185001515\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=185001515\u0026Mode=0",
+      "firstSeenAt": "2026-11-03T18:25:32.3489349+00:00"
+    },
+    {
+      "key": "6d43ade5db1d77158cea2356341d55e1",
+      "title": "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律第三条第二項及び第四項の規定に基づき内閣総理大臣及び文部科学大臣が定める施設の設備及び運営に関する基準の一部を改正する件案に関する御意見の募集について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000246\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000246\u0026Mode=0",
+      "firstSeenAt": "2026-11-03T18:25:32.349095+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022970a7737bcaba3c812f91cfa4a2e46a4-1\u0022",
-    "lastModifiedUtc": "2026-11-02T00:01:11Z"
+    "eTag": "\u00221ebe200bad5a9bea56a6ad8df354a519-1-gzip\u0022",
+    "lastModifiedUtc": "2026-11-03T00:01:12Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
