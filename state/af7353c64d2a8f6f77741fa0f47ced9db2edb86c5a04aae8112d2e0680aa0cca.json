@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.matsudo.chiba.jp/shiminnokoe/pabu_come/anken/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-04T14:23:13.8824933+00:00",
+  "updatedUtc": "2026-11-04T21:21:58.800195+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-04T14:00:29Z"
+    "lastModifiedUtc": "2026-11-04T18:04:34Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

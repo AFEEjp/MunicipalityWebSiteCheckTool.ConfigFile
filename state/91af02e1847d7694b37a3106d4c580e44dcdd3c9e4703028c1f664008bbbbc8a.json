@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.tochigi.lg.jp/c05/pref/kouhou/paburikku/ichiran.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-04T14:23:32.4258387+00:00",
+  "updatedUtc": "2026-11-04T21:22:14.4118921+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00224281\u0022",
-    "lastModifiedUtc": "2026-10-30T07:36:06Z"
+    "eTag": "\u00224400\u0022",
+    "lastModifiedUtc": "2026-11-04T13:35:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
