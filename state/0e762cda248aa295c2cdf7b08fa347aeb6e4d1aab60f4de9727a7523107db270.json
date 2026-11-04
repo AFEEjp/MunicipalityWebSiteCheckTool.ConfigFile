@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagawa.lg.jp/cgi-bin/page/list.php?tpl_type=2\u0026page_type=9",
   "feedType": "html",
-  "updatedUtc": "2026-11-03T23:58:20.7526386+00:00",
+  "updatedUtc": "2026-11-04T06:06:43.1232844+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,6 +18,13 @@
       "firstUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2025_11_25.html",
       "currentUrl": "https://www.pref.kagawa.lg.jp/kosodate/keikaku/2025_11_25.html",
       "firstSeenAt": "2026-09-17T04:48:32.2814147+00:00"
+    },
+    {
+      "key": "cfffe24a44939defa9dba1dd9e7cbba5",
+      "title": "香川県人権教育・啓発に関する基本計画（改正素案）についてパブリック・コメント（意見公募）を実施する予定です",
+      "firstUrl": "https://www.pref.kagawa.lg.jp/dowaseisaku/keikaku/r8pabukome1.html",
+      "currentUrl": "https://www.pref.kagawa.lg.jp/dowaseisaku/keikaku/r8pabukome1.html",
+      "firstSeenAt": "2026-11-04T06:06:43.1249043+00:00"
     }
   ],
   "httpCache": {},

@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.kumamoto.jp/new_list.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-03T23:58:14.3297597+00:00",
+  "updatedUtc": "2026-11-04T06:06:38.0851685+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "72d34d33da363eb18acc31f773b5825d",
+      "title": "熊本市人権教育・啓発基本計画推進会議を開催します",
+      "firstUrl": "https://www.city.kumamoto.jp/kiji00316305/index.html",
+      "currentUrl": "https://www.city.kumamoto.jp/kiji00316305/index.html",
+      "firstSeenAt": "2026-11-04T06:06:38.0923528+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022ccf95069eb6bdd1:0\u0022",
-    "lastModifiedUtc": "2026-11-03T23:31:11Z"
+    "eTag": "\u0022f69f5861e6cdd1:0\u0022",
+    "lastModifiedUtc": "2026-11-04T05:37:06Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

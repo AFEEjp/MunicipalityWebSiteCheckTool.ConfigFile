@@ -2,20 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.cfa.go.jp/news",
   "feedType": "html",
-  "updatedUtc": "2026-11-03T23:57:55.0872722+00:00",
+  "updatedUtc": "2026-11-04T06:06:19.7974154+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "db22c227eb0ec842de36de5446c8b053",
-      "title": "調達情報 意見招請：R9こども家庭庁全体管理組織（PMO）企画立案・調達支援業務を掲載しました 2026年11月2日",
+      "title": "調達情報 意見招請：令和9年度要保護児童等に関する情報共有システムに係る運用・保守業務及び改修業務一式を掲載しました 2026年11月4日",
       "firstUrl": "https://www.cfa.go.jp/procurement/portal",
       "currentUrl": "https://www.cfa.go.jp/procurement/portal",
       "firstSeenAt": "2026-10-13T00:34:44.4116494+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00221793649650-gzip\u0022",
-    "lastModifiedUtc": "2026-11-02T20:00:50Z"
+    "eTag": "\u00221793771015-gzip\u0022",
+    "lastModifiedUtc": "2026-11-04T05:43:35Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
