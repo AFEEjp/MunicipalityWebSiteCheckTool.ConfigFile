@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/public_comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-05T02:20:01.7793886+00:00",
+  "updatedUtc": "2026-11-05T10:45:48.4196521+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002299f3-65f7b867e8845\u0022",
-    "lastModifiedUtc": "2026-11-04T23:13:22Z"
+    "eTag": "\u002299f3-65f83e82b376b\u0022",
+    "lastModifiedUtc": "2026-11-05T09:13:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
