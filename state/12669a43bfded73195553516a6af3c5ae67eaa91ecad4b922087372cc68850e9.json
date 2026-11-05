@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-05T10:45:44.873394+00:00",
+  "updatedUtc": "2026-11-05T18:42:12.6198844+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -39,10 +39,17 @@
       "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/dokusyo.html",
       "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/dokusyo.html",
       "firstSeenAt": "2026-11-03T18:25:12.3078456+00:00"
+    },
+    {
+      "key": "2f401997f805b2eb2ed350bd5037def1",
+      "title": "「中野区子ども・子育て支援事業計画(第3期)」に係るパブリック・コメント手続の実施結果",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/koko3pabukome.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kusei/public/tetsuzuki/kekka/koko3pabukome.html",
+      "firstSeenAt": "2026-11-05T18:42:12.6228592+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-05T10:30:17Z"
+    "lastModifiedUtc": "2026-11-05T18:30:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
