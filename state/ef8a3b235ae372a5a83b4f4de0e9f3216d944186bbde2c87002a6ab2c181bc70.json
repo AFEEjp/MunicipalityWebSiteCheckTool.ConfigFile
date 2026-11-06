@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.saitama.lg.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-06T00:09:46.5138245+00:00",
+  "updatedUtc": "2026-11-06T06:33:49.1840392+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,11 +18,18 @@
       "firstUrl": "https://www.pref.saitama.lg.jp/a0803/news/page/news2026100901.html",
       "currentUrl": "https://www.pref.saitama.lg.jp/a0803/news/page/news2026100901.html",
       "firstSeenAt": "2026-10-09T02:05:49.7324454+00:00"
+    },
+    {
+      "key": "470ba68ce6f5da70a6f8f8c1d15e90a2",
+      "title": "令和8年度「埼玉県こども会議」の委員が知事へ意見発表します",
+      "firstUrl": "https://www.pref.saitama.lg.jp/a0607/news/page/news2026110601.html",
+      "currentUrl": "https://www.pref.saitama.lg.jp/a0607/news/page/news2026110601.html",
+      "firstSeenAt": "2026-11-06T06:33:49.1873095+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00223aa4-65f7ddb99a478\u0022",
-    "lastModifiedUtc": "2026-11-05T02:00:20Z"
+    "eTag": "\u00223afb-65f9554ce1d69\u0022",
+    "lastModifiedUtc": "2026-11-06T06:00:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
