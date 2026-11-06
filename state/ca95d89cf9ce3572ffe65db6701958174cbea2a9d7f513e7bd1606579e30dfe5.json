@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-05T18:42:30.425335+00:00",
+  "updatedUtc": "2026-11-06T00:09:46.3508646+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002217f0fd1a4b5e44f544f84b5042571fc5-1\u0022",
-    "lastModifiedUtc": "2026-11-05T00:01:17Z"
+    "eTag": "\u0022fe357e9a3278f9f13a31e67d253db3ec-1-gzip\u0022",
+    "lastModifiedUtc": "2026-11-06T00:01:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
