@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/news/rss.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-06T06:33:48.7902768+00:00",
+  "updatedUtc": "2026-11-06T14:58:51.2670716+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00226aed7295-3cf5\u0022",
-    "lastModifiedUtc": "2026-11-06T06:24:21Z"
+    "eTag": "\u00226aede7bd-3cf4\u0022",
+    "lastModifiedUtc": "2026-11-06T14:44:13Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
