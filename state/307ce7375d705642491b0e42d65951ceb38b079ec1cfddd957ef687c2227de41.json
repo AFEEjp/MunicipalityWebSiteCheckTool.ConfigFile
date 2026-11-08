@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.hamamatsu.shizuoka.jp/oshirase/",
   "feedType": "html",
-  "updatedUtc": "2026-11-06T14:58:48.5666752+00:00",
+  "updatedUtc": "2026-11-08T16:40:09.8622541+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00224fb1-65f97d87feb66\u0022",
-    "lastModifiedUtc": "2026-11-06T09:00:37Z"
+    "eTag": "\u00224fa5-65fc5cd88770f\u0022",
+    "lastModifiedUtc": "2026-11-08T15:50:21Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

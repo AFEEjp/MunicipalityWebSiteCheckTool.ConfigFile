@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-06T14:58:51.7039722+00:00",
+  "updatedUtc": "2026-11-08T16:40:13.2175662+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -46,11 +46,18 @@
       "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000246\u0026Mode=0",
       "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000246\u0026Mode=0",
       "firstSeenAt": "2026-11-03T18:25:32.349095+00:00"
+    },
+    {
+      "key": "294aebeef080dd439073d06aa905f47b",
+      "title": "「移動系通信事業者が提供するインターネット接続サービスの実効速度計測手法及び利用者への情報提供手法等に関するガイドライン」の改正案に対する意見募集",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=145210795\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=145210795\u0026Mode=0",
+      "firstSeenAt": "2026-11-08T16:40:13.2230578+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022fe357e9a3278f9f13a31e67d253db3ec-1\u0022",
-    "lastModifiedUtc": "2026-11-06T00:01:13Z"
+    "eTag": "\u0022c20fed28e6a4cdde68c020d372343327-1-gzip\u0022",
+    "lastModifiedUtc": "2026-11-08T00:01:12Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
