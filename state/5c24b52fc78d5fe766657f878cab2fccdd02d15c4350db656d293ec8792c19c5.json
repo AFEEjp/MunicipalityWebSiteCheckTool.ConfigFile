@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.ehime.jp/page/7417.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-09T00:48:34.420346+00:00",
+  "updatedUtc": "2026-11-09T07:54:46.5685785+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-08T16:06:37Z"
+    "lastModifiedUtc": "2026-11-09T06:47:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

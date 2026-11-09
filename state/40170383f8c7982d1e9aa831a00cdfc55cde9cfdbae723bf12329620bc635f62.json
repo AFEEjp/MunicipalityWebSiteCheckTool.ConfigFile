@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyagi.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-09T00:48:51.0493446+00:00",
+  "updatedUtc": "2026-11-09T07:55:03.3899665+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00221cf6-65fc589015ddf\u0022",
-    "lastModifiedUtc": "2026-11-08T15:31:12Z"
+    "eTag": "\u00221f5d-65fd2ba1b61b0\u0022",
+    "lastModifiedUtc": "2026-11-09T07:15:30Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
