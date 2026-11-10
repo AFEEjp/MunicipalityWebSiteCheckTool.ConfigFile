@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.city.meguro.tokyo.jp/kusei/kouchou/publiccomment/boshu/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-10T09:42:31.1255787+00:00",
+  "updatedUtc": "2026-11-10T17:43:59.1296624+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "2801a92b42e106f08c38e314d331862d",
+      "title": "目黒区男女平等・共同参画及び性の多様性の尊重を推進する計画改定素案への意見募集",
+      "firstUrl": "https://www.city.meguro.tokyo.jp/jinkenseisaku/kurashi/jinken/public_comment.html",
+      "currentUrl": "https://www.city.meguro.tokyo.jp/jinkenseisaku/kurashi/jinken/public_comment.html",
+      "firstSeenAt": "2026-11-10T17:43:59.1316746+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u0022440d-65f7c2de0b506\u0022",
-    "lastModifiedUtc": "2026-11-05T00:00:10Z"
+    "eTag": "\u0022451f-65fed5ab1f040\u0022",
+    "lastModifiedUtc": "2026-11-10T15:01:33Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
