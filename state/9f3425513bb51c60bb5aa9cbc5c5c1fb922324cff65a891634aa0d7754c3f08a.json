@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://web.pref.hyogo.lg.jp/topics.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-10T02:01:21.8899939+00:00",
+  "updatedUtc": "2026-11-10T09:42:40.6799255+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221d7a-65fe24236c09a\u0022",
-    "lastModifiedUtc": "2026-11-10T01:47:18Z"
+    "eTag": "\u00221d7a-65fe850827858\u0022",
+    "lastModifiedUtc": "2026-11-10T09:00:48Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

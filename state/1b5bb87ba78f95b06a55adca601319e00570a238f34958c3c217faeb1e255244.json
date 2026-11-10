@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.shinagawa.tokyo.jp/news/newslist.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-10T02:01:08.0833455+00:00",
+  "updatedUtc": "2026-11-10T09:42:26.4969404+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022ebf6-65fe0cd26e6a3\u0022",
-    "lastModifiedUtc": "2026-11-10T00:02:59Z"
+    "eTag": "\u0022eccb-65fe852bd40fd\u0022",
+    "lastModifiedUtc": "2026-11-10T09:01:25Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
