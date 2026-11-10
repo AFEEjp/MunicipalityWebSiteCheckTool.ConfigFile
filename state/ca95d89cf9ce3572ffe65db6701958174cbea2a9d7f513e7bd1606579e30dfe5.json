@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-09T18:43:18.2613545+00:00",
+  "updatedUtc": "2026-11-10T02:01:22.4996008+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -53,11 +53,18 @@
       "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=145210795\u0026Mode=0",
       "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=145210795\u0026Mode=0",
       "firstSeenAt": "2026-11-08T16:40:13.2230578+00:00"
+    },
+    {
+      "key": "92bc4531b546c873f9aca714f721a668",
+      "title": "学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律施行規則の一部を改正する内閣府令（案）に関する御意見の募集について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000247\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000247\u0026Mode=0",
+      "firstSeenAt": "2026-11-10T02:01:22.5048004+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00221184fd1121fff396dfcab53b3a6d9b6b-1\u0022",
-    "lastModifiedUtc": "2026-11-09T00:01:00Z"
+    "eTag": "\u00225d998299ee7b0288177492937cfd739c-1-gzip\u0022",
+    "lastModifiedUtc": "2026-11-10T00:01:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
