@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.yamato.lg.jp/gyosei/shiseijoho/shiminsanka/publiccomment/7752.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-11T06:00:57.399458+00:00",
+  "updatedUtc": "2026-11-11T21:21:11.914278+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00226ae8259e-e1e3\u0022",
-    "lastModifiedUtc": "2026-11-02T05:54:38Z"
+    "eTag": "\u00226af41486-e191\u0022",
+    "lastModifiedUtc": "2026-11-11T07:08:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
