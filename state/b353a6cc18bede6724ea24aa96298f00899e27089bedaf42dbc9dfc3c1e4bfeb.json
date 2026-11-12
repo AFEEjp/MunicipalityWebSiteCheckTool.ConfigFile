@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.suginami.tokyo.jp/kusei/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-12T10:57:39.0900441+00:00",
+  "updatedUtc": "2026-11-12T18:52:08.6008488+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022fc51-6600b82166896\u0022",
-    "lastModifiedUtc": "2026-11-12T03:00:03Z"
+    "eTag": "\u0022fc17-660159298019d\u0022",
+    "lastModifiedUtc": "2026-11-12T15:00:30Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
