@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.taito.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-13T00:14:33.2985272+00:00",
+  "updatedUtc": "2026-11-13T07:52:20.7292244+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022d1c0-6601d1fd0dada\u0022",
-    "lastModifiedUtc": "2026-11-13T00:01:04Z"
+    "eTag": "\u0022d1cf-66022fdb08215\u0022",
+    "lastModifiedUtc": "2026-11-13T07:01:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

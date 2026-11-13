@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.nagoya.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-13T00:14:31.54437+00:00",
+  "updatedUtc": "2026-11-13T07:52:18.6427463+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.city.nagoya.jp/shikai/kouhou/1030998/1054237/1054238/1054251.html",
       "currentUrl": "https://www.city.nagoya.jp/shikai/kouhou/1030998/1054237/1054238/1054251.html",
       "firstSeenAt": "2026-09-30T19:18:53.10489+00:00"
+    },
+    {
+      "key": "56642777a3f32ff58d59532f5cf4e143",
+      "title": "令和7年度決算に基づく健全化判断比率等審査意見書",
+      "firstUrl": "https://www.city.nagoya.jp/shisei/kansa/1030226/1030285/1054399.html",
+      "currentUrl": "https://www.city.nagoya.jp/shisei/kansa/1030226/1030285/1054399.html",
+      "firstSeenAt": "2026-11-13T07:52:18.6466467+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00221156f-66015d8600f08\u0022",
-    "lastModifiedUtc": "2026-11-12T15:20:01Z"
+    "eTag": "\u0022115bc-6601fe8354257\u0022",
+    "lastModifiedUtc": "2026-11-13T03:20:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.gifu.lg.jp/info/publiccomment/1008468/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-13T00:14:03.3030436+00:00",
+  "updatedUtc": "2026-11-13T07:51:45.1135702+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022fa93-6601d194fae7b\u0022",
-    "lastModifiedUtc": "2026-11-12T23:59:15Z"
+    "eTag": "\u0022fa93-6602255c0baec\u0022",
+    "lastModifiedUtc": "2026-11-13T06:14:04Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

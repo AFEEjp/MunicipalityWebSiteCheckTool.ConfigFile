@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.machida.tokyo.jp/shigo/kocyo/publiccomment/PublicComment_all.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-13T00:14:10.0103921+00:00",
+  "updatedUtc": "2026-11-13T07:51:57.0507353+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-12T03:03:18Z"
+    "lastModifiedUtc": "2026-11-13T03:03:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
