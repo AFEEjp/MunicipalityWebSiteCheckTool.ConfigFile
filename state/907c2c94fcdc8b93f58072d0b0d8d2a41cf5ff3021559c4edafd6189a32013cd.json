@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.city.shibuya.tokyo.jp/contents/news/",
   "feedType": "html",
-  "updatedUtc": "2026-11-12T18:51:45.1297261+00:00",
+  "updatedUtc": "2026-11-13T00:14:08.3774705+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "a8d9f31e04b49a884e331faf55681936",
+      "title": "2026年11月13日パブリック・コメント「渋谷区ジェンダー平等推進行動計画」（案）について意見を募集します区政情報",
+      "firstUrl": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/public-comment-boshu/2026004.html",
+      "currentUrl": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/public-comment-boshu/2026004.html",
+      "firstSeenAt": "2026-11-13T00:14:08.3813385+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
