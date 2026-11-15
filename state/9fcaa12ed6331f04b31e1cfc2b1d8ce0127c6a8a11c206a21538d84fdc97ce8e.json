@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.hino.lg.jp/rss.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-13T07:52:21.1443431+00:00",
+  "updatedUtc": "2026-11-15T17:01:43.4632352+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022b5ff-6602246940d2a\u0022",
-    "lastModifiedUtc": "2026-11-13T06:09:49Z"
+    "eTag": "\u0022a08b-660521fd68080\u0022",
+    "lastModifiedUtc": "2026-11-15T15:14:58Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

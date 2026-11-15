@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.okinawa.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-13T07:52:23.374358+00:00",
+  "updatedUtc": "2026-11-15T17:01:46.5394848+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.pref.okinawa.lg.jp/kyoiku/shogaifukushi/1007022/1018749/1041305.html",
       "currentUrl": "https://www.pref.okinawa.lg.jp/kyoiku/shogaifukushi/1007022/1018749/1041305.html",
       "firstSeenAt": "2026-09-17T04:48:45.6270392+00:00"
+    },
+    {
+      "key": "b217d4aa1d6f8b08c917a579bfb30329",
+      "title": "「第7次沖縄県男女共同参画計画～DEIGOプラン～（案）」に対する 意見募集",
+      "firstUrl": "https://www.pref.okinawa.lg.jp/kensei/kochokoho/1014932/1014936/1039425/1041966.html",
+      "currentUrl": "https://www.pref.okinawa.lg.jp/kensei/kochokoho/1014932/1014936/1039425/1041966.html",
+      "firstSeenAt": "2026-11-15T17:01:46.5401516+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022a49c-6602368f657ae\u0022",
-    "lastModifiedUtc": "2026-11-13T07:31:01Z"
+    "eTag": "\u00229732-66053306c8035\u0022",
+    "lastModifiedUtc": "2026-11-15T16:31:11Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

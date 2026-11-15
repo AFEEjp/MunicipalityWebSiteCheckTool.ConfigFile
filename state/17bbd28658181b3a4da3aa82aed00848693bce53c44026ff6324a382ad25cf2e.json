@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-13T07:51:48.8676096+00:00",
+  "updatedUtc": "2026-11-15T17:01:14.6551367+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "48d586c5dc58e6a6a4256f4e9c24cb67",
+      "title": "中野区立学校「子どもの意見を反映させた教育活動」 ―子どもたちの「やってみたい」を学校づくりへー",
+      "firstUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/gakkokyoiku/kodomonoiken.html",
+      "currentUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/gakkokyoiku/kodomonoiken.html",
+      "firstSeenAt": "2026-11-15T17:01:14.6575003+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-13T07:30:01Z"
+    "lastModifiedUtc": "2026-11-15T16:30:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

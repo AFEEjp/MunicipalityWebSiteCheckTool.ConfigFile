@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1039425/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-13T07:51:58.6340711+00:00",
+  "updatedUtc": "2026-11-15T17:01:23.4139215+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,11 +14,18 @@
       "key": "9c2858b519128c80ed32b37c33165b07",
       "title": "沖縄県ギャンブル等依存症対策推進計画(案)に対する県民意見募集",
       "firstSeenAt": "2026-09-17T04:48:21.3418414+00:00"
+    },
+    {
+      "key": "c18a5072e794b76edef7cc7421792e80",
+      "title": "「第7次沖縄県男女共同参画計画～DEIGOプラン～（案）」に対する 意見募集",
+      "firstUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1039425/1041966.html",
+      "currentUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1039425/1041966.html",
+      "firstSeenAt": "2026-11-15T17:01:23.4183892+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00228c95-66023188e53ee\u0022",
-    "lastModifiedUtc": "2026-11-13T07:08:32Z"
+    "eTag": "\u00228e93-66052df5c326d\u0022",
+    "lastModifiedUtc": "2026-11-15T16:08:31Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

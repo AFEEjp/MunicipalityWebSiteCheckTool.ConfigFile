@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.setagaya.lg.jp/02002/7778.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-13T07:51:49.2718455+00:00",
+  "updatedUtc": "2026-11-15T17:01:15.0824899+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -35,8 +35,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022884e-65d557cbc29ee\u0022",
-    "lastModifiedUtc": "2026-10-08T15:00:06Z"
+    "eTag": "\u00228a91-6603dced8f6af\u0022",
+    "lastModifiedUtc": "2026-11-14T15:00:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

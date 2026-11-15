@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.shinjuku.lg.jp/top_rss.rdf",
   "feedType": "rss",
-  "updatedUtc": "2026-11-13T07:52:20.9072615+00:00",
+  "updatedUtc": "2026-11-15T17:01:43.2531531+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "http://www.city.shinjuku.lg.jp/kusei/kikaku01_002189_00002.html",
       "currentUrl": "http://www.city.shinjuku.lg.jp/kusei/kikaku01_002189_00002.html",
       "firstSeenAt": "2026-09-17T04:48:43.2203992+00:00"
+    },
+    {
+      "key": "0c71364dd90a7e146f9da136608b2211",
+      "title": "早稲田南町児童館等複合施設新施設及び現施設活用方針の見直し内容の決定及び 意見募集等の実施結果について",
+      "firstUrl": "http://www.city.shinjuku.lg.jp/kusei/gyosei01_000001_00139.html",
+      "currentUrl": "http://www.city.shinjuku.lg.jp/kusei/gyosei01_000001_00139.html",
+      "firstSeenAt": "2026-11-15T17:01:43.2545405+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226af6b0e2-3e99\u0022",
-    "lastModifiedUtc": "2026-11-13T06:40:34Z"
+    "eTag": "\u00226af9321e-3f2f\u0022",
+    "lastModifiedUtc": "2026-11-15T04:16:30Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
