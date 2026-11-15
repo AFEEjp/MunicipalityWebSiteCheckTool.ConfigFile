@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.chiba.lg.jp/cate/kt/kenminsanka/ikenboshuu/iken/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-15T17:01:01.892533+00:00",
+  "updatedUtc": "2026-11-15T21:43:49.4868886+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00229f95-66041307dfa18\u0022",
-    "lastModifiedUtc": "2026-11-14T19:02:42Z"
+    "eTag": "\u00229ee1-660554d4db5e9\u0022",
+    "lastModifiedUtc": "2026-11-15T19:02:25Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/feed.php?siteNew=1\u0026displayCount=10\u0026displayRange=90\u0026includeShortcut=1",
   "feedType": "rss",
-  "updatedUtc": "2026-11-15T17:01:43.0888894+00:00",
+  "updatedUtc": "2026-11-15T21:44:19.1152648+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
