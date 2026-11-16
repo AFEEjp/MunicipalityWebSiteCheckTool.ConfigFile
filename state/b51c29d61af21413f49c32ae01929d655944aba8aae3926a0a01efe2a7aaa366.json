@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-16T09:32:07.2279512+00:00",
+  "updatedUtc": "2026-11-16T20:22:51.4534964+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,10 +18,17 @@
       "firstUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
       "currentUrl": "https://www.pref.kanagawa.jp/docs/m8u/pub/c7316078.html",
       "firstSeenAt": "2026-10-15T04:29:30.741907+00:00"
+    },
+    {
+      "key": "db1d28b58a12e86ae823abbd784a798d",
+      "title": "児童福祉法施行細則の一部を改正する規則（案）に関する意見募集の結果について",
+      "firstUrl": "https://www.pref.kanagawa.jp/docs/he8/pub/c3530406.html",
+      "currentUrl": "https://www.pref.kanagawa.jp/docs/he8/pub/c3530406.html",
+      "firstSeenAt": "2026-11-16T20:22:51.4564577+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-16T08:59:58Z"
+    "lastModifiedUtc": "2026-11-16T15:20:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
