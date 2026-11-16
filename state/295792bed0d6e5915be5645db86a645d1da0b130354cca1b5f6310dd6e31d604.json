@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.arakawa.tokyo.jp/kouhou/publiccomment/boshu/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-16T01:57:11.858358+00:00",
+  "updatedUtc": "2026-11-16T09:31:52.0095365+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223ec1-65fccea115512\u0022",
-    "lastModifiedUtc": "2026-11-09T00:19:25Z"
+    "eTag": "\u00223ec1-6605eb2ccf655\u0022",
+    "lastModifiedUtc": "2026-11-16T06:15:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
