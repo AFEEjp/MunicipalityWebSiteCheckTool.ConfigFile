@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.akita.lg.jp/feed/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-16T20:22:52.561603+00:00",
+  "updatedUtc": "2026-11-17T03:46:05.2013896+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,6 +11,13 @@
       "firstUrl": "https://www.pref.akita.lg.jp/pages/archive/91330",
       "currentUrl": "https://www.pref.akita.lg.jp/pages/archive/91330",
       "firstSeenAt": "2026-09-30T00:22:38.0851703+00:00"
+    },
+    {
+      "key": "624839b9eee646a0482f821a8afb5834",
+      "title": "二地域居住促進イベント「AKITA Good life seminar！秋田を知って、 ANAお試し二地域プランに参加しよう！」を開催します",
+      "firstUrl": "https://www.pref.akita.lg.jp/pages/archive/100667",
+      "currentUrl": "https://www.pref.akita.lg.jp/pages/archive/100667",
+      "firstSeenAt": "2026-11-17T03:46:05.2045175+00:00"
     }
   ],
   "httpCache": {},
