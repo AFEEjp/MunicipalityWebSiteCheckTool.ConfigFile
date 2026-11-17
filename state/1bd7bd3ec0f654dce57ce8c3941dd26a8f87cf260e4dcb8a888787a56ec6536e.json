@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-17T03:46:01.7862497+00:00",
+  "updatedUtc": "2026-11-17T13:14:57.993329+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "8e27c5052ff41634b773b8209aef0bb2",
+      "title": "400字からエントリー可能なビジネスプランコンテスト TOKYO STARTUP GATEWAY THE FINAL 開催",
+      "firstUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/11/2026111702",
+      "currentUrl": "https://www.metro.tokyo.lg.jp/information/press/2026/11/2026111702",
+      "firstSeenAt": "2026-11-17T13:14:57.9987619+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

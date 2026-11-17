@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-17T03:45:42.1674086+00:00",
+  "updatedUtc": "2026-11-17T13:14:37.9110921+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,14 +14,18 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-17T03:30:01Z"
+    "lastModifiedUtc": "2026-11-17T13:00:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
-    "consecutiveCount": 0,
+    "currentFingerprint": "migration-link|530d02d5bb019295f16f18dcc2108ed823fcd167fe2d7dffc2181d91b9eac7bb",
+    "consecutiveCount": 1,
+    "lastReason": "migration-link",
+    "lastCandidateUrl": "https://www.city.tokyo-nakano.lg.jp/event/heiwakousou.html",
+    "lastConfidence": "medium",
     "lastNotifiedFingerprint": "migration-link|f65322480d704b1fb3a327982cfa51bbea2a4dd6cf70db53da4c244fe3650f7b",
     "lastNotifiedUtc": "2026-09-24T09:56:24.8617181+00:00"
   }

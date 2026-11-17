@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.minato.tokyo.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-17T03:46:02.9772624+00:00",
+  "updatedUtc": "2026-11-17T13:14:59.337522+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00229891-66070174b6867\u0022",
-    "lastModifiedUtc": "2026-11-17T03:00:03Z"
+    "eTag": "\u0022981d-66076cce945dd\u0022",
+    "lastModifiedUtc": "2026-11-17T11:00:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
