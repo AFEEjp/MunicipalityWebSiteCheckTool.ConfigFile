@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.saitama.lg.jp/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-17T13:14:52.5571464+00:00",
+  "updatedUtc": "2026-11-17T22:15:30.7800428+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022819ac-ba2-66076fd482b21\u0022",
-    "lastModifiedUtc": "2026-11-17T11:13:52Z"
+    "eTag": "\u0022819ac-ba2-6607a4c102a04\u0022",
+    "lastModifiedUtc": "2026-11-17T15:10:38Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

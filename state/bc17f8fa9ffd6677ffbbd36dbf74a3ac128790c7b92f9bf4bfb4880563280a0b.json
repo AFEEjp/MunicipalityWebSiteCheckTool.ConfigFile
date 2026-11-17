@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.bunkyo.lg.jp/b003/p006165.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-17T13:14:39.9919207+00:00",
+  "updatedUtc": "2026-11-17T22:15:13.2457462+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -28,8 +28,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002251f0-65eab77f5fde4\u0022",
-    "lastModifiedUtc": "2026-10-25T15:00:05Z"
+    "eTag": "\u002251f0-6607a269edb09\u0022",
+    "lastModifiedUtc": "2026-11-17T15:00:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
