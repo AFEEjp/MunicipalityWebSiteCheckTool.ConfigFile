@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.yokohama.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-18T13:53:15.104383+00:00",
+  "updatedUtc": "2026-11-18T21:53:05.8403176+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00221c843-6608d3833a85a\u0022",
-    "lastModifiedUtc": "2026-11-18T13:45:09Z"
+    "eTag": "\u00221c843-66093ecd3b107\u0022",
+    "lastModifiedUtc": "2026-11-18T21:45:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
