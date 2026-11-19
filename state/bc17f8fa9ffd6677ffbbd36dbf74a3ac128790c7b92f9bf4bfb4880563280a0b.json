@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.bunkyo.lg.jp/b003/p006165.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-19T12:54:45.6162837+00:00",
+  "updatedUtc": "2026-11-19T21:26:45.6392183+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -25,11 +25,18 @@
       "firstUrl": "https://www.city.bunkyo.lg.jp/b093/p007803.html",
       "currentUrl": "https://www.city.bunkyo.lg.jp/b093/p007803.html",
       "firstSeenAt": "2026-09-17T04:48:15.9307848+00:00"
+    },
+    {
+      "key": "019c5028b2d9bd5393e174c0619ab4f9",
+      "title": "文京区男女平等参画推進計画（素案）について",
+      "firstUrl": "https://www.city.bunkyo.lg.jp/b005/p006206.html",
+      "currentUrl": "https://www.city.bunkyo.lg.jp/b005/p006206.html",
+      "firstSeenAt": "2026-11-19T21:26:45.6423665+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002251f0-6607a269edb09\u0022",
-    "lastModifiedUtc": "2026-11-17T15:00:10Z"
+    "eTag": "\u00225a01-660a262de6792\u0022",
+    "lastModifiedUtc": "2026-11-19T15:00:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
