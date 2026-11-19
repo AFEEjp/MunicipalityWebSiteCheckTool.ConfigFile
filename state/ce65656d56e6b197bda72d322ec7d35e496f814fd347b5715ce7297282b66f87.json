@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.saga.lg.jp/new_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-19T03:18:09.5991771+00:00",
+  "updatedUtc": "2026-11-19T12:54:58.9481031+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022fbbabf31d377dd1:0\u0022",
-    "lastModifiedUtc": "2026-11-19T03:08:04Z"
+    "eTag": "\u0022411b8831d78dd1:0\u0022",
+    "lastModifiedUtc": "2026-11-19T12:00:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
