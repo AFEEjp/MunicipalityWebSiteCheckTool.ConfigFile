@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.toyama.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-20T03:05:07.4966621+00:00",
+  "updatedUtc": "2026-11-20T11:25:51.2229696+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002220b5-660a2cf4e1cce\u0022",
-    "lastModifiedUtc": "2026-11-19T15:30:39Z"
+    "eTag": "\u00222096-660b06c50cace\u0022",
+    "lastModifiedUtc": "2026-11-20T07:45:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
