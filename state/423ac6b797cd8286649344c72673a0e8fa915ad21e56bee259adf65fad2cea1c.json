@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.niigata.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-19T21:27:12.9406034+00:00",
+  "updatedUtc": "2026-11-20T03:05:12.0791065+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.pref.niigata.lg.jp/sec/kansa/1356757080466.html",
       "currentUrl": "https://www.pref.niigata.lg.jp/sec/kansa/1356757080466.html",
       "firstSeenAt": "2026-09-30T06:39:37.939877+00:00"
+    },
+    {
+      "key": "1b5c0663ec64d563454a2c3bee2927b9",
+      "title": "「新潟県における近世・近代の埋蔵文化財保護に関する基準」（案）に対する ご意見の募集結果をお知らせします",
+      "firstUrl": "https://www.pref.niigata.lg.jp/sec/bunka/kinseikindaikekka.html",
+      "currentUrl": "https://www.pref.niigata.lg.jp/sec/bunka/kinseikindaikekka.html",
+      "firstSeenAt": "2026-11-20T03:05:12.08114+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022b1e4-660a772436140-gzip\u0022",
-    "lastModifiedUtc": "2026-11-19T21:02:33Z"
+    "eTag": "\u0022affb-660ac7a0f4b8a-gzip\u0022",
+    "lastModifiedUtc": "2026-11-20T03:02:38Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

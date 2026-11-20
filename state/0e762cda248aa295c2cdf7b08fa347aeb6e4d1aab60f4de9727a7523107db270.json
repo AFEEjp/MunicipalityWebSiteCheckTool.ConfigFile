@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kagawa.lg.jp/cgi-bin/page/list.php?tpl_type=2\u0026page_type=9",
   "feedType": "html",
-  "updatedUtc": "2026-11-19T21:27:01.8537179+00:00",
+  "updatedUtc": "2026-11-20T03:05:00.9896804+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -25,6 +25,13 @@
       "firstUrl": "https://www.pref.kagawa.lg.jp/dowaseisaku/keikaku/r8pabukome1.html",
       "currentUrl": "https://www.pref.kagawa.lg.jp/dowaseisaku/keikaku/r8pabukome1.html",
       "firstSeenAt": "2026-11-04T06:06:43.1249043+00:00"
+    },
+    {
+      "key": "9c95fc2c27653ad05a99c889ad1d0c20",
+      "title": "かがわ男女共同参画プラン次期計画（素案）についてパブリック・コメント（意見公募）を実施する予定です",
+      "firstUrl": "https://www.pref.kagawa.lg.jp/kenmin/sankaku/topics/202611.html",
+      "currentUrl": "https://www.pref.kagawa.lg.jp/kenmin/sankaku/topics/202611.html",
+      "firstSeenAt": "2026-11-20T03:05:00.9906036+00:00"
     }
   ],
   "httpCache": {},

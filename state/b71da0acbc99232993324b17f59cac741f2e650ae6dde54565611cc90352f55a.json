@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/menu/32767.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-19T21:26:51.4761802+00:00",
+  "updatedUtc": "2026-11-20T03:04:51.4865066+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -14,8 +14,7 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022e834-6609a0115520e\u0022",
-    "lastModifiedUtc": "2026-11-19T05:00:19Z"
+    "lastModifiedUtc": "2026-11-20T01:00:31Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
