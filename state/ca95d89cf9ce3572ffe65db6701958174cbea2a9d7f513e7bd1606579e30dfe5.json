@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-20T11:25:47.7014295+00:00",
+  "updatedUtc": "2026-11-23T21:16:07.4162268+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -60,11 +60,18 @@
       "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000247\u0026Mode=0",
       "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=141000247\u0026Mode=0",
       "firstSeenAt": "2026-11-10T02:01:22.5048004+00:00"
+    },
+    {
+      "key": "3309a2978d75f4067fd5d9d2c6704a65",
+      "title": "特定デジタルプラットフォームの透明性及び公正性の向上に関する法律に基づく特定デジタルプラットフォームに対する経済産業大臣による評価（案）に対する意見公募について",
+      "firstUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=595320123\u0026Mode=0",
+      "currentUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL\u0026id=595320123\u0026Mode=0",
+      "firstSeenAt": "2026-11-23T21:16:07.4195827+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00222a7e12dabb468a3b1b049949b10d14b8-1-gzip\u0022",
-    "lastModifiedUtc": "2026-11-20T00:01:12Z"
+    "eTag": "\u0022b5ef6e6d566d3ce41d7e6b911aca87b4-1-gzip\u0022",
+    "lastModifiedUtc": "2026-11-23T00:01:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

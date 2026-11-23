@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fujisawa.kanagawa.jp/soudanc2-1/shise/kocho/p-comment/jokyo/index7.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-20T11:25:41.2913623+00:00",
+  "updatedUtc": "2026-11-23T21:16:01.3481939+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00225be6-66015fc5b7412\u0022",
-    "lastModifiedUtc": "2026-11-12T15:30:04Z"
+    "eTag": "\u00225b8e-660f3448318ac\u0022",
+    "lastModifiedUtc": "2026-11-23T15:30:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
