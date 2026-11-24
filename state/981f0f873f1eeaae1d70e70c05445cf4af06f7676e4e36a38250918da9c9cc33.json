@@ -2,12 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamanashi.jp/gyoukaku/public/gyoukaku/boshuchu.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-24T05:57:41.7624572+00:00",
+  "updatedUtc": "2026-11-24T17:33:43.9274932+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "f03d78ce75ed83fe05d575292652de13",
+      "title": "富士トラムネットワーク構想（素案）及び",
+      "firstUrl": "https://www.pref.yamanashi.jp/gyoukaku/public/fujisan-hz/fuji-tram.html",
+      "currentUrl": "https://www.pref.yamanashi.jp/gyoukaku/public/fujisan-hz/fuji-tram.html",
+      "firstSeenAt": "2026-11-24T17:33:43.9301979+00:00"
+    }
+  ],
   "httpCache": {
-    "eTag": "\u002231bb-65f4c66ad8acc\u0022",
-    "lastModifiedUtc": "2026-11-02T15:00:05Z"
+    "eTag": "\u00223324-66106f76b6cbd\u0022",
+    "lastModifiedUtc": "2026-11-24T15:00:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
