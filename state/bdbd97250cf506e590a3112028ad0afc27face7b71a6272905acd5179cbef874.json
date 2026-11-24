@@ -2,9 +2,17 @@
   "version": 1,
   "feedUrl": "https://com.city.okayama.jp/cmsform/form_list.php?cd=2",
   "feedType": "html",
-  "updatedUtc": "2026-11-23T21:15:44.7607921+00:00",
+  "updatedUtc": "2026-11-24T05:57:44.0966568+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "2cf7fd1643f81a62356bb7b862f579a7",
+      "title": "岡山市男女共同参画社会の形成の促進に関する基本計画（第6次さんかくプラン）素案への意見募集（パブリックコメント）について（令和8年11月24日から令和8年12月23日まで）",
+      "firstUrl": "https://com.city.okayama.jp/cmsform/enquete.php?id=959",
+      "currentUrl": "https://com.city.okayama.jp/cmsform/enquete.php?id=959",
+      "firstSeenAt": "2026-11-24T05:57:44.0983394+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

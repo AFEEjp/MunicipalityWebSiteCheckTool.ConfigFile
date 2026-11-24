@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.chiba.jp/shimin/shimin/jichi/public_comment.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-23T21:15:34.9697774+00:00",
+  "updatedUtc": "2026-11-24T05:57:32.385998+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -98,8 +98,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022dd4b-65f892da89a43\u0022",
-    "lastModifiedUtc": "2026-11-05T15:30:41Z"
+    "eTag": "\u0022d9b3-660fcec762606\u0022",
+    "lastModifiedUtc": "2026-11-24T03:01:15Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

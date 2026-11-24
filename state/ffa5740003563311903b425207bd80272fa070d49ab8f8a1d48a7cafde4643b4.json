@@ -1,13 +1,13 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.city.sapporo.jp/somu/pub-comment/index.html",
+  "feedUrl": "https://www.city.sapporo.jp/s004/23130.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-23T21:15:34.1532421+00:00",
+  "updatedUtc": "2026-11-24T05:57:31.2887209+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022785ad0ae766add1:0\u0022",
-    "lastModifiedUtc": "2026-11-02T03:03:06Z"
+    "eTag": "\u0022573a-660a10653e7a4\u0022",
+    "lastModifiedUtc": "2026-11-19T13:22:52Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
