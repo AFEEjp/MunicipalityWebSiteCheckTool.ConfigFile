@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.sapporo.jp/s004/23130.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-24T17:33:35.3417177+00:00",
+  "updatedUtc": "2026-11-25T02:20:32.5778171+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022573a-660a10653e7a4\u0022",
-    "lastModifiedUtc": "2026-11-19T13:22:52Z"
+    "eTag": "\u0022570a-6610eb7e66c17\u0022",
+    "lastModifiedUtc": "2026-11-25T00:15:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

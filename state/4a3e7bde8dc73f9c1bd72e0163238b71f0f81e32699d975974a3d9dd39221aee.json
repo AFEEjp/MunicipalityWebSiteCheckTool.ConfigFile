@@ -2,20 +2,20 @@
   "version": 1,
   "feedUrl": "https://www.pref.ibaraki.jp/bugai/koho/kenmin/category/public-comment.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-24T17:34:01.3596471+00:00",
+  "updatedUtc": "2026-11-25T02:21:03.5426104+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "407d04ea34ccd7031d3015a1acc1ead9",
-      "title": "茨城県人権施策推進基本計画（第二次）（案）に関する意見募集について",
+      "title": "茨城県人権施策推進基本計画（第二次）（案）に関する意見募集",
       "firstUrl": "https://www.pref.ibaraki.jp/hokenfukushi/fukushi/jinken/jinkenkeikaku_publiccomment.html",
       "currentUrl": "https://www.pref.ibaraki.jp/hokenfukushi/fukushi/jinken/jinkenkeikaku_publiccomment.html",
       "firstSeenAt": "2026-11-17T22:15:26.1470048+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00224779-66095cf6a8d71\u0022",
-    "lastModifiedUtc": "2026-11-19T00:00:06Z"
+    "eTag": "\u002248e8-661102f95baf6\u0022",
+    "lastModifiedUtc": "2026-11-25T02:00:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
