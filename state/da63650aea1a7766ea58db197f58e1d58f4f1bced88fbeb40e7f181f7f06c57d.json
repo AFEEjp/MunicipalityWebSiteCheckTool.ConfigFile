@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.okayama.jp/rss/rss_topics_shisei.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-25T02:21:12.6342118+00:00",
+  "updatedUtc": "2026-11-25T12:43:05.896758+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "612c7e07617d1752819d1be2bc6dd50e",
+      "title": "（仮称）岡山市歴史文化資源をつなぐまちづくり条例（案）への意見募集について（令和8年11月25日から12月25日）",
+      "firstUrl": "https://www.city.okayama.jp/gikai/0000086219.html",
+      "currentUrl": "https://www.city.okayama.jp/gikai/0000086219.html",
+      "firstSeenAt": "2026-11-25T12:43:05.8978156+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-25T02:04:19Z"
+    "lastModifiedUtc": "2026-11-25T12:34:12Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

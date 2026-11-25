@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.gifu.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-25T02:21:11.4222819+00:00",
+  "updatedUtc": "2026-11-25T12:43:04.7481548+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,11 +11,18 @@
       "firstUrl": "https://www.pref.gifu.lg.jp/bid/bid/515936.html",
       "currentUrl": "https://www.pref.gifu.lg.jp/bid/bid/515936.html",
       "firstSeenAt": "2026-10-13T07:40:48.195515+00:00"
+    },
+    {
+      "key": "df39b96084dc3b2143ab45a2f4862831",
+      "title": "岐阜県文化芸術振興基本計画(仮称)推進会議を開催します",
+      "firstUrl": "https://www.pref.gifu.lg.jp/site/pressrelease/528871.html",
+      "currentUrl": "https://www.pref.gifu.lg.jp/site/pressrelease/528871.html",
+      "firstSeenAt": "2026-11-25T12:43:04.7507174+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002211478-661106be196d7\u0022",
-    "lastModifiedUtc": "2026-11-25T02:16:57Z"
+    "eTag": "\u00221143e-6611903832c26\u0022",
+    "lastModifiedUtc": "2026-11-25T12:32:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

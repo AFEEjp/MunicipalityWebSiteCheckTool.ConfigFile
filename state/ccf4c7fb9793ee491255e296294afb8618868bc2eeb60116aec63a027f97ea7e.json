@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kita.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-25T02:21:14.5065523+00:00",
+  "updatedUtc": "2026-11-25T12:43:06.7703981+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,11 +18,18 @@
       "firstUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1007588/1024798.html",
       "currentUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1007588/1024798.html",
       "firstSeenAt": "2026-10-16T01:16:21.2200266+00:00"
+    },
+    {
+      "key": "ba46b72bd18c37e0fffb59a4100648b3",
+      "title": "東京都北区放課後子ども総合プラン事業（わくわく☆ひろば）業務委託プロポーザルの実施及び実施結果について",
+      "firstUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026068.html",
+      "currentUrl": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026068.html",
+      "firstSeenAt": "2026-11-25T12:43:06.7716296+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u002210ad1-661104c8150b1\u0022",
-    "lastModifiedUtc": "2026-11-25T02:08:11Z"
+    "eTag": "\u002210a97-66118ae4afe21\u0022",
+    "lastModifiedUtc": "2026-11-25T12:08:11Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
