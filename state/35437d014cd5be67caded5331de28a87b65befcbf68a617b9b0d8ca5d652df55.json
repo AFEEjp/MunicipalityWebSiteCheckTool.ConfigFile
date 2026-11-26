@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.miyagi.jp/soshiki/kohou/r6publiccom.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-26T04:58:39.9600158+00:00",
+  "updatedUtc": "2026-11-26T15:03:57.7792115+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022900f-65260119164e0\u0022",
-    "lastModifiedUtc": "2026-05-22T04:00:25Z"
+    "eTag": "\u00228a26-6612b352c2e88\u0022",
+    "lastModifiedUtc": "2026-11-26T10:14:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
