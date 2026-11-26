@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.nagasaki.jp/public-comments/",
   "feedType": "html",
-  "updatedUtc": "2026-11-26T15:04:15.6590003+00:00",
+  "updatedUtc": "2026-11-26T23:47:02.1992299+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022d07a-6612a011e3746-gzip\u0022",
-    "lastModifiedUtc": "2026-11-26T08:48:15Z"
+    "eTag": "\u0022d07a-661364195b72b-gzip\u0022",
+    "lastModifiedUtc": "2026-11-26T23:25:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

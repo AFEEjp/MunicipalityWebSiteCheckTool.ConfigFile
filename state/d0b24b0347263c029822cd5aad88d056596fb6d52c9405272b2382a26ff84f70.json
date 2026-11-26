@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.iwate.jp/public_comment/1097882/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-11-26T15:04:00.6841351+00:00",
+  "updatedUtc": "2026-11-26T23:46:48.9370026+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -63,11 +63,18 @@
       "firstUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099520.html",
       "currentUrl": "https://www.pref.iwate.jp/public_comment/1097882/1099520.html",
       "firstSeenAt": "2026-09-17T06:42:55.705041+00:00"
+    },
+    {
+      "key": "c58fa46ea0011840c3651f2f05bd60c8",
+      "title": "「いわての子どもを健やかに育む条例の一部を改正する条例」骨子案に対する意見募集",
+      "firstUrl": "https://www.pref.iwate.jp/public_comment/1097882/1103427.html",
+      "currentUrl": "https://www.pref.iwate.jp/public_comment/1097882/1103427.html",
+      "firstSeenAt": "2026-11-26T23:46:48.9425633+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022a8da-6612c25408022\u0022",
-    "lastModifiedUtc": "2026-11-26T11:21:31Z"
+    "eTag": "\u0022aa1d-661363ab8d677\u0022",
+    "lastModifiedUtc": "2026-11-26T23:23:21Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
