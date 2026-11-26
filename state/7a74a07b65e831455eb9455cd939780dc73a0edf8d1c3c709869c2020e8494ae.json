@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-11-25T22:28:28.305294+00:00",
+  "updatedUtc": "2026-11-26T04:59:11.9760766+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -11,10 +11,17 @@
       "firstUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7316996",
       "currentUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7316996",
       "firstSeenAt": "2026-10-26T06:05:30.8771546+00:00"
+    },
+    {
+      "key": "ebf0e4468f5591136348e2717061f887",
+      "title": "「徳島県人権条例（仮称）素案」について県民の皆さんのご意見を募集します。",
+      "firstUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7318014",
+      "currentUrl": "https://www.pref.tokushima.lg.jp/public_comment/7308704/7308705/7318014",
+      "firstSeenAt": "2026-11-26T04:59:11.9774214+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-25T22:00:04Z"
+    "lastModifiedUtc": "2026-11-26T04:30:04Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
