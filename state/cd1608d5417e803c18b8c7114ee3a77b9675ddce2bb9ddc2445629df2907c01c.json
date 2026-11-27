@@ -2,11 +2,19 @@
   "version": 1,
   "feedUrl": "https://www.city.sumida.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-11-26T23:47:11.6936628+00:00",
+  "updatedUtc": "2026-11-27T08:15:40.3787768+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "1a973653b43cade1a5bb06181dbef78a",
+      "title": "【募集期間：令和8年12月8日から令和9年1月12日まで】「墨田区人権啓発基本計画」中間見直し（案）に対するご意見等（パブリックコメント）を募集します",
+      "firstUrl": "https://www.city.sumida.lg.jp/iken_yobo/public_comment/pbc/jinkenkeihatsu.html",
+      "currentUrl": "https://www.city.sumida.lg.jp/iken_yobo/public_comment/pbc/jinkenkeihatsu.html",
+      "firstSeenAt": "2026-11-27T08:15:40.3824412+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-11-26T23:00:03Z"
+    "lastModifiedUtc": "2026-11-27T08:00:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
